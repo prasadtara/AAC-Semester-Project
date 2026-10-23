@@ -1,8 +1,8 @@
 from agents.contracts import Candidate, SentenceResult, VerifyResult, Symbol, PredictionRequest
-from agents.qwen_client import QwenClient
+from agents.qwen_client import GemmaClient
 
 # Initialize client in colab mode
-client = QwenClient(mode="colab")
+client = GemmaClient(mode="colab")
 
 def stub_prediction_agent(request: PredictionRequest) -> list[Candidate]:
     return [Candidate(symbol=Symbol(symbol_id="1", text="want"), score=0.9)]
