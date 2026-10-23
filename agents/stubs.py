@@ -1,5 +1,5 @@
 from agents.contracts import Candidate, SentenceResult, VerifyResult, Symbol, PredictionRequest
-from agents.qwen_client import GemmaClient
+from agents.gemma_client import GemmaClient
 
 # Initialize client in colab mode
 client = GemmaClient(mode="colab")
