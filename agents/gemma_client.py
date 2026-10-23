@@ -18,12 +18,12 @@ class GemmaClient:
                 device_map="auto"
             )
         elif self.mode == "local":
-            # Gemma local endpoint used by your partner
+            # Gemma local endpoint used
             self.url = "http://localhost:11434/api/generate"
             self.local_model = "gemma4:12b"
 
     def generate(self, prompt: str, max_tokens: int = 150) -> str:
-        # Ensure thinking mode is turned off as specified in your weekly plan
+        # Ensure thinking mode is turned off 
         formatted_prompt = f"/no_think {prompt}"
         
         if self.mode == "colab":
