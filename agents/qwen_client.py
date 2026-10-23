@@ -1,7 +1,7 @@
 import os
 import requests
 
-class QwenClient:
+class GemmaClient:
     def __init__(self, mode="colab", model_name="Gemma/gemma4:12b"):
         self.mode = mode
         self.model_name = model_name
