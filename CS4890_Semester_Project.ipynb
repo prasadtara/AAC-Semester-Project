@@ -1,0 +1,99 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOL39B0VIpORgcgIQUi1JvR",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/prasadtara/AAC-Semester-Project/blob/main/CS4890_Semester_Project.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 7,
+      "metadata": {
+        "id": "afzw7ph2zxiI",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "1eac30e0-d45c-42d4-d193-64ed0ca0cbef"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Wrote 246 lines to lm_test_comm_normalized_data.txt\n",
+            "Wrote 58 lines to lm_test_switch_normalized_data.txt\n",
+            "Wrote 589 lines to dialogues_text_normalized_data.txt\n",
+            "Wrote 61454 lines to vocab_aac_twitter_normalized_data.txt\n",
+            "Wrote 513 lines to dialogues_train_normalized_data.txt\n",
+            "Wrote 4441 lines to sent_train_aac_normalized_data.txt\n",
+            "Wrote 325390 lines to american_words_normalized_data.txt\n",
+            "Wrote 542 lines to sent_test_aac_normalized_data.txt\n",
+            "Wrote 537 lines to sent_dev_aac_normalized_data.txt\n"
+          ]
+        }
+      ],
+      "source": [
+        "import re, unicodedata, os\n",
+        "\n",
+        "def normalize(s):\n",
+        "  s = unicodedata.normalize(\"NFKC\", s)\n",
+        "  s = s.replace(\"_eou_\", \" \")\n",
+        "  s = s.replace(\"’\", \"'\").replace(\"‘\", \"'\").replace(\"“\", '\"').replace(\"”\", '\"')\n",
+        "  # Remove all punctuation and special characters, leaving only alphanumeric characters and whitespace\n",
+        "  s = re.sub(r\"[^\\w\\s]\", \"\", s)\n",
+        "  # Replace consecutive whitespace characters with a single space\n",
+        "  s = re.sub(r\"\\s+\", \" \", s).strip()\n",
+        "  return s\n",
+        "\n",
+        "def key(s):\n",
+        "  return s.lower().strip()\n",
+        "\n",
+        "files = {\"american_words.txt\", \"dialogues_text.txt\", \"dialogues_train.txt\", \"lm_test_comm.txt\", \"lm_test_switch.txt\",\n",
+        "         \"sent_dev_aac.txt\", \"sent_test_aac.txt\", \"sent_train_aac.txt\",\n",
+        "         \"vocab_aac_twitter.txt\"}\n",
+        "\n",
+        "for file_path in files:\n",
+        "    if not os.path.exists(file_path):\n",
+        "      print(f\"File '{file_path}' not found\")\n",
+        "      continue\n",
+        "\n",
+        "    with open(file_path, 'r', encoding='utf-8') as file:\n",
+        "      lines = [normalize(l) for l in file]\n",
+        "      lines = [l for l in lines if re.search(r\"[A-Za-z]\", l) and 1 <= len(l.split()) <=25]\n",
+        "\n",
+        "      seen, clean = set(), []\n",
+        "      for l in lines:\n",
+        "        k = key(l)\n",
+        "        if k not in seen:\n",
+        "          seen.add(k); clean.append(l)\n",
+        "\n",
+        "    basename = os.path.basename(file_path).replace('.txt', '_normalized_data.txt')\n",
+        "    with open (basename, 'w', encoding='utf-8') as outfile:\n",
+        "      for l in clean:\n",
+        "        outfile.write(l + '\\n')\n",
+        "      print(f\"Wrote {len(clean)} lines to {basename}\")"
+      ]
+    }
+  ]
+}
