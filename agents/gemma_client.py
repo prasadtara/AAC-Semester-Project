@@ -1,8 +1,8 @@
 import os
 import requests
 
-class GemmaClient:
-    def __init__(self, mode="colab", model_name="Gemma/gemma4:12b"):
+class QwenClient:
+    def __init__(self, mode="colab", model_name="Qwen/qwen3.8:27b"):
         self.mode = mode
         self.model_name = model_name
         
@@ -20,7 +20,7 @@ class GemmaClient:
         elif self.mode == "local":
             # Gemma local endpoint used
             self.url = "http://localhost:11434/api/generate"
-            self.local_model = "gemma4:12b"
+            self.local_model = "qwen3.8:27b"
 
     def generate(self, prompt: str, max_tokens: int = 150) -> str:
         # Ensure thinking mode is turned off 
