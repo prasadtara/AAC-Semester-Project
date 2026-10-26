@@ -7,14 +7,21 @@ class QwenClient:
         self.model_name = model_name
         
         if self.mode == "colab":
-            print(f"Loading {self.model_name} in Colab using transformers...")
+            print(f"Loading {self.model_name} in Colab with 4-bit quantization...")
             import torch
-            from transformers import AutoModelForCausalLM, AutoTokenizer
+            from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+            
+            # Configure 4-bit quantization to prevent disk/CPU offloading bottleneck
+            quantization_config = BitsAndBytesConfig(
+                load_in_4bit=True,
+                bnb_4bit_compute_dtype=torch.float16,
+                bnb_4bit_quant_type="nf4"
+            )
             
             self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.model_name,
-                torch_dtype=torch.float16,
+                quantization_config=quantization_config,
                 device_map="auto"
             )
         elif self.mode == "local":
