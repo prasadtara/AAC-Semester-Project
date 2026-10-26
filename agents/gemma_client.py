@@ -18,7 +18,7 @@ class QwenClient:
                 device_map="auto"
             )
         elif self.mode == "local":
-            # Gemma local endpoint used
+            # Qwen local endpoint used
             self.url = "http://localhost:11434/api/generate"
             self.local_model = "qwen3.8:27b"
 
