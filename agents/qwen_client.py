@@ -2,7 +2,7 @@ import os
 import requests
 
 class QwenClient:
-    def __init__(self, mode="colab", model_name="Qwen/qwen3.8:27b"):
+    def __init__(self, mode="colab", model_name="Qwen/qwen3:1.7b"):
         self.mode = mode
         self.model_name = model_name
         
@@ -27,7 +27,7 @@ class QwenClient:
         elif self.mode == "local":
             # Qwen local endpoint used
             self.url = "http://localhost:11434/api/generate"
-            self.local_model = "qwen3.8:27b"
+            self.local_model = "qwen3:1.7b"
 
     def generate(self, prompt: str, max_tokens: int = 150) -> str:
         # Ensure thinking mode is turned off 
