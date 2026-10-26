@@ -2,7 +2,7 @@ import os
 import requests
 
 class QwenClient:
-    def __init__(self, mode="colab", model_name="Qwen/qwen3:1.7b"):
+    def __init__(self, mode="colab", model_name="Qwen/Qwen2.5-7B-Instruct"):
         self.mode = mode
         self.model_name = model_name
         
@@ -25,9 +25,9 @@ class QwenClient:
                 device_map="auto"
             )
         elif self.mode == "local":
-            # Qwen local endpoint used
+            # Qwen local endpoint used (make sure you've run `ollama pull qwen2.5:7b`)
             self.url = "http://localhost:11434/api/generate"
-            self.local_model = "qwen3:1.7b"
+            self.local_model = "qwen2.5:7b"
 
     def generate(self, prompt: str, max_tokens: int = 150) -> str:
         # Ensure thinking mode is turned off 
