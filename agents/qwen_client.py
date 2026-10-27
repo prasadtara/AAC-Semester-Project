@@ -2,18 +2,18 @@ import os
 import requests
 
 class QwenClient:
-    def __init__(self, mode="colab", model_name="Qwen/Qwen3-1.7B-Instruct"):
+    def __init__(self, mode="colab", model_name="Qwen/Qwen3-1.7B"):
         self.mode = mode
         self.model_name = model_name
         
         if self.mode == "colab":
-            print(f"Loading {self.model_name} in Colab (Full Precision / Non-Quantized)...")
+            print(f"Loading {self.model_name} in Colab...")
             import torch
             from transformers import AutoModelForCausalLM, AutoTokenizer
             
             self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
             
-            # Load in standard half precision without bitsandbytes quantization
+            # Load in standard half precision
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.model_name,
                 torch_dtype=torch.bfloat16 if torch.cuda.is_bf16_supported() else torch.float16,
