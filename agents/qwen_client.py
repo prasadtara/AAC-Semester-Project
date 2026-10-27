@@ -2,7 +2,7 @@ import os
 import requests
 
 class QwenClient:
-    def __init__(self, mode="colab", model_name="Qwen/Qwen2.5-1.5B-Instruct"):
+    def __init__(self, mode="colab", model_name="Qwen/Qwen2.5-7B-Instruct"):
         self.mode = mode
         self.model_name = model_name
         
@@ -11,7 +11,7 @@ class QwenClient:
             import torch
             from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
             
-            # Configure 4-bit quantization to prevent disk/CPU offloading bottleneck
+            # Configure 4-bit quantization to prevent memory bottlenecks
             quantization_config = BitsAndBytesConfig(
                 load_in_4bit=True,
                 bnb_4bit_compute_dtype=torch.float16,
@@ -24,10 +24,20 @@ class QwenClient:
                 quantization_config=quantization_config,
                 device_map="auto"
             )
+            
         elif self.mode == "local":
-            # Qwen local endpoint used (make sure you've run `ollama pull qwen2.5:1.5b`)
+            # Automatically map HuggingFace model name to Ollama tag format
+            if "7b" in self.model_name.lower():
+                self.local_model = "qwen2.5:7b"
+            elif "14b" in self.model_name.lower():
+                self.local_model = "qwen2.5:14b"
+            elif "32b" in self.model_name.lower():
+                self.local_model = "qwen2.5:32b"
+            else:
+                self.local_model = "qwen2.5:1.5b"
+                
             self.url = "http://localhost:11434/api/generate"
-            self.local_model = "qwen2.5:1.5b"
+            print(f"Using local Ollama model: {self.local_model}")
 
     def generate(self, prompt: str, max_tokens: int = 150) -> str:
         # Ensure thinking mode is turned off 
