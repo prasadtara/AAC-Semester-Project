@@ -2,7 +2,7 @@ import os
 import requests
 
 class QwenClient:
-    def __init__(self, mode="colab", model_name="Qwen/Qwen3-1.7B"):
+    def __init__(self, mode="colab", model_name="Qwen/Qwen2.5-1.5B"):
         self.mode = mode
         self.model_name = model_name
         
