@@ -37,10 +37,11 @@ class QwenClient:
             self.url = "http://localhost:11434/api/generate"
             print(f"Using local Ollama model: {self.local_model}")
 
-    def generate(self, prompt: str, max_tokens: int = 150, enable_thinking: bool = False) -> str:
+   def generate(self, prompt: str, max_tokens: int = 150, enable_thinking: bool = False) -> str:
         if self.mode == "colab":
             messages = [{"role": "user", "content": prompt}]
             
+            # Format prompt with chat template
             text = self.tokenizer.apply_chat_template(
                 messages,
                 tokenize=False,
@@ -48,23 +49,29 @@ class QwenClient:
                 enable_thinking=enable_thinking
             )
             
+            # Tokenize prompt
             inputs = self.tokenizer(text, return_tensors="pt").to(self.model.device)
+            prompt_length = inputs["input_ids"].shape[1]
+            
+            # Generate new tokens
             outputs = self.model.generate(
                 **inputs, 
                 max_new_tokens=max_tokens,
                 do_sample=True,
                 temperature=0.7
             )
-            response_text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
             
-            # Clean up template prompt and any hidden thoughts
-            raw_output = response_text[len(text):].strip()
+            # Slice only the newly generated tokens (skipping the prompt tokens)
+            generated_tokens = outputs[0][prompt_length:]
             
-            # If thinking mode accidentally outputted tags, clear them out
-            if "</think>" in raw_output:
-                raw_output = raw_output.split("</think>")[-1].strip()
+            # Decode generated output
+            response_text = self.tokenizer.decode(generated_tokens, skip_special_tokens=True).strip()
+            
+            # Clean up thinking tags if present
+            if "</think>" in response_text:
+                response_text = response_text.split("</think>")[-1].strip()
                 
-            return raw_output
+            return response_text
             
         elif self.mode == "local":
             formatted_prompt = prompt if enable_thinking else f"/no_think {prompt}"
