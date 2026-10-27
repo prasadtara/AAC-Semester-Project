@@ -56,7 +56,15 @@ class QwenClient:
                 temperature=0.7
             )
             response_text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-            return response_text[len(text):].strip()
+            
+            # Clean up template prompt and any hidden thoughts
+            raw_output = response_text[len(text):].strip()
+            
+            # If thinking mode accidentally outputted tags, clear them out
+            if "</think>" in raw_output:
+                raw_output = raw_output.split("</think>")[-1].strip()
+                
+            return raw_output
             
         elif self.mode == "local":
             formatted_prompt = prompt if enable_thinking else f"/no_think {prompt}"
