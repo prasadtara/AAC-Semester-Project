@@ -1,0 +1,1174 @@
+{"text": "The kitchen stinks Ill throw out the garbage", "symbols": ["room", "out"]}
+{"text": "Im exhausted Okay lets go home", "symbols": ["I", "M", "go_,_to"]}
+{"text": "What kind of food do you like I like Chinese food But your American We have a lot of Chinese restaurants in America", "symbols": ["what", "food", "I", "chinese_food", "in"]}
+{"text": "Can I help you sir what do you need I need a packet of cigarettes please Of course sir no problem Thanks", "symbols": ["I", "help_,_to", "what", "want_,_to", "I", "want_,_to", "salad_packet", "cigarette"]}
+{"text": "May I sit here By all means", "symbols": ["I", "sit_,_to"]}
+{"text": "Would you like a lift home That would be great Thanks", "symbols": ["lift", "motor_home", "great"]}
+{"text": "OK Im sorry it took so long I understand The phone has been ringing off the hook today Some days are just like that", "symbols": ["I", "M", "take_,_to", "long", "I", "telephone_2_,_to", "ring", "off", "catch_2_,_to", "today", "day"]}
+{"text": "Hello I need to get a cab There is about a 15 minute wait Thats fine OK Give me your address", "symbols": ["hello", "I", "want_,_to", "get_,_to", "minute", "wait_,_to", "S", "give_,_to", "I", "web_address"]}
+{"text": "Is Tom available please Hes on the other line can you hold for a minute Sure Hell be right with you", "symbols": ["S", "on", "hold_,_to", "minute", "right"]}
+{"text": "Is Tom here Speaking", "symbols": ["talk_2_,_to"]}
+{"text": "Looks like dinners ready Just about", "symbols": ["look_,_to", "dinner", "ready"]}
+{"text": "May I try on this dress By all means Of course", "symbols": ["I", "on", "dress"]}
+{"text": "I made my little brother cry Shame on you", "symbols": ["I", "make_,_to", "little", "brother", "shout_,_to", "on"]}
+{"text": "Did anyone call Just Mr White What did he want He wouldnt say over the phone", "symbols": ["what", "want_,_to", "over", "telephone_2_,_to"]}
+{"text": "Could I have the check please Okay Ill just be a minute", "symbols": ["I", "minute"]}
+{"text": "Any phone calls for me while I was out Yes your wife and your dentist called Thank you Youre welcome", "symbols": ["telephone_2_,_to", "I", "I", "out", "wife"]}
+{"text": "How are we going to get there Lets take a cab", "symbols": ["go_,_to", "get_,_to", "take_,_to"]}
+{"text": "Hi sorry to have kept you waiting Thats all right How are you Fine and you", "symbols": ["keep_,_to", "wait_,_to", "S", "right"]}
+{"text": "Im getting a tattoo tomorrow Are you nuts", "symbols": ["I", "get_,_to", "tattoo", "tomorrow"]}
+{"text": "I lost my wallet Im sorry thats bad luck", "symbols": ["I", "lost", "wallet", "I", "M", "S", "bad"]}
+{"text": "Mr Zhang are you still there Yes Can she call you back She is about to start a meeting That will be fine", "symbols": ["back_1", "meet_,_to"]}
+{"text": "Im going to the pub tonight Dont get drunk", "symbols": ["I", "go_,_to", "get_,_to"]}
+{"text": "Im sorry Im late Better late than never", "symbols": ["I", "M", "I", "M"]}
+{"text": "Hi This is John Li is my car fixed yet Let me run and check", "symbols": ["car", "I", "run_,_to"]}
+{"text": "Hi This is Tome Smith Yes Mr Smith Is my VCR ready No it will be another hour", "symbols": ["ready", "one_hour"]}
+{"text": "Excuse meCould you please tell me where the train station is Its two blocks down the road", "symbols": ["I", "train", "two", "office_block", "down", "road"]}
+{"text": "Whats for lunch Pork chops", "symbols": ["what", "S", "lunch_1", "pork_chop"]}
+{"text": "Do you think you can fix my computer Ill give it a try", "symbols": ["think_,_to", "computer_2", "give_,_to"]}
+{"text": "Hello is Sue there Who Sue John You must have the wrong number Oh Im sorry", "symbols": ["hello", "who", "mobile_phone_number", "I", "M"]}
+{"text": "I passed all the tests Mom Well done", "symbols": ["I", "test"]}
+{"text": "Is Tom in Wrong number Isnt this Lis residence No it is not Oh Im sorry", "symbols": ["in", "mobile_phone_number", "I", "M"]}
+{"text": "Lets eat out Good idea", "symbols": ["eat_2_,_to", "out", "good", "think_,_to"]}
+{"text": "Help Help Whats the matter", "symbols": ["help_,_to", "help_,_to", "what", "S"]}
+{"text": "Hello is John in No can I take a message No Ill call back later All right", "symbols": ["hello", "in", "I", "take_,_to", "back_1", "after", "right"]}
+{"text": "Thats two for me and one for you Thats not fair", "symbols": ["S", "two", "I", "one", "S"]}
+{"text": "I cant finish this steak Thats all right", "symbols": ["I", "finish", "steak", "S", "right"]}
+{"text": "Im trying to reach Robert please Robert is not available at the moment What time should I call back Around 330", "symbols": ["I", "hit_,_to", "what", "lunch_time", "I", "back_1", "around"]}
+{"text": "I cant find my keys Where did you See then last", "symbols": ["I", "find_,_to", "key_2", "saw", "last_2"]}
+{"text": "May I please speak to Tom Hes with someone right now would you hold", "symbols": ["I", "talk_2_,_to", "S", "right", "now", "hold_,_to"]}
+{"text": "This is how you turn on the computer I see", "symbols": ["turn_,_to", "on", "computer_2", "I", "saw"]}
+{"text": "Lets go Where to", "symbols": ["go_,_to"]}
+{"text": "You stepped on my foot Sorry I didnt mean to", "symbols": ["on", "foot", "I"]}
+{"text": "Somebody please answer the phone Ive got it", "symbols": ["answer", "telephone_2_,_to", "I", "get_,_to"]}
+{"text": "Is Tom in No he is at work now May I have his office phone number please Sure Its 2891234", "symbols": ["in", "work_,_to", "now", "I", "telephone_2_,_to", "mobile_phone_number"]}
+{"text": "Do you mind if I smoke Go right ahead", "symbols": ["I", "smoke_,_to", "go_,_to", "right", "ahead"]}
+{"text": "Where are you going To the office Ill be right back", "symbols": ["go_,_to", "right", "back_1"]}
+{"text": "I hate doing the damn laundry Watch your language", "symbols": ["I", "watch"]}
+{"text": "It looks to be a nice day today Good lets go for a drive Okay Ill get the car out of the garage Great", "symbols": ["look_,_to", "day", "today", "go_,_to", "drive_,_to", "get_,_to", "car", "out", "garage"]}
+{"text": "Could you babysit for me tonight Id be glad to", "symbols": ["I"]}
+{"text": "Are you ready to leave Give me a sec", "symbols": ["ready", "left", "give_,_to", "I"]}
+{"text": "Dont do that You are asking for trouble I dont care", "symbols": ["ask_,_to", "I"]}
+{"text": "Shall we buy It really depends on you But if you were me If I were you Id buy", "symbols": ["get_,_to", "count_,_to", "on", "I", "I", "D", "steal_,_to"]}
+{"text": "Its time to go to bed But mum were watching this movie I dont care its school in the morning Just 10 more minutes", "symbols": ["bed_time", "go_,_to", "make_the_bed_,_to", "watch", "picture", "I", "school", "in", "morning", "more", "minute"]}
+{"text": "What are you eating Rice Why Because its supposed to be good for you", "symbols": ["what", "eat_2_,_to", "think_,_to", "good"]}
+{"text": "Its your turn to go first I went first last time No Mary went first last time Oh Okay", "symbols": ["turn_,_to", "go_,_to", "first", "I", "go_,_to", "first", "last_2", "dinner_time", "go_,_to", "first", "last_2", "break_time_1"]}
+{"text": "Shall we go out tonight Yeah lets go Joes Disco Wed better ask dad first Okay but you ask him", "symbols": ["go_,_to", "out", "go_,_to", "ask_,_to", "first", "ask_,_to"]}
+{"text": "Ill cook dinner for you Dont go to too much trouble", "symbols": ["cook_,_to", "dinner", "go_,_to"]}
+{"text": "Have you got any better Thats the best there is Okay Ill take one Thatll be 200 sir", "symbols": ["get_,_to", "S", "good", "take_,_to", "one"]}
+{"text": "Let me help you with that Thanks very much You really shouldnt be lifting this by yourself I know but there was nobody else", "symbols": ["I", "help_,_to", "lift", "I"]}
+{"text": "Lets eat out Why not", "symbols": ["eat_2_,_to", "out"]}
+{"text": "Why arent you going out Its raining cats and dogs", "symbols": ["go_,_to", "out", "rain", "cat", "dog"]}
+{"text": "What are you doing tomorrow Im going to work What time will you be home Around 6 oclock", "symbols": ["what", "tomorrow", "I", "go_,_to", "work_,_to", "lunch_time", "around"]}
+{"text": "What did you do today Played poker with my work friends Did you win Of course", "symbols": ["what", "today", "work_,_to", "winner"]}
+{"text": "Hang out the clothes But its raining", "symbols": ["hang_,_to", "out", "change_clothes_,_to"]}
+{"text": "Do you play mahjong Once in a while", "symbols": ["play_,_to", "in"]}
+{"text": "You stink Ill go take a shower", "symbols": ["go_,_to", "take_,_to", "shower"]}
+{"text": "I cooked so Okay Ill do the dishes", "symbols": ["I", "cook_,_to", "dishes"]}
+{"text": "Hello Mr Brown Hello Can you help me Yes Im here to fix your pipes Oh good come in please", "symbols": ["hello", "hello", "help_,_to", "I", "I", "M", "good", "come_,_to", "in"]}
+{"text": "Here comes the bus Its about time", "symbols": ["come_,_to", "bus", "bed_time"]}
+{"text": "Get up you lazybones Just a minute", "symbols": ["get_,_to", "up", "minute"]}
+{"text": "Shall we start decorating the bedroom Ive already started When This afternoon", "symbols": ["decorate_,_to", "room", "I", "afternoon"]}
+{"text": "Why did you stay home today Im off today", "symbols": ["today", "I", "M", "off", "today"]}
+{"text": "My batterys flat in my mobile Is that why you didnt return my call And I couldnt find another phone Thats okay", "symbols": ["battery_1", "flat", "in", "telephone_mobile_,_to", "return_,_to", "I", "find_,_to", "telephone_2_,_to", "S"]}
+{"text": "Is there a doctor here No Can you call an Ambulance Sure whats happened", "symbols": ["what"]}
+{"text": "I wonder if you could help me Of course whats the problem Could you take a picture of me to my friend Sure thing", "symbols": ["I", "help_,_to", "I", "what", "S", "take_,_to", "picture", "I"]}
+{"text": "You just ran a red light Did I", "symbols": ["run_,_to", "red", "light", "I"]}
+{"text": "First you add the washing powder then you add the clothes I take it youve done this before Yes for the last 20 years Good", "symbols": ["first", "add", "washing_powder", "add", "change_clothes_,_to", "I", "take_,_to", "before", "last_2", "good"]}
+{"text": "Hes going too slow Pass him", "symbols": ["go_,_to"]}
+{"text": "I stayed at Bobs last night I was worried where you were I guess I should have told you Yes you should have", "symbols": ["I", "last_2", "night", "I", "I", "guess_,_to", "I"]}
+{"text": "Are you going to come home late tonight Yes Ive got to work overtime", "symbols": ["go_,_to", "come_,_to", "I", "get_,_to", "work_,_to"]}
+{"text": "Hows the chicken Its delicious", "symbols": ["S", "chicken", "yummy"]}
+{"text": "Would you pour me some of that tea please Okay Say when", "symbols": ["pour_,_to", "I", "some", "tea"]}
+{"text": "Would you care for a drink No thanks Im fine", "symbols": ["drink_,_to", "I", "M"]}
+{"text": "Welcome back Its good to be home", "symbols": ["back_1", "good", "motor_home"]}
+{"text": "I come home for lunch How long have you got Only 1 hour Okay Ill make you some food", "symbols": ["I", "come_,_to", "lunch_1", "long", "get_,_to", "one_hour", "make_,_to", "food"]}
+{"text": "Were broke I cant believe it", "symbols": ["I", "think_,_to"]}
+{"text": "I broke Moms vase Shes going to kill you", "symbols": ["I", "broken", "vase", "go_,_to", "kill_,_to"]}
+{"text": "Who broke my chair It wasnt me", "symbols": ["who", "broken", "chair", "I"]}
+{"text": "Man That car almost hit me Yeah that was close", "symbols": ["car", "hit_,_to", "I", "close_,_to"]}
+{"text": "Where can I get a good novel Theres a bookstore just across the street", "symbols": ["I", "get_,_to", "good", "S", "across"]}
+{"text": "The washing machine isnt working again Its not my fault", "symbols": ["washing_machine", "work_,_to"]}
+{"text": "Ill treat you dinner Dont be silly Lets go Dutch", "symbols": ["dinner", "go_,_to"]}
+{"text": "Where did this come from I have no idea", "symbols": ["come_,_to", "I", "think_,_to"]}
+{"text": "Thatll be eight dollars please Heres ten Keep the change", "symbols": ["eight", "ten", "keep_,_to", "change_,_to"]}
+{"text": "Do you have these shoes in a size 7 Yes Let me get you a pair", "symbols": ["clean_shoes_,_to", "in", "I", "get_,_to"]}
+{"text": "What a mess Sorry Ill clean it up", "symbols": ["what", "up"]}
+{"text": "Mommy can I stay up until eleven oclock No Go to bed right now", "symbols": ["I", "up", "eleven", "go_,_to", "make_the_bed_,_to", "right", "now"]}
+{"text": "May I speak to Peter Whos calling", "symbols": ["I", "talk_2_,_to", "who"]}
+{"text": "May I have a cookie Help yourself", "symbols": ["I", "biscuits", "help_,_to"]}
+{"text": "By the way wheres Jim He is out", "symbols": ["S", "out"]}
+{"text": "Watch out Wow That car almost hit me", "symbols": ["watch", "out", "car", "hit_,_to", "I"]}
+{"text": "Eat some more No thanks Im on a diet", "symbols": ["eat_2_,_to", "some", "more", "I", "M", "on"]}
+{"text": "Hurry up will you Whats the rush", "symbols": ["up", "what", "S"]}
+{"text": "Sorry Im late It doesnt matter", "symbols": ["I", "M"]}
+{"text": "Two burgers please For here or to go", "symbols": ["two", "hamburger", "go_,_to"]}
+{"text": "Is Bob home Sorry Youve got the wrong number", "symbols": ["motor_home", "get_,_to", "mobile_phone_number"]}
+{"text": "Somethings wrong with my air conditioning Leave it to me Ill fix it", "symbols": ["left", "I"]}
+{"text": "Where are you off to The movies", "symbols": ["off", "picture"]}
+{"text": "May I have the menu please Sure Here you go", "symbols": ["I", "menu", "go_,_to"]}
+{"text": "Can you make out what hes saying No its too loud in here", "symbols": ["make_,_to", "out", "what", "loud", "in"]}
+{"text": "Dinners ready Come and get it Coming", "symbols": ["dinner", "ready", "come_,_to", "get_,_to", "come_,_to"]}
+{"text": "Have you got a minute Sure Whats up", "symbols": ["get_,_to", "minute", "what", "S", "up"]}
+{"text": "Can you pass me the lighter Here Catch", "symbols": ["I", "light", "catch_2_,_to"]}
+{"text": "Whos it for Its for you", "symbols": ["who", "S"]}
+{"text": "How much does this cost Sixty dollars", "symbols": ["sixty"]}
+{"text": "May I use your phone Go ahead", "symbols": ["I", "telephone_2_,_to", "go_,_to", "ahead"]}
+{"text": "Wheres the toilet Over there", "symbols": ["S", "toilet", "over"]}
+{"text": "Dont tell me youre pregnant again Im afraid so", "symbols": ["I", "I", "M"]}
+{"text": "Stop burping I cant help it", "symbols": ["I", "help_,_to"]}
+{"text": "Can you give me a hand Of course", "symbols": ["give_,_to", "I", "right_hand"]}
+{"text": "Lets go now Ill be with you in a minute", "symbols": ["go_,_to", "now", "in", "minute"]}
+{"text": "Can you give me a hand with my luggage Of course", "symbols": ["give_,_to", "I", "hold_hands_,_to"]}
+{"text": "How much was your watch Take a guess", "symbols": ["watch", "take_,_to", "guess_,_to"]}
+{"text": "Wheres the nearest bank Its just around the corner", "symbols": ["S", "near", "bank", "around"]}
+{"text": "Thanks for your help No problem", "symbols": ["help_,_to"]}
+{"text": "Hey how are you doing Could you do me a favor Sure whatever you need Can you help me move this table", "symbols": ["I", "want_,_to", "help_,_to", "I", "move_,_to", "table"]}
+{"text": "Could you do me a favor It depends", "symbols": ["I", "count_,_to"]}
+{"text": "I like these shoes Do you realize that all these shoes are half off Really Yes but the offer only lasts this week", "symbols": ["I", "clean_shoes_,_to", "clean_shoes_,_to", "half", "off", "last_2", "this_week"]}
+{"text": "How do you like Chinese food Its my favorite What other kind of food do you like I like Indian food as well", "symbols": ["chinese_food", "favourite", "what", "food", "I", "food"]}
+{"text": "Hi Bob How did you do on your driving test Passed Thats great and it was your first try", "symbols": ["on", "drive_,_to", "test", "S", "great", "first"]}
+{"text": "Whats on TV tonight Nothing special", "symbols": ["what", "S", "on", "cable_tv"]}
+{"text": "Good morning Mary How do you want your egg cooked Sunny side up please Okay itll be ready in two minutes", "symbols": ["good", "morning", "want_,_to", "egg", "cook_,_to", "side", "up", "ready", "in", "two", "minute"]}
+{"text": "Can I give you a hand Thanks", "symbols": ["I", "give_,_to", "right_hand"]}
+{"text": "Can I have the menu please Sure Here you are", "symbols": ["I", "menu"]}
+{"text": "Could you please pass me the salt There you go", "symbols": ["I", "salt", "go_,_to"]}
+{"text": "Have you got change for a thousand Let me see", "symbols": ["get_,_to", "change_,_to", "thousand", "I", "saw"]}
+{"text": "Ouch I just bit my tongue Oh that hurts I think its bleeding", "symbols": ["I", "bite_,_to", "tongue", "I", "think_,_to"]}
+{"text": "Hey Mom look what I found Good heavens Dont bring that frog in the house", "symbols": ["look_,_to", "what", "I", "find_,_to", "good", "bring_,_to", "frog", "in", "house"]}
+{"text": "Who ate the cookies that were sitting here I did Mom Shame on you I was saving them for your brother", "symbols": ["who", "eat_2_,_to", "cook_,_to", "sit_,_to", "I", "on", "I", "save", "brother"]}
+{"text": "Im so sorry about your brother Mr Wang Thanks Jane If you need any help just let me know", "symbols": ["I", "M", "brother", "want_,_to", "help_,_to", "I"]}
+{"text": "Its time to go Are you ready Almost Let me get my bag", "symbols": ["bed_time", "go_,_to", "ready", "I", "get_,_to", "hand_bag"]}
+{"text": "Yes sir Could we have the bill please Thats 68 pounds altogether please Thats alright Here you are", "symbols": ["S", "whole", "S"]}
+{"text": "Be careful The floor is wet What happened I spilled my drink", "symbols": ["floor", "wet_1", "what", "I", "spill_,_to", "drink_,_to"]}
+{"text": "Can you give me a hand Tom Sure Can you open this bottle for me The cork seems to be stuck Ill have a go", "symbols": ["give_,_to", "I", "hold_hands_,_to", "open_2", "milk_bottle", "I", "pop_champagne_cork_,_to", "stick", "go_,_to"]}
+{"text": "I think this painting would look good in our living room What do you think Sure Lets buy it", "symbols": ["I", "think_,_to", "paint_,_to", "look_,_to", "good", "in", "room", "what", "think_,_to", "get_,_to"]}
+{"text": "Help Im about to drop these books Ive got them Thanks", "symbols": ["help_,_to", "I", "M", "carry_books_,_to", "I", "get_,_to"]}
+{"text": "Where are you going Tony Its none of your business Mom said you couldnt go out Im going out anyway Get out of my way", "symbols": ["go_,_to", "go_,_to", "out", "I", "go_,_to", "out", "get_,_to", "out"]}
+{"text": "Nancy please turn the TV down Come on John This is my favorite show I dont care I have a headache", "symbols": ["turn_,_to", "flatscreen_tv", "down", "on", "favourite", "show_me_,_to", "I", "headache"]}
+{"text": "Im sleepy I can hardly keep my eyes open Why dont you go to bed I think I will", "symbols": ["I", "M", "I", "keep_,_to", "eyes", "open_2", "go_,_to", "make_the_bed_,_to", "I", "think_,_to", "I"]}
+{"text": "Oops What happened I overcooked the corn Thats okay I like it better that way anyway", "symbols": ["what", "I", "cereal", "S", "I"]}
+{"text": "Im freezing Turn down the air conditioner will you But then itll be too warm Not if you take off your jacket", "symbols": ["I", "turn_,_to", "down", "hair_conditioner", "take_,_to", "off", "jacket"]}
+{"text": "Is Bob home Hold on", "symbols": ["motor_home", "hold_,_to", "on"]}
+{"text": "Hello Is that Sue Speaking AThis is George Hello GeorgeWhat s up", "symbols": ["hello", "S", "up"]}
+{"text": "You have to help to the laundry today Give me a break", "symbols": ["help_,_to", "today", "give_,_to", "I", "break_2"]}
+{"text": "Day Im home Do you have any homework today Ill do it later Go and do it now Can I have some cookies first please", "symbols": ["day", "I", "M", "today", "after", "go_,_to", "now", "I", "cook_,_to", "first"]}
+{"text": "Welcome home Peter Thanks honey Its great to be back So how was your trip to Thailand", "symbols": ["motor_home", "honey", "great", "back_1"]}
+{"text": "Where did you get these peanuts Mike At the supermarket down the street Help yourself Thanks", "symbols": ["get_,_to", "peanut", "down", "help_,_to"]}
+{"text": "Theres plenty left Would you like another helping Id like to have some more Its really good", "symbols": ["S", "left", "help_,_to", "I", "D", "some", "more", "good"]}
+{"text": "That was delicious Theres still a lot lefthave some more Thanks but I couldnt eat another bite Im really full", "symbols": ["yummy", "S", "some", "more", "I", "eat_2_,_to", "bite_,_to", "I", "M", "full"]}
+{"text": "Im hungry Do we have anything to eat Just a few cookies Thats fine with me", "symbols": ["I", "M", "hungry", "eat_2_,_to", "cook_,_to", "S", "I"]}
+{"text": "Lets take a break Good idea How about a cup of coffee Sounds good", "symbols": ["take_,_to", "break_2", "good", "think_,_to", "measuring_cups", "coffee", "good"]}
+{"text": "Excuse me sir Can I help you Yes Im looking for a book on Chinese history", "symbols": ["I", "I", "help_,_to", "I", "look_,_to", "colouring_book", "on", "history"]}
+{"text": "Come on fellows Lets enjoy my wifes cooking Em its delicious Thank you My wife likes cooking very much Youre lucky", "symbols": ["come_,_to", "on", "wife", "cook_,_to", "yummy", "wife", "cook_,_to", "lucky"]}
+{"text": "Can you look after my son for me tonight Id be glad to Hes really cute", "symbols": ["look_,_to", "after", "son", "I", "S"]}
+{"text": "Could you show me the way to the railway station Yes of course Would you like to be my guide Id be very pleased", "symbols": ["show_me_,_to", "I", "D"]}
+{"text": "Can I see the paper when youre through Sally OK I just want to read the comics Take your time", "symbols": ["I", "saw", "paper", "through", "I", "want_,_to", "read_2_,_to", "take_,_to", "break_time_1"]}
+{"text": "Can I ask a favor of you Sure Would you mail this letter for me when you go to the post office No problem", "symbols": ["I", "ask_,_to", "letter", "I", "go_,_to"]}
+{"text": "Excuse me but could I use your bathroom Certainly Its right over there Thanks", "symbols": ["I", "I", "bath", "right", "over"]}
+{"text": "Would you like to have this kind of suitcase Yes I would as long as its good quality You can check it sir OK", "symbols": ["suitcase_1", "I", "long", "good"]}
+{"text": "Will you give me a hand sir By all means Thank you very much Youre welcome", "symbols": ["give_,_to", "I", "hold_hands_,_to"]}
+{"text": "The telephone is ringing Can you answer it Sue OK Ill get it Its for you Jeff Thanks Sue", "symbols": ["telephone_2_,_to", "ring", "answer", "get_,_to"]}
+{"text": "Hello do you have any vacancies Yes something just opened up What kind of apartment is it Its a onebedroom onebathroom apartment", "symbols": ["hello", "open_2", "up", "what"]}
+{"text": "How much is the rent The rent is 1500 per month And how much is the deposit The deposit is 500", "symbols": ["calendar_month"]}
+{"text": "Is there a car park near the supermarket Yes there is an underground car park near the supermarket I see Thanks", "symbols": ["car", "park_,_to", "near", "car", "park_,_to", "near", "I", "saw"]}
+{"text": "Fill it up with premium please Sure Should I check your radiator No thats OK How much do I owe you Thatll be 150", "symbols": ["fill_2_,_to", "up", "I", "S", "I"]}
+{"text": "That restaurant has six parking spaces What are the odds of finding a parking space there Almost zero", "symbols": ["six", "park_,_to", "what", "find_,_to", "park_,_to", "Zero"]}
+{"text": "Is the table free No sir Would you rather sit near the dance floor I dont think so Is that table all right Thats free", "symbols": ["table", "sit_,_to", "near", "dance_2_,_to", "floor", "I", "think_,_to", "table", "right", "S"]}
+{"text": "May I order please Of course I would like sirloin steak and tomato salad Do you take dressing on your salad Yes blue Cheese please", "symbols": ["I", "order_1_,_to", "I", "steak", "tomato", "salad", "take_,_to", "dress", "on", "salad", "blue"]}
+{"text": "What would you want coffee or tea Bring me a cup of coffee please How do you like it Id prefer a black one", "symbols": ["what", "want_,_to", "coffee", "tea", "bring_,_to", "I", "doidy_cup", "coffee", "I", "black", "one"]}
+{"text": "Have you decided on something Yes please bring us two steaks Sure Anything else What vegetables come with the steaks Potato chips and French dressing", "symbols": ["on", "bring_,_to", "two", "steak", "what", "vegetables", "come_,_to", "steak", "chips", "dress"]}
+{"text": "Here is your bill Its 60 Whats this amount for Its for the drinks I see Can I pay by credit card Sure", "symbols": ["what", "S", "drinks", "I", "saw", "I", "card"]}
+{"text": "Excuse me which way is to the post office The post office Sorry Im not sure Well thanks anyway", "symbols": ["I", "I", "M"]}
+{"text": "Excuse me could you lend me some of your records Until when Until Monday or Tuesday next week No problem", "symbols": ["I", "I", "some", "next_week"]}
+{"text": "Would you mind doing something for me I would if I could Will you please explain the meaning of this word Yes with pleasure", "symbols": ["I", "I", "I"]}
+{"text": "May I help you find something or are you just looking Im just looking Then take your time please Thank you", "symbols": ["I", "help_,_to", "find_,_to", "look_,_to", "I", "look_,_to", "take_,_to", "break_time_1"]}
+{"text": "Excuse me Yes I bought this circulator here yesterday but it doesnt work Oh lets see whats wrong", "symbols": ["I", "I", "get_,_to", "yesterday", "work_,_to", "saw", "what", "S"]}
+{"text": "Excuse me may I help you Would you please fill some gas for me Sure Which kind of gas do you want Unleaded please OK", "symbols": ["I", "I", "help_,_to", "fill_2_,_to", "I", "want_,_to"]}
+{"text": "Can I help you sir Yes I want to have a photo Will you please pose for your picture Yes I am ready", "symbols": ["I", "help_,_to", "I", "want_,_to", "photographs", "picture", "I", "ready"]}
+{"text": "Excuse me I would like to book a table at 1300 Sure for how many Three seats please May I have your name", "symbols": ["I", "I", "table", "how_many", "three", "I"]}
+{"text": "Hello is Jennifer in I am sorry you have the wrong number Oh I am really sorry", "symbols": ["hello", "I", "mobile_phone_number", "I"]}
+{"text": "Id like a refund on this sweater May I have a look at your receipt Oh here you are All right Wait a minute", "symbols": ["I", "D", "on", "I", "look_,_to", "receive_,_to", "right", "wait_,_to", "minute"]}
+{"text": "If this coat doesnt fit may I bring it back later Sorry We dont take returns on sale items", "symbols": ["coat", "I", "bring_,_to", "back_1", "after", "take_,_to", "return_,_to", "on"]}
+{"text": "Whats the cost of the trousers 90 Is there a price reduction Sorry sir The prices here are all fixed", "symbols": ["what", "S", "trousers"]}
+{"text": "Hello this is Liu Juan speaking Is that Mr Brown No this isnt Could you please get him on the phone Sure Wait a minute", "symbols": ["hello", "talk_2_,_to", "get_,_to", "on", "telephone_2_,_to", "wait_,_to", "minute"]}
+{"text": "How much is the hat 10 I have seen this cheaper in other places Well what about 8 Take it or leave it", "symbols": ["riding_hat", "I", "saw", "in", "what", "take_,_to", "left"]}
+{"text": "Whats the price for that suit Its 160 Well I like everything about it except the price Sorry sir we are having a sale now", "symbols": ["what", "S", "I", "now"]}
+{"text": "What can I do for you Im looking for the cameras Theyre in Aisle Two", "symbols": ["what", "I", "I", "look_,_to", "camera", "in", "two"]}
+{"text": "Is there something I can help you with No Im just browsing Thanks anyway Ok", "symbols": ["I", "help_,_to", "I"]}
+{"text": "May I help you Yes Id like to buy these razors Okay thatll be 685 with tax", "symbols": ["I", "help_,_to", "I", "D", "get_,_to", "razor"]}
+{"text": "Mm they taste delicious Lets settle the bill Yes Lets go Dutch No Its on me this time You are always so hospitable", "symbols": ["taste_,_to", "yummy", "go_,_to", "on", "I", "tea_time"]}
+{"text": "Are you ready to order Yes Ill have the fresh fruit cocktail And for your entree I think Ill Ty the crisp deepfried chicken", "symbols": ["ready", "order_1_,_to", "fruit", "I", "think_,_to", "crisps", "chicken"]}
+{"text": "Have you decided what youd like Yes First Ill have tomato juice And then Ill have the lamb chops welldone please", "symbols": ["what", "D", "tomato_juice", "lamb_2", "chop_,_to"]}
+{"text": "How much will it amount to Wait a minute Its 805 Do you receive travelers checks Sorry sir We accept cash only", "symbols": ["wait_,_to", "minute", "receive_,_to", "travel", "take_,_to"]}
+{"text": "How much altogether 40 Do you receive cash only We receive credit card as well Here is my credit card", "symbols": ["whole", "receive_,_to", "receive_,_to", "card", "card"]}
+{"text": "Hi Can I help you No thanks I m just looking around Okay Please let me know if you need any help Thanks a lot", "symbols": ["I", "help_,_to", "I", "look_,_to", "around", "I", "want_,_to", "help_,_to"]}
+{"text": "Look Ive got a problem here Will you help me Im not sure if I can but Ill try", "symbols": ["look_,_to", "I", "get_,_to", "help_,_to", "I", "I", "M", "I"]}
+{"text": "Would you do me a favor Id be glad to What is it", "symbols": ["I", "I", "D", "what"]}
+{"text": "Good evening sir Good evening Ill have a Scotch Yes sir Straight or on the rocks On the rocks please", "symbols": ["good", "day", "good", "day", "on", "stone", "on", "stone"]}
+{"text": "Yes sir I hate to complain but this soup is too salty Im very sorry sir Ill ask the manager to take care of this", "symbols": ["I", "soup", "salty", "I", "M", "ask_,_to", "coach", "take_,_to"]}
+{"text": "Hello May I speak to David Who David Bush There s nobody here by that name Sorry I dialed the wrong number", "symbols": ["hello", "I", "talk_2_,_to", "who", "S", "I", "dial_,_to", "mobile_phone_number"]}
+{"text": "Your teacher has left you not very much homework this weekend Yes My advice would be to finish it at once", "symbols": ["left", "weekend", "finish"]}
+{"text": "Next please I want to send this letter to the US by airmail Thatll be five yuan forty please", "symbols": ["next", "I", "want_,_to", "letter", "five", "forty"]}
+{"text": "Id like to buy some postcards of Beijing How about this set Looks nice Okay Ill take it", "symbols": ["I", "D", "get_,_to", "card", "look_,_to", "take_,_to"]}
+{"text": "Good morning miss Good morning Id like a haircut How would you like it Just a trim will do", "symbols": ["good", "morning", "morning", "I", "D", "haircut", "trim_,_to"]}
+{"text": "Id like to pick up my package Here is the notice Could you show me your ID Please Sure here you are A moment please", "symbols": ["I", "D", "pick_,_to", "up", "show_me_,_to"]}
+{"text": "Is there anything I can do for you Yes what are your hours We open at lo Thanks lot", "symbols": ["I", "what", "one_hour", "open_2"]}
+{"text": "Excuse me Where are the rice and flour They are in aisle 5 Thank you", "symbols": ["I", "rice", "in"]}
+{"text": "Could I speak to Mr Wu please Who s calling please This is Kevin Hold on a second please", "symbols": ["I", "talk_2_,_to", "who", "on", "second"]}
+{"text": "I like to drive on freeway Dont drive too fast Dont worryThere re few cars now Be carefulIt s dangerous to drive fast", "symbols": ["I", "drive_,_to", "on", "drive_,_to", "fast_2", "car", "now", "S", "drive_,_to", "fast_2"]}
+{"text": "Theres going to be a highway here Thats better The traffic problem will soon be eased I think so", "symbols": ["go_,_to", "road", "S", "I", "think_,_to"]}
+{"text": "When do you go to bed usually I go to bed at ten and get up at six Thats helpful for your health Sure", "symbols": ["go_,_to", "make_the_bed_,_to", "I", "go_,_to", "make_the_bed_,_to", "ten", "get_,_to", "up", "six", "S", "healthy"]}
+{"text": "Are you ready Pa In a second Have you got a torch No Here it is Lets go", "symbols": ["ready", "in", "second", "get_,_to", "torch_3", "go_,_to"]}
+{"text": "Do you like the cookies I finished them in no time Glad you like it Mum when will we have them again", "symbols": ["cook_,_to", "I", "finish", "in", "tea_time"]}
+{"text": "Whats your weight 150 pounds Do put yourself on a diet otherwise youll be too fat I cant bear eating less", "symbols": ["what", "S", "put_,_to", "on", "fat", "I", "bear", "eat_2_,_to"]}
+{"text": "Are you a wrestler or a boxer NoWhy Your muscular shoulders and chest impress me so Oh really I go to the gym every day", "symbols": ["wrestle_,_to", "muscles", "shoulder", "blanket_chest", "I", "I", "go_,_to", "gym_1", "day"]}
+{"text": "Why are there so many people It seems like a traffic accident Those people are quarrelling", "symbols": []}
+{"text": "Traffic rules are different among countries For example People drive on the right in China Oh thats interesting", "symbols": ["drive_,_to", "on", "right", "in", "S"]}
+{"text": "How can we avoid the jam Lets take a roundabout way OK Look traffic jam again", "symbols": ["jam", "take_,_to", "look_,_to", "jam"]}
+{"text": "Usually cities have greater traffic problems Of course therere too many people I hate the car columns on the road But we couldnt help it", "symbols": ["great", "I", "car", "graph_column", "on", "road", "help_,_to"]}
+{"text": "How do you get road news Ive a driver mate in my car So you have all the news on broadcast Yes its so helpful", "symbols": ["get_,_to", "road", "I", "drive_,_to", "in", "car", "on"]}
+{"text": "I cant find proper parking space Lets just park here No theres no parking sign Oh the policemans coming", "symbols": ["I", "find_,_to", "park_,_to", "park_,_to", "S", "park_,_to", "sign_,_to", "come_,_to"]}
+{"text": "Look there is traffic accident over there What happened The old man is knocked down by the bicycle", "symbols": ["look_,_to", "over", "what", "angry_man", "knock_,_to", "down", "bicycle"]}
+{"text": "This is the rush hour I notice theres a jam a few blocks away Lets drive off this road Im afraid Ill be late", "symbols": ["one_hour", "I", "S", "jam", "office_block", "away", "drive_,_to", "off", "road", "I", "M"]}
+{"text": "How often does the bus run Every five minutes Oh here comes a bus It comes on the dot", "symbols": ["bus", "run_,_to", "five", "minute", "come_,_to", "bus", "come_,_to", "on", "one_dot"]}
+{"text": "Therere traffic jam everywhere this hour of the day I think something must be done Yeah we should have more roads built", "symbols": ["jam", "one_hour", "day", "I", "think_,_to", "more", "road", "build_,_to"]}
+{"text": "Shit so crowded The radio said its OK on this road Things change every minute We have too many cars", "symbols": ["police_radio", "on", "road", "change_,_to", "minute", "car"]}
+{"text": "Oh here comes a bus Its here at last How long have you waited Twenty minutes exactly", "symbols": ["come_,_to", "bus", "last_2", "long", "wait_,_to", "twenty", "minute"]}
+{"text": "Im afraid I forgot to lock the door Youre so careless Billy Sorry Mum Ill lock it right away Ive done it for you", "symbols": ["I", "M", "I", "locker", "door_2", "locker", "right", "away", "I"]}
+{"text": "George did you remember to buy me the book Sorry darling I forgot When will you buy it then I promise youll have it tomorrow", "symbols": ["get_,_to", "I", "work_book", "I", "get_,_to", "I", "tomorrow"]}
+{"text": "Willy I dont think we have much butter Can you buy some Sure MumIn a minute Heres the moneyAnd get some salt Yes Mum", "symbols": ["I", "think_,_to", "butter", "get_,_to", "minute", "get_,_to", "salt"]}
+{"text": "Henry do you know how much we spent this month No Im not clear weve spent 1000 Dont make a fussThe price is rising", "symbols": ["this_month", "I", "M", "make_,_to", "rose"]}
+{"text": "Whats the name of this street University Street Do you know of any banks near here Youll see one at the corner on your right", "symbols": ["what", "S", "bank", "near", "saw", "one", "on", "right"]}
+{"text": "Excuse me where is the nearest bank There is one next to the post office round the corner Thank you", "symbols": ["I", "near", "bank", "one", "next"]}
+{"text": "Can you tell me the way to library Sure turn left at the next crossing Is it on Xinhua street Yes You cant miss it", "symbols": ["I", "turn_,_to", "left", "next", "cross", "on"]}
+{"text": "This suit looks niceCan I try it on Yes of courseThe dressing room is over there", "symbols": ["look_,_to", "I", "on", "dress", "room", "over"]}
+{"text": "Can I help you No thanks Im just looking", "symbols": ["I", "help_,_to", "I", "look_,_to"]}
+{"text": "Hello may I speak to Kevin please Speaking", "symbols": ["hello", "I", "talk_2_,_to", "talk_2_,_to"]}
+{"text": "How much is this shirt please Its 89 yuan Do you have it in a larger size Let me check", "symbols": ["shirt", "in", "large", "I"]}
+{"text": "Yes sir Where would you like to go Silk market Is it the one on Xi Shut Street Yes That s right", "symbols": ["go_,_to", "fabric", "one", "on", "S", "right"]}
+{"text": "Where can I call a taxi Theres a taxi rank over there right outside the gate", "symbols": ["I", "taxi", "S", "taxi", "over", "right", "outside"]}
+{"text": "Do you like chocolates It depends Do you like coffee Um It s delicious And do you like English food Not all of it", "symbols": ["chocolate", "count_,_to", "coffee", "S", "yummy", "english", "food"]}
+{"text": "Watch out Its dark over there Thats all right I can manage Be careful The road is muddyYou might slip Thanks for the warning", "symbols": ["watch", "out", "grey_dark", "over", "S", "right", "I", "road"]}
+{"text": "Lets speed up Were going to be late again If we hurry can we get there in time I hope so", "symbols": ["fast_2", "up", "go_,_to", "get_,_to", "in", "tea_time", "I"]}
+{"text": "Is this taxi taken No madam May I help you Yes Will you take me to the station No problemStep in please Thanks", "symbols": ["taxi", "take_,_to", "I", "help_,_to", "take_,_to", "I", "in"]}
+{"text": "Excuse me Does this train go to Brooklyn Yes it does Do you know when it leaves I think it leaves at twothirty", "symbols": ["I", "train", "go_,_to", "leaves", "I", "think_,_to", "leaves"]}
+{"text": "Come here at once John Will you Yes mum Im coming And bring you homework with you please Oh must I Yes you must", "symbols": ["come_,_to", "I", "come_,_to", "bring_,_to", "I"]}
+{"text": "Is this taxi taken No madamMay I help you YesWill you take me to the station No problemStep in please Thanks", "symbols": ["taxi", "take_,_to", "I", "help_,_to", "take_,_to", "I", "in"]}
+{"text": "Hello Can I speak to Anne Who s calling It s Mike her boyfriend Hold on I ll get her Thanks a lot", "symbols": ["hello", "I", "talk_2_,_to", "who", "S", "hold_,_to", "on", "I", "get_,_to"]}
+{"text": "Oh Is it too hot Im sorry Lets blow on it OK Here you go Yummy Yummy Eat more", "symbols": ["hot", "I", "M", "blow_,_to", "on", "go_,_to", "yummy", "eat_2_,_to", "more"]}
+{"text": "Whatre you doing now Im watching TV Youre supposed to clean your teeth before you go to bed I will And dont ever forget it", "symbols": ["what", "now", "I", "watch", "cable_tv", "think_,_to", "teeth_2", "go_,_to", "make_the_bed_,_to", "I"]}
+{"text": "There was a serious disturbance in the street this morning Is it kept in hand now Yes The police have come", "symbols": ["in", "morning", "keep_,_to", "in", "hold_hands_,_to", "now", "come_,_to"]}
+{"text": "Could you help me with these books My hands are full Can t you see that Please George All right Just wait a minute OK", "symbols": ["help_,_to", "I", "carry_books_,_to", "hold_hands_,_to", "full", "T", "saw", "right", "wait_,_to", "minute"]}
+{"text": "Do you really like this straw hat dear Yes of course Ill take it But it costs an arm and leg I like it", "symbols": ["straw", "bobble_hat", "take_,_to", "arm", "legs", "I"]}
+{"text": "Drive me to Kennedy Airport please Im sorryMy cars taken Where is the next taxi stand Not far awayIt s over there", "symbols": ["drive_,_to", "I", "I", "M", "car", "take_,_to", "next", "taxi", "stand_,_to", "S", "over"]}
+{"text": "Could you take us to the Fifth Avenue SureStep in Is the traffic very heavy this hour NoBut its a bit strange today", "symbols": ["take_,_to", "in", "heavy", "one_hour", "drill_bit", "today"]}
+{"text": "May I serve your dishes now No Im used to having tea first With sugar No sugar please", "symbols": ["I", "serve_2_,_to", "dishes", "now", "I", "tea", "first", "carbohydrates", "carbohydrates"]}
+{"text": "Id like to have steak and a beer Would you like it rare medium or welldone Welldone please", "symbols": ["I", "D", "steak", "beer", "drink_medium"]}
+{"text": "Which do you prefer sour peppery soup or fourjewel soup Anythings all right with me Im not particular about soups Then well have fourjewel soup", "symbols": ["which", "sour", "soup", "soup", "right", "I", "I", "M", "soup", "soup"]}
+{"text": "Whatre you going to wear today I like the new shirt Youd better tuck in your shirt Oh I prefer it loose", "symbols": ["what", "go_,_to", "today", "I", "shirt", "D", "in", "shirt", "I"]}
+{"text": "Do you think this blouse really suits me SureIt s just right Not too tight in the waist No Its a perfect fit", "symbols": ["think_,_to", "blouse", "I", "S", "right", "tights", "in", "Wii_Fit"]}
+{"text": "Could you pass me the jacket with wide lapels Certainlyhere you are What do you think of it Very smart", "symbols": ["I", "jacket", "what", "think_,_to"]}
+{"text": "Is there a bookstore near here Yes its straight ahead around the corner Thank you very much", "symbols": ["near", "straight", "ahead", "around"]}
+{"text": "May I borrow your typewriter How long would you like to keep it Until the end of the week Yes thatd be all right", "symbols": ["I", "long", "keep_,_to", "book_ends", "week_1", "D", "right"]}
+{"text": "Would you be kind enough to lend me forty pounds Id really like to help you out but I am broke myself Thats all right", "symbols": ["enough", "I", "forty", "I", "D", "help_,_to", "out", "I", "break_2", "S", "right"]}
+{"text": "Can you direct me to Holiday inn Cross the street and walk two blocks westYou cant miss it Thanks", "symbols": ["I", "walk_,_to", "two", "office_block"]}
+{"text": "Can you loan me fifty dollars until pay day Im sorry Ive already gone through my paycheck for the week Thank you just the same", "symbols": ["I", "fifty", "day", "I", "M", "I", "go_,_to", "through", "week_1", "same"]}
+{"text": "How much is a ticket to Edinburgh Single or return A return ticket please A return ticket is fortysix pounds fifty", "symbols": ["return_,_to", "return_,_to", "return_,_to", "fifty"]}
+{"text": "A ticket to London please A cheap day return ticket Yes including London Tube Thatll be twelve pounds", "symbols": ["day", "return_,_to", "twelve"]}
+{"text": "Excuse me is this taxi taken NoMay I help you Would you please drive me to chinatown Oh thats where Im going", "symbols": ["I", "taxi", "take_,_to", "I", "help_,_to", "drive_,_to", "I", "S", "I", "go_,_to"]}
+{"text": "What would you like for your main course Steak please How would you like your steak Rare mediumrare or welldone Welldone please", "symbols": ["what", "main_course", "steak", "steak"]}
+{"text": "Anything I can do for you Yes I just forgot where the bed linens department is Its on the third floor Thank you Youre welcome", "symbols": ["I", "I", "bunk_beds", "fabric", "on", "floor"]}
+{"text": "May I help you sir I want a pair of locus Take a look at the ones on display please I need size 41", "symbols": ["I", "help_,_to", "I", "want_,_to", "take_,_to", "look_,_to", "one", "on", "I", "want_,_to"]}
+{"text": "Excuse me please show me that business suit the dark one OK May I try it on Go ahead", "symbols": ["I", "show_me_,_to", "one", "I", "on", "go_,_to", "ahead"]}
+{"text": "Manhattan Square please All right sirWhen are we supposed to be there Id like to go around the city if you dont mind", "symbols": ["right", "think_,_to", "D", "go_,_to", "around"]}
+{"text": "I like this shirtHow much is it 135 Wow thats sheer robberyShall I make an offer Im sorry sirThe price is fixed", "symbols": ["I", "S", "I", "make_,_to", "I", "M"]}
+{"text": "Have you got any cheaper ones Here are someThey re on special sale these days Thats more reasonable Ill take this one", "symbols": ["get_,_to", "one", "on", "day", "S", "more", "take_,_to", "one"]}
+{"text": "Are you engaged No sirCan I help you I want sharing Company Oh hop in", "symbols": ["I", "help_,_to", "I", "want_,_to", "share_,_to", "hop_,_to", "in"]}
+{"text": "May I bring you a salad Oh yesWhat do you recommend today Rosepetal salad OK Ill have it for change", "symbols": ["I", "bring_,_to", "salad", "today", "salad", "change_,_to"]}
+{"text": "Id like to order breakfast please Whatd you like madam Two muffins and a cup of coffeeWill it take long No just a few minutes", "symbols": ["I", "D", "order_1_,_to", "breakfast_1", "what", "D", "two", "nosey_cup", "take_,_to", "long", "minute"]}
+{"text": "Whats todays special I think our smoked fish will be to your taste OK Id like to try it today", "symbols": ["what", "S", "I", "think_,_to", "fish_,_to", "taste_,_to", "I", "D", "today"]}
+{"text": "How would you like your hair set Id like to have it in big waves Shall I put some oil on B", "symbols": ["shampoo_hair_,_to", "D", "in", "large", "I", "put_,_to", "baby_oil", "on", "B"]}
+{"text": "I want to take a photograph All rightWhich kind do you prefer I like one taken half length Thats fine", "symbols": ["I", "want_,_to", "take_,_to", "photographs", "I", "one", "take_,_to", "half", "S"]}
+{"text": "Staying out all night you frightened me to death I stayed with my friends You should at least give me a call Im sorry Mum", "symbols": ["out", "night", "I", "die_,_to", "I", "give_,_to", "I", "I", "M"]}
+{"text": "Is this taxi taken No sir Where to Please take me to this address OK Please step in I know where it is", "symbols": ["taxi", "take_,_to", "take_,_to", "I", "web_address", "in", "I"]}
+{"text": "Do you know the circulation of this magazine You mean this month Oh yes hows it Over 2 million", "symbols": ["this_month", "S", "over"]}
+{"text": "Whats the most popular paper circulating in the community Atlanta Daily Oh thank you I want one Here you are", "symbols": ["what", "S", "most", "paper", "in", "I", "want_,_to", "one"]}
+{"text": "Can I help you Mm I just need something about business newsCan you recommend some The Times is a must Thank you Ill have one", "symbols": ["I", "help_,_to", "I", "want_,_to", "one"]}
+{"text": "I like the design of the coat But I like its color Anyway its my ideal coat Ill take it Ill take one too", "symbols": ["I", "coat", "I", "colour", "coat", "take_,_to", "take_,_to", "one"]}
+{"text": "Study hard otherwise youll fail Yes Mum Dont render me lipservice youd better stay at home tonight But its Sunday isnt it", "symbols": ["study_,_to", "hard", "I", "D", "motor_home"]}
+{"text": "Willy I dont think we have much butterCan you buy some Sure MumIn a minute Heres the moneyAnd get some salt Yes Mum", "symbols": ["I", "think_,_to", "get_,_to", "minute", "get_,_to", "salt"]}
+{"text": "George did you remember to buy the book Sorry darling I forgot When will you buy it then I promise youll have it tomorrow", "symbols": ["get_,_to", "read_book_,_to", "I", "get_,_to", "I", "tomorrow"]}
+{"text": "Whats special for today Sweet and sour pro chops Madam Well have it for two people In a minute Madam", "symbols": ["what", "S", "today", "sour", "chop_,_to", "two", "in", "minute"]}
+{"text": "Lets have seafood for a changeHow about oyster and lobster I couldnt agree more Anything else you want to add Oh yeah two beers", "symbols": ["food", "oyster", "I", "more", "want_,_to", "add", "two", "beer"]}
+{"text": "Is that you Bob Sorry he s on another phone Will you hold Oh I m sorry I think I ll call later Thank you", "symbols": ["S", "on", "telephone_2_,_to", "hold_,_to", "I", "M", "I", "think_,_to", "I", "after"]}
+{"text": "Excuse me which way is to the post office The post officeSorry I m not sure Well Thanks any way", "symbols": ["I", "I", "M"]}
+{"text": "What sort of accommodation can you supply for me Weve got a beautiful two double room with a bath an shower", "symbols": ["what", "sort_,_to", "I", "get_,_to", "two", "room", "bath", "shower"]}
+{"text": "Why arent you doing well in the class The material is so abstract that I have trouble understanding it", "symbols": ["in", "science_class", "I"]}
+{"text": "You shouldnt let the dirty dishes accumulate in the sink I know I should wash them right away", "symbols": ["dirty_dishes", "collect_,_to", "in", "sink_2_,_to", "I", "I", "rinse_,_to", "right", "away"]}
+{"text": "Can you finish your homework in ten minutes It will be a piece of cake", "symbols": ["finish", "in", "ten", "minute", "part", "cake"]}
+{"text": "Mom will you have time to help me with my homework today Sorry I wont Ill be working against the clock to finish my presentation", "symbols": ["break_time_1", "help_,_to", "I", "today", "I", "work_,_to", "against", "clock", "finish", "present"]}
+{"text": "Can you give me a hand with the dishes Sure Should I wash or dry I wash and youll dry OK Lets do it", "symbols": ["give_,_to", "I", "hold_hands_,_to", "dishes", "I", "rinse_,_to", "dry", "I", "rinse_,_to", "dry"]}
+{"text": "Thanks for inviting me over for dinner this evening Youre welcome It looks delicious Well here Help yourself to some shrimp Its fresh", "symbols": ["I", "over", "dinner", "day", "look_,_to", "yummy", "help_,_to", "some", "shrimp"]}
+{"text": "Im concerned about your car It will be fine But I think I can help to fix it No dont give it another thought", "symbols": ["I", "M", "car", "I", "think_,_to", "I", "help_,_to", "give_,_to", "think_,_to"]}
+{"text": "Can I stay out all night with my friends No way But well be careful Its out of the question", "symbols": ["I", "out", "night", "out"]}
+{"text": "Excuse me Yes Is this your handbag Pardon Is this your handbag Yes it is Thank you very much", "symbols": ["I", "purse", "purse"]}
+{"text": "Give me some glasses please Jane Which glasses These glasses No not those The ones on the shelf These Yes please Here you are Thanks", "symbols": ["give_,_to", "I", "glasses", "which", "glasses", "glasses", "one", "on", "book_shelf"]}
+{"text": "Hi where can I find a cheap cashmere sweater How about an outlet Great idea Outlets give good deals Thank you so much Youre welcome", "symbols": ["I", "find_,_to", "great", "think_,_to", "give_,_to", "good"]}
+{"text": "Are you going abroad to study Ill have to think about it", "symbols": ["go_,_to", "study_,_to", "think_,_to"]}
+{"text": "Hows Jerrys new school Very nice He gets along with his classmates very well Hes a team player Yes indeed", "symbols": ["S", "school", "get_,_to", "S", "play_,_to"]}
+{"text": "Are you still on your summer vacation Yes When will school start Itll start on lst September", "symbols": ["on", "summer", "school", "on"]}
+{"text": "What subject do you like best English is my favorite No wonder your English is so good Thank you", "symbols": ["good", "favourite", "good"]}
+{"text": "What did you major in I major in Chemistry What is your specialty Organic Chemistry is my specialty", "symbols": ["what", "in", "I", "in", "what"]}
+{"text": "Do I have to take these books here if I want to renew them You can renew the books over the computer Thats so convenient", "symbols": ["I", "take_,_to", "carry_books_,_to", "I", "want_,_to", "return_book_,_to", "over", "computer_2", "S"]}
+{"text": "You can keep these books for only half a month May I renew them if I havent finished reading them Of course you can", "symbols": ["keep_,_to", "carry_books_,_to", "A", "calendar_month", "I", "I", "finish", "read_2_,_to"]}
+{"text": "Paul failed again Hell never do well in mathematics How can we help him Well I cant help", "symbols": ["in", "help_,_to", "I", "help_,_to"]}
+{"text": "You know that Joan has got the scholarship Really But I think Henry is a backroom boyHe always helps her with her study Youre right", "symbols": ["get_,_to", "I", "think_,_to", "help_,_to", "study_,_to", "right"]}
+{"text": "Im so nervous about this oral test Just calm down Im sure youll do well I just want to get it over with", "symbols": ["I", "M", "mouth", "test", "quiet", "down", "I", "M", "I", "want_,_to", "get_,_to", "over"]}
+{"text": "I got a ninetyfive on my test So what I got a ninetynine", "symbols": ["I", "get_,_to", "on", "test", "what", "I", "get_,_to"]}
+{"text": "Richard why didnt you come to school today Im sick I think Ive got the flu Well take care of yourself", "symbols": ["come_,_to", "school", "today", "I", "M", "I", "think_,_to", "I", "get_,_to", "take_,_to"]}
+{"text": "I wish the teacher wouldnt make us read this book Yeah Its boring Id rather read something more exciting", "symbols": ["I", "want_,_to", "make_,_to", "read_2_,_to", "read_book_,_to", "read_2_,_to", "more"]}
+{"text": "We have a class outing today Have fun", "symbols": ["english_class", "picnic", "today", "play_,_to"]}
+{"text": "The teacher just canceled the test Are you kidding", "symbols": ["test"]}
+{"text": "Welcome to our school If you need any help please come to me You are so kind Thank you very much", "symbols": ["school", "want_,_to", "help_,_to", "come_,_to", "I"]}
+{"text": "I failed the exam because I didnt study Serves you right", "symbols": ["I", "test", "I", "study_,_to", "serve_2_,_to", "right"]}
+{"text": "I noticed your absence in class this morning Im sorry I overslept", "symbols": ["I", "absent", "in", "no_class", "morning", "I", "M", "I"]}
+{"text": "Good luck on your test tomorrow Well be crossing our fingers for you Thanks", "symbols": ["good", "on", "test", "tomorrow", "cross", "fingers"]}
+{"text": "I didnt see you at Mr Johnsons class today Yeah I quit Why Im fed up with his boring lectures", "symbols": ["I", "saw", "no_class", "today", "I", "I", "up"]}
+{"text": "Do you mind if I sit here Of course not help yourself What are you studying I have a test tomorrow", "symbols": ["I", "sit_,_to", "help_,_to", "what", "study_,_to", "I", "test", "tomorrow"]}
+{"text": "Maybe you should talk to the teacher No its no use You never know unless you try I know She wont change my grade", "symbols": ["talk_2_,_to", "I", "change_,_to"]}
+{"text": "Are you planning on studying abroad Id like to but Im not sure if Ill have enough money", "symbols": ["on", "study_,_to", "I", "D", "I", "M", "enough", "money"]}
+{"text": "How many courses do you have for this semester Eight altogether How are they proportioned Six are compulsory two optional", "symbols": ["how_many", "whole", "six", "two"]}
+{"text": "May I ask a question Yes whats it What does mph stand for Its miles per hour", "symbols": ["I", "ask_,_to", "what", "S", "what", "stand_,_to", "one_hour"]}
+{"text": "Bill your work is too messy Ill pay attention to my handwriting next time Is this a promise Yes Im serious this time", "symbols": ["work_,_to", "next", "circle_time", "I", "M", "tea_time"]}
+{"text": "I wish I had access to the public library its easy Just go and get a card", "symbols": ["I", "want_,_to", "I", "switch_access", "go_,_to", "get_,_to", "card"]}
+{"text": "Excuse meWhere do I register Oh over there in Pacific Pavilion Is that the large white building Yeah thats it Thanks", "symbols": ["I", "over", "in", "large", "white", "build_,_to", "S"]}
+{"text": "Im so angry I feel like killing someone Calm down", "symbols": ["I", "M", "I", "kill_,_to", "down"]}
+{"text": "Im afraid of the darkness Dont worry Ill drive you back Thank you", "symbols": ["I", "M", "drive_,_to", "back_1"]}
+{"text": "Do you keep any pets such as cats dogs No Im scared of cats Oh but why I feel theyre dirty", "symbols": ["keep_,_to", "collar_pet", "cat", "dog", "I", "M", "cat", "I", "dirty"]}
+{"text": "Ive had enough of that Why this is the most interesting film I hate the heroHe s too cruel But its only a film", "symbols": ["I", "enough", "most", "I", "S"]}
+{"text": "I dont think the lecture is very interesting The lecturer is dull too I feel hes like a talking machine I feel the same way", "symbols": ["I", "think_,_to", "I", "S", "talk_2_,_to", "washing_machine", "I", "same"]}
+{"text": "Tom set the whole country by the ears with his discovery He is really terrific He was very clever when he was a boy", "symbols": ["whole", "ear", "find_,_to"]}
+{"text": "Mark is parade his knowledge again Yeah He s very good at showing off his knowledge A welllearned person never does that", "symbols": ["parade_1", "S", "good", "off", "old_person_1"]}
+{"text": "Mary is really a diligent girl What do you mean She learns to speak Latin by osmosis within three months She is really something", "symbols": ["what", "talk_2_,_to", "three", "calendar_month"]}
+{"text": "What are you thinking about About my boyfriend Again You are really a wet blanket", "symbols": ["what", "think_,_to", "wet_1", "blanket"]}
+{"text": "Your knowledge of English is really surprising Oh its nothing to speak of No seriously Im impressed Thank you I appreciate the compliment", "symbols": ["talk_2_,_to", "I", "M", "I"]}
+{"text": "Joan is a thorough drag What is it She keeps talking when Im reading There must be something wrong with her", "symbols": ["what", "keep_,_to", "talk_2_,_to", "I", "read_2_,_to"]}
+{"text": "My granny is such a kindhearted person She is willing to help She does have a heart of gold You can say that again", "symbols": ["grandmother", "hot_person", "help_,_to", "heart"]}
+{"text": "Your ring is very beautiful Thank you It has been handed down in my family for three generations Oh it is precious It surely is", "symbols": ["ring", "down", "in", "family", "three"]}
+{"text": "Im worried sick that she will leave me tomorrow Its no use arguing the toss Maybe Ill have to face the music", "symbols": ["I", "M", "left", "I", "tomorrow", "flip_,_to", "music"]}
+{"text": "My hair stood on end when I saw the bloody scene What scene A kitten being run over by a truck", "symbols": ["long_hair", "stand_,_to", "on", "book_end", "I", "saw", "what", "run_,_to", "over", "dumper_truck"]}
+{"text": "I m itching for moving What s the matter What annoy you It s so wet and dark I m just fed up", "symbols": ["I", "itch", "move_,_to", "what", "S", "what", "S", "wet_1", "I", "up"]}
+{"text": "Whats happening in your life Can you believe Im going to America That sounds great Yes Im really excited", "symbols": ["what", "in", "think_,_to", "I", "go_,_to", "great", "I", "M"]}
+{"text": "Can I borrow some money from you No way", "symbols": ["I", "money"]}
+{"text": "I got a raise Im glad to hear that", "symbols": ["I", "get_,_to", "I", "M", "hear_,_to"]}
+{"text": "Congratulations Is it a boy or a girl Its a boy", "symbols": []}
+{"text": "Youre looking great You too", "symbols": ["look_,_to", "great"]}
+{"text": "Congratulations Youve just won a car Its too good to be true", "symbols": ["winner", "car", "good"]}
+{"text": "Youre my hero Aw shucks maam", "symbols": []}
+{"text": "Cindy I heard you got into that university Congratulations Thanks Im so happy Its like a dream come true", "symbols": ["I", "hear_,_to", "get_,_to", "I", "M", "dream_,_to", "come_,_to"]}
+{"text": "Im terribly sorry to have caused you so much trouble Thats all right", "symbols": ["I", "M", "S", "right"]}
+{"text": "Remember that writing contest I entered Well I won first prize Great This calls for a celebration", "symbols": ["write_,_to", "I", "enter_,_to", "I", "winner", "first", "celebration"]}
+{"text": "I dont want to do the damn dishes Watch your language or youll be spending the weekend in your room", "symbols": ["I", "want_,_to", "dishes", "watch", "weekend", "in", "room"]}
+{"text": "The teacher should give us more time to complete this assignment Youre right Lets ask her to give us one more week", "symbols": ["give_,_to", "more", "bed_time", "finish", "right", "ask_,_to", "give_,_to", "one", "more", "week_1"]}
+{"text": "Look at that pretty girl Wow Shes gorgeous", "symbols": ["look_,_to", "pretty", "S"]}
+{"text": "Tom I won first prize in the poetry contest Come on Youre pulling my leg Really Heres my trophy Wow Congratulations", "symbols": ["I", "winner", "first", "in", "come_,_to", "on", "pull_,_to", "leg"]}
+{"text": "Thats a cool jacket Where did you get it I bought it when I was on vacation in Nepal", "symbols": ["S", "jacket", "get_,_to", "I", "get_,_to", "I", "on", "in"]}
+{"text": "I love that vase Do you really like it Yes it looks perfect It wasnt very expensive either Thats amazing", "symbols": ["I", "vase", "look_,_to", "S"]}
+{"text": "Guess what I won the speech contest at my school Wow thats great", "symbols": ["guess_,_to", "what", "I", "winner", "school", "S", "great"]}
+{"text": "He got the scholarship to Harvard Youre kidding Its true He is a hard worker I know he really deserves this", "symbols": ["get_,_to", "hard", "work_,_to", "I"]}
+{"text": "Im sorry for spilling my drink on your rug Theres no need to apologize But I ruined your rug Forget it It was an accident", "symbols": ["I", "M", "spill_,_to", "drink_,_to", "on", "rug", "S", "want_,_to", "I", "rug"]}
+{"text": "Dont cover up your sadness Let it go Im sorry It isnt your fault No one will blame you You are so thoughtful", "symbols": ["up", "go_,_to", "I", "M", "one"]}
+{"text": "Your knowledge of English is really surprising Oh its nothing to speak of No seriously I am impressed Thank you I appreciate the compliment", "symbols": ["talk_2_,_to", "I", "I"]}
+{"text": "Youre going to abandon me just like that Im sorry but Ive got an important job to do", "symbols": ["go_,_to", "throw_away_,_to", "I", "I", "M", "I", "get_,_to"]}
+{"text": "When shooting a gun accuracy is very important You only need to tell me that once", "symbols": ["shoot_,_to", "want_,_to", "I"]}
+{"text": "I think its important that all people have the ability to read I agree with you but thats easier said than done", "symbols": ["I", "think_,_to", "read_2_,_to", "I"]}
+{"text": "How would you like your hair cut I want it short Then Ill just trim it It will do", "symbols": ["short_hair", "cut", "I", "want_,_to", "short_2", "trim_,_to"]}
+{"text": "She is so stupid Who cares She is pretty So what Youre just jealous", "symbols": ["who", "pretty", "what"]}
+{"text": "Did you see that No I missed it How could you miss that Someone was in the way", "symbols": ["saw", "I", "in"]}
+{"text": "Any chance of using your telephone You Ve been using it for two weeks without paying Well I thought it was not that serious", "symbols": ["telephone_2_,_to", "two", "week_1", "I", "think_,_to"]}
+{"text": "How dare you accuse me of stealing your computer Im sorry but you were the only one who had access to it", "symbols": ["I", "steal_,_to", "computer_2", "I", "M", "one", "who", "switch_access"]}
+{"text": "I m terribly sorry to cause you so much trouble That s alright", "symbols": ["I", "M", "S"]}
+{"text": "Would you mind doing something for me I would if I could Would you please explain the meaning of the word Yes With pleasure", "symbols": ["I", "I", "I"]}
+{"text": "Excuse me would you lend me some wreckers Until when Until Monday or Tuesday next week No problem", "symbols": ["I", "I", "next_week"]}
+{"text": "We have absolute proof that you committed the crime Thats absolutely ridiculous", "symbols": ["S"]}
+{"text": "I hate to see the abuse of animals It makes me sick", "symbols": ["I", "saw", "brush_animal_,_to", "make_,_to", "I"]}
+{"text": "I really dislike reading academic books That may be so but reading them is an important way to expand your knowledge", "symbols": ["I", "read_2_,_to", "read_book_,_to", "read_2_,_to", "grow_2_,_to"]}
+{"text": "The academy is an important part of the education system I couldnt agree with you more", "symbols": ["part", "I", "more"]}
+{"text": "Would you be willing to accompany me to the party tonight Sure Id love to", "symbols": ["I", "D"]}
+{"text": "The concert was really great I agree The singing group used to be very popular I cant believe they would play so good", "symbols": ["great", "I", "sing_,_to", "I", "think_,_to", "play_,_to", "good"]}
+{"text": "Yes sir I hate to complain but this soup is too salty Im very sorrysir Ill ask the manager to take care of this", "symbols": ["I", "soup", "salty", "I", "M", "ask_,_to", "coach", "take_,_to"]}
+{"text": "Where will you go in your vacation Oh Im hoping to take courses in my vacation Youre so industrious", "symbols": ["go_,_to", "in", "I", "hop_,_to", "take_,_to", "in"]}
+{"text": "How delicious Tender and crisp This is the specialty of our restaurant sir Yes its really savory Thank you for appreciating it", "symbols": ["yummy", "crisps"]}
+{"text": "This is the best dinner Ive ever had How about the soup Ive never tasted anything better How nice of you to say so", "symbols": ["good", "dinner", "I", "soup", "I", "taste_,_to"]}
+{"text": "What a pinup she is Can you imagine shes over forty Thats incredible She has such a sharp figure AbsolutelyShe s a teacher of aerobics", "symbols": ["what", "think_,_to", "S", "over", "forty", "S", "sharp", "fig", "S"]}
+{"text": "Look out Whats it You must have rolled over something just now What you said gives me the creeps", "symbols": ["look_,_to", "out", "what", "S", "turn_,_to", "over", "now", "what", "give_,_to", "I"]}
+{"text": "I was scared stiff of giving my first performance Were you your performance was excellent Thank you for your kindly words", "symbols": ["I", "give_,_to", "first"]}
+{"text": "This shirt you gave me is not my favorite brand Dont look a gift horse in the mouth That was the best they had", "symbols": ["shirt", "give_,_to", "I", "favourite", "look_,_to", "horse", "in", "mouth", "good"]}
+{"text": "Those guys work at the same company and go to the same bars They do everything together Birds of a feather flock together", "symbols": ["guy", "work_,_to", "same", "go_,_to", "same", "handle_bars", "feather"]}
+{"text": "Lady you look unhappy What s the beef A man stepped on my feet when I was waiting for the taxi", "symbols": ["look_,_to", "what", "S", "beef", "laughing_man", "on", "feet", "I", "wait_,_to", "taxi"]}
+{"text": "You are late What s the deal Sorry I was delayed by something and stuck in traffic", "symbols": ["what", "S", "I", "stick", "in"]}
+{"text": "Oh no I Ve been assigned to work with Jerry for our group project Oh I heard that he loves to boss people around", "symbols": ["I", "work_,_to", "I", "hear_,_to", "around"]}
+{"text": "You have your ducks in a row Thank you very much I will devote all my efforts to my work", "symbols": ["duck", "in", "I", "work_,_to"]}
+{"text": "You are an eager beaver Thank you I just consider working as part of my life", "symbols": ["I", "think_,_to", "work_,_to", "part"]}
+{"text": "Mom My legs are killing me Hold on We will be successful right away", "symbols": ["legs", "kill_,_to", "I", "hold_,_to", "on", "right", "away"]}
+{"text": "Reciting texts really bores me to death Do you have to remember every text Yes the teacher says recitation is real good", "symbols": ["I", "die_,_to", "good"]}
+{"text": "Whats all this noise about Theyre discussing whether they should replace Miss Smith the Music teacher Why Because shes not responsible enough", "symbols": ["what", "S", "S", "enough"]}
+{"text": "Do you like playing tennis I dont find it very exciting Maybe you havent found the magic I cant wait", "symbols": ["play_,_to", "tennis", "I", "find_,_to", "find_,_to", "I", "wait_,_to"]}
+{"text": "Im really sick of waiting for a bus YeahEspecially when you have something urgent to do But a taxi costs too much Thats true", "symbols": ["I", "M", "wait_,_to", "bus", "taxi", "S"]}
+{"text": "Im tired of dancing But to me its really enjoyable Maybe its because you always have pretty girls as your partners Maybe so", "symbols": ["I", "M", "dance_2_,_to", "I", "pretty", "partner"]}
+{"text": "What a boring film The acting of the heroine is too artificial And the plot is so simple", "symbols": ["what"]}
+{"text": "Bother the flies Where do they come from I dont know Something rotten here I cant see it", "symbols": ["fly", "come_,_to", "I", "I", "saw"]}
+{"text": "That guys manner really turns me off YeahHe never stops asking questions Maybe hes abnormal", "symbols": ["guy", "turn_,_to", "I", "off", "ask_,_to", "S"]}
+{"text": "All the routine work really browns me off Oh come onYou Ve just started I wish I hadnt chosen this job", "symbols": ["work_,_to", "brown", "I", "off", "come_,_to", "I", "want_,_to", "I", "take_,_to"]}
+{"text": "That woman is a thorough drag What is it She keeps spitting on the ground Maybe theres something wrong with her", "symbols": ["what", "keep_,_to", "on", "ground", "S"]}
+{"text": "My uncle gave me this bicycle as a birthday present Look So cool Can I get a load of it", "symbols": ["give_,_to", "I", "bicycle", "celebrate_birthday", "present", "look_,_to", "I", "get_,_to"]}
+{"text": "I just heard your boy had taken the first place in the history test He is super cool You flatter me", "symbols": ["I", "hear_,_to", "take_,_to", "first", "in", "history", "test", "I"]}
+{"text": "We are planning to go to Beidaihe for vacation Do you want to go with us It s so cool", "symbols": ["go_,_to", "want_,_to", "go_,_to", "S"]}
+{"text": "Could you do me a favour I don t understand this French document Oh this is over my head It s too professional", "symbols": ["I", "I", "new_document", "over", "head", "S"]}
+{"text": "I have been working 70 hours this week I am totally maxed out 70 hours I would be dead if I worked hard like that", "symbols": ["I", "work_,_to", "one_hour", "this_week", "I", "out", "one_hour", "I", "dead", "I", "work_,_to", "hard"]}
+{"text": "Your brand new car is so excellent I like it very much Let s go for a joy ride", "symbols": ["car", "I", "S", "go_,_to", "drive_,_to"]}
+{"text": "Today is your birthday First of all happy birthday to you Thank you for coming We will have dinner outside Eat up", "symbols": ["today", "celebrate_birthday", "first", "celebrate_birthday", "come_,_to", "dinner", "outside", "eat_2_,_to", "up"]}
+{"text": "I got a promotion Lunch is on me It s great", "symbols": ["I", "get_,_to", "on", "I", "S", "great"]}
+{"text": "This is just for you Cheers Bottoms up En it tastes good I appreciate what you have done for me", "symbols": ["bottom_2", "up", "taste_,_to", "good", "I", "what", "I"]}
+{"text": "Way to go It seems beautiful and very delicious Thank youThanks to the baker I benefit a lot from him", "symbols": ["go_,_to", "yummy", "bake_,_to", "I"]}
+{"text": "I can t bear it The driver is too bad He must be green It s lucky that we will get off soon", "symbols": ["I", "bear", "drive_,_to", "bad", "green", "S", "lucky", "get_,_to", "off"]}
+{"text": "Cheese It tastes like cardboard I think so Maybe that s why it s cheap here", "symbols": ["cheese", "taste_,_to", "cardboard", "I", "think_,_to", "S", "S"]}
+{"text": "Jane what do think about this dinner Very good Chinese food rules I expect the next time", "symbols": ["what", "think_,_to", "dinner", "good", "chinese_food", "I", "next", "tea_time"]}
+{"text": "How do you like the pizza here Perfect It really hits the spot", "symbols": ["pizza_2", "hit_,_to", "pointed"]}
+{"text": "Hurry up Time is running out I see I have run as fast as I can", "symbols": ["up", "run_,_to", "out", "I", "saw", "I", "run_,_to", "fast_2", "I"]}
+{"text": "Oh my god My wallet is lost What should I do It drives me bonkers Dear don t worry The police can help you", "symbols": ["wallet", "lost", "what", "I", "drive_,_to", "I", "T", "help_,_to"]}
+{"text": "Mom look that cake looks delicious My mouth is watering OK boy I will buy it for you", "symbols": ["look_,_to", "cake", "look_,_to", "yummy", "mouth", "water", "I", "get_,_to"]}
+{"text": "I ran into a glass door yesterday What a bone head Be careful next time", "symbols": ["I", "run_,_to", "glass", "door_2", "yesterday", "what", "bone", "head", "next", "tea_time"]}
+{"text": "It s dangerous I don t dare to go Come on It s quite safe You really have no guts", "symbols": ["S", "I", "go_,_to", "come_,_to", "on", "S", "intestine"]}
+{"text": "Wow It s packed The train station is indeed crowded I think it s hard for us to get on the train", "symbols": ["train", "I", "think_,_to", "S", "hard", "get_,_to", "on", "train"]}
+{"text": "I love her so much you know I want to be alone Please keep quiet I am just casting pearls before swine", "symbols": ["I", "I", "want_,_to", "keep_,_to", "quiet", "I", "before"]}
+{"text": "You can take this car into consideration It works well and its price is reasonable I was not born yesterday", "symbols": ["take_,_to", "car", "work_,_to", "I", "bear", "yesterday"]}
+{"text": "Yesterday I had a deal with a vice manager He acts like the point man I always meet people like him", "symbols": ["yesterday", "I", "vice", "coach", "point_,_to", "laughing_man", "I", "meet_,_to"]}
+{"text": "You are very late but I was on pins and needles the whole time Oh I m sorry", "symbols": ["I", "on", "bowling_pins", "whole", "break_time_1", "I", "M"]}
+{"text": "Did you get any pizza When I got there only small one was left What a pity I got the short end of the stick", "symbols": ["get_,_to", "pizza_2", "I", "get_,_to", "little", "one", "left", "what", "I", "get_,_to", "short_2", "book_ends", "stick"]}
+{"text": "You are freaking me out You don t like the dog I promise I will never bring it with me", "symbols": ["I", "out", "dog", "I", "I", "bring_,_to", "I"]}
+{"text": "Look at what you have done All thumbs I m so sorry and I will pay much attention to it later", "symbols": ["look_,_to", "what", "thumbs", "I", "M", "I", "after"]}
+{"text": "Im tired of you always wearing my clothing Arent you the pot calling the kettle black Youre wearing my pants right now", "symbols": ["I", "M", "vest", "pot", "kettle", "black", "pants", "right", "now"]}
+{"text": "Ive been accepted by the university and theyve offered me a position on the basketball team Thats wonderful Icing on the cake", "symbols": ["I", "take_,_to", "I", "on", "basketball", "S", "on", "cake"]}
+{"text": "Whats wrong with him His nose is out of joint because we forgot to invite him to the party", "symbols": ["what", "S", "out"]}
+{"text": "My brother started investing money when he was 16 years old The early bird catches the worm", "symbols": ["brother", "money", "bird", "catch_2_,_to"]}
+{"text": "Id like to talk with you again about what happened Oh come on Lets not beat a dead horse", "symbols": ["I", "D", "talk_2_,_to", "what", "come_,_to", "on", "crush_,_to", "dead", "horse"]}
+{"text": "This cake is excellent Where did you buy it Actually my mother made it from scratch", "symbols": ["cake", "get_,_to", "parents", "make_,_to"]}
+{"text": "Wow Look how polite your son has become Yes We had a big talk with him and he has really turned over a new leaf", "symbols": ["look_,_to", "son", "large", "talk_2_,_to", "turn_,_to", "over", "leaf"]}
+{"text": "You are not being a good sport about this Thats because you cheated I never cheat Yes you do", "symbols": ["good", "S", "cheat_,_to", "I", "cheat_,_to"]}
+{"text": "Hurry up Were going to be late I am hurrying What are you doing I cant figure out which dress to wear", "symbols": ["up", "go_,_to", "I", "what", "I", "out", "dress"]}
+{"text": "Youre acting weird tonight Im just in the mood to act goofy What brought this on I guess Im glad exams are over", "symbols": ["I", "M", "in", "what", "bring_,_to", "on", "I", "guess_,_to", "I", "M", "test", "over"]}
+{"text": "Ive just been a little depressed lately Whats wrong Nothing really Then just keep your chin up", "symbols": ["I", "little", "what", "S", "keep_,_to", "chin", "up"]}
+{"text": "Bob what are you thinking about Im looking forward to going to America When do you go Next week", "symbols": ["what", "think_,_to", "I", "look_,_to", "forward", "go_,_to", "go_,_to", "next_week"]}
+{"text": "How did you know It was a kind of sixth sense Does it happen often No", "symbols": []}
+{"text": "How was my singing Not bad at all", "symbols": ["sing_,_to", "bad"]}
+{"text": "Lets go eat 0kay Dinners on me", "symbols": ["go_,_to", "eat_2_,_to", "dinner", "on", "I"]}
+{"text": "I lost all my lottery winnings playing the stock market Easy come easy go", "symbols": ["I", "lost", "play_,_to", "stock", "come_,_to", "go_,_to"]}
+{"text": "Should I ask Sara to the party I would if I were you", "symbols": ["I", "ask_,_to", "I", "I"]}
+{"text": "What do you think of the new mayor No comment", "symbols": ["what", "think_,_to"]}
+{"text": "Michael Jacksons coming to town I Couldnt care less", "symbols": ["come_,_to", "I"]}
+{"text": "How have you been Fine thanks How about you", "symbols": []}
+{"text": "You hurt Bens feelings So", "symbols": []}
+{"text": "I had an accident Thats terrible", "symbols": ["I", "S"]}
+{"text": "I went bungee jumping yesterday That sounds like fun", "symbols": ["I", "go_,_to", "jump_,_to", "yesterday", "play_,_to"]}
+{"text": "Hi Mary long time no see I heard through the grapevine that your getting married Yes next March Congratulations I hope everything works out", "symbols": ["long", "break_time_1", "saw", "I", "hear_,_to", "through", "grapes", "get_,_to", "married", "next", "I", "work_,_to", "out"]}
+{"text": "Have you eaten Not yet", "symbols": ["eat_2_,_to"]}
+{"text": "Well it was nice meeting you Yes I hope we meet again Sure Ill give you a call Okay", "symbols": ["meet_,_to", "I", "meet_,_to", "give_,_to"]}
+{"text": "Give me a call tomorrow Okay", "symbols": ["give_,_to", "I", "tomorrow"]}
+{"text": "Im terribly nervous Calm down", "symbols": ["I", "M", "down"]}
+{"text": "Im tired of this job So am I", "symbols": ["I", "M", "I"]}
+{"text": "My wife gave birth to our first child today Wow Im so happy for you", "symbols": ["wife", "give_,_to", "first", "paint_childs", "today", "I", "M"]}
+{"text": "My uncle passed away last night My condolences", "symbols": ["away", "last_2", "night"]}
+{"text": "Why do you go fishing so often Its fun", "symbols": ["go_,_to", "fish_,_to", "play_,_to"]}
+{"text": "Is sailing fun You bet", "symbols": ["play_,_to"]}
+{"text": "How was your vacation in Paris It was exciting", "symbols": ["in"]}
+{"text": "My girlfriend dumped me Well thats life", "symbols": ["I", "S"]}
+{"text": "Im looking forward to summer vacation Me too", "symbols": ["I", "look_,_to", "forward", "summer", "I"]}
+{"text": "Hows your girlfriend We broke up", "symbols": ["S", "broken", "up"]}
+{"text": "You were right Its raining again I told you so", "symbols": ["right", "I"]}
+{"text": "How much do you make a month Mind your own business", "symbols": ["make_,_to", "calendar_month"]}
+{"text": "Lets go in After you", "symbols": ["go_in_,_to", "after"]}
+{"text": "Thanks for your hospitality Youre welcome", "symbols": []}
+{"text": "What happened It was just a misunderstanding", "symbols": ["what"]}
+{"text": "Guess what What", "symbols": ["guess_,_to", "what", "what"]}
+{"text": "Why are you all dressed up Ive got a date", "symbols": ["dress", "up", "I", "get_,_to", "date"]}
+{"text": "Are you ready Not yet", "symbols": ["ready"]}
+{"text": "Hello Bob this is Frank I know weve met I didnt know you knew Frank Yes we met last year at a conference", "symbols": ["hello", "I", "meet_,_to", "I", "meet_,_to", "last_2"]}
+{"text": "Get changed What for", "symbols": ["change_,_to", "what"]}
+{"text": "Be quiet Will you Im sorry", "symbols": ["quiet", "I", "M"]}
+{"text": "What food do you fancy I feel like something good to eat How about going to Joes Restaurant Hey that sounds a good idea", "symbols": ["food", "fancy", "I", "good_to_eat", "go_,_to", "good", "think_,_to"]}
+{"text": "Hi Bob this is Mary Hello Mary where do you work I work for an Internet company Is the pay good", "symbols": ["hello", "work_,_to", "I", "work_,_to", "internet", "good"]}
+{"text": "Bon voyage Goodbye", "symbols": []}
+{"text": "Lets get together this weekend Sounds good", "symbols": ["get_,_to", "weekend", "good"]}
+{"text": "Mikes really angry I wonder Why", "symbols": ["I"]}
+{"text": "It was great meeting you Me too Maybe we can meet again sometime Of course but Ill have to go now", "symbols": ["great", "meet_,_to", "I", "meet_,_to", "go_,_to", "now"]}
+{"text": "Time flies Youre telling me", "symbols": ["bed_time", "fly", "I"]}
+{"text": "I must be going Okay Keep in touch", "symbols": ["I", "go_,_to", "keep_,_to", "in", "touch_,_to"]}
+{"text": "Hows business Couldnt be better", "symbols": ["S"]}
+{"text": "Im going to Japan this year on vacation Have you ever been to America No but Id really like to Youd like it", "symbols": ["I", "go_,_to", "on", "I", "D", "D"]}
+{"text": "Ive moved Where to", "symbols": ["I", "move_,_to"]}
+{"text": "Hello Mary Hello Brian Here is my friend Bob Hello Bob", "symbols": ["hello", "hello"]}
+{"text": "Have you heard the news No What happened", "symbols": ["hear_,_to", "what"]}
+{"text": "Hi Bob this is my friend Mary I am very pleased to meet you Bob is in advertising That sounds an interesting job Bob", "symbols": ["I", "meet_,_to", "in"]}
+{"text": "I just got fired You asked for it", "symbols": ["I", "fire", "ask_,_to"]}
+{"text": "Can you lend me your car Nothing doing", "symbols": ["I", "car"]}
+{"text": "Im happy to see you again Me too We should do this more often Okay Ill give you a ring next week", "symbols": ["I", "M", "saw", "I", "more", "give_,_to", "ring", "next_week"]}
+{"text": "You and Bob have finished Yes Are you going to be okay Yes Im used to being on my own", "symbols": ["finish", "go_,_to", "I", "on"]}
+{"text": "Hello Bill whats new Bob and Mary are back together Im glad to hear it Me too theyre such a nice couple", "symbols": ["hello", "what", "S", "back_1", "I", "M", "hear_,_to", "I"]}
+{"text": "The boss is mad at you Who cares", "symbols": ["who"]}
+{"text": "Tom did me many favors For example", "symbols": ["I"]}
+{"text": "Dont be afraid Give it a try Okay", "symbols": ["give_,_to"]}
+{"text": "Why dont you go out with Jack He makes me sick", "symbols": ["go_,_to", "out", "make_,_to", "I"]}
+{"text": "Im not a VIP Youre too humble", "symbols": ["I", "M"]}
+{"text": "Paul sends you his regards How nice of him", "symbols": []}
+{"text": "Thanks for your help No problem anytime Let me know if I can do anything for you Okay thank you", "symbols": ["help_,_to", "I", "I"]}
+{"text": "Peter and Mary broke up Are you serious", "symbols": ["broken", "up"]}
+{"text": "Its all over Im bankrupt Dont worry Everything will be fine", "symbols": ["over", "I", "M"]}
+{"text": "Whats new Nothing much", "symbols": ["what", "S"]}
+{"text": "Were thinking about going to America Have you thought about the cost There is that I believe itll be very expensive", "symbols": ["think_,_to", "go_,_to", "think_,_to", "I", "think_,_to"]}
+{"text": "This is great isnt it Its the most fun Ive had in years We should do this more often Yes we should", "symbols": ["great", "most", "play_,_to", "I", "in", "more"]}
+{"text": "What was that all about We had a difference of opinion Is she going to be okay Shell be fine", "symbols": ["what", "think_,_to", "go_,_to"]}
+{"text": "What do you think of when youre praying I try to picture the Lords face in my mind Does that help you faith Yes", "symbols": ["what", "think_,_to", "pray_,_to", "I", "picture", "look_,_to", "in", "head", "help_,_to"]}
+{"text": "Actually I have a passion for Chinese literature You do Yeah those classics from the great writers But I find Japanese ones better", "symbols": ["I", "great", "write_,_to", "I", "find_,_to", "one"]}
+{"text": "How do you feel Im nervous as can be", "symbols": ["I", "M"]}
+{"text": "Dont be shy Have some more chicken Thanks", "symbols": ["some", "more", "chicken"]}
+{"text": "Im feeling hungry Isnt it time for dinner Yes lets get something to eat How about Mac Donalds", "symbols": ["I", "hungry", "dinner_time", "dinner", "get_,_to", "eat_2_,_to"]}
+{"text": "The boy threw up Thats disgusting", "symbols": ["up", "S"]}
+{"text": "Shall we go for a drive today It feels like theres going to be rain later Maybe youre right Well go tomorrow", "symbols": ["go_,_to", "drive_,_to", "today", "go_,_to", "rain", "after", "right", "go_,_to", "tomorrow"]}
+{"text": "Im feeling down Come on Cheer up", "symbols": ["I", "down", "on", "up"]}
+{"text": "Wheres Bob It seems like hes not coming Can you give him a call on his mobile Sure", "symbols": ["S", "come_,_to", "give_,_to", "on", "telephone_mobile_,_to"]}
+{"text": "Im so angry at Bob for buying a new bike Whats the big deal", "symbols": ["I", "M", "get_,_to", "motorcycle", "what", "S", "large"]}
+{"text": "What day is it today Its Friday", "symbols": ["what", "day", "today"]}
+{"text": "What are you doing this weekend I dont have any plans", "symbols": ["what", "weekend", "I"]}
+{"text": "Are you free tonight I think so", "symbols": ["I", "think_,_to"]}
+{"text": "Did you hear about Bob and Mary No what happened They had an argument and split up Really whats going to happen now", "symbols": ["hear_,_to", "what", "divide", "up", "what", "go_,_to", "now"]}
+{"text": "Its getting late Yeah Id better head for home", "symbols": ["get_,_to", "I", "D", "head", "motor_home"]}
+{"text": "Youve met her before havent you I dont recall", "symbols": ["meet_,_to", "before", "I"]}
+{"text": "Hes too young for the job Give him a chance", "symbols": ["S", "young", "give_,_to"]}
+{"text": "Why do you like this computer Its user friendly", "symbols": ["computer_2"]}
+{"text": "What happened to John He quit", "symbols": ["what"]}
+{"text": "How old are you Thats a secret", "symbols": ["S"]}
+{"text": "I dont dare ask Jane for a date Youve got no guts", "symbols": ["I", "ask_,_to", "date", "get_,_to", "intestine"]}
+{"text": "Why arent you at work I called in sick", "symbols": ["work_,_to", "I", "in"]}
+{"text": "Were going dancing tonight Count me out", "symbols": ["go_,_to", "dance_2_,_to", "count_,_to", "I", "out"]}
+{"text": "I cant go to your party Thats too bad", "symbols": ["I", "go_,_to", "S", "bad"]}
+{"text": "Its raining Oh no Not again", "symbols": []}
+{"text": "I dare you to talk to that girl Okay I will", "symbols": ["I", "talk_2_,_to", "I"]}
+{"text": "Thanks for everything Dont mention it", "symbols": []}
+{"text": "Hows business So so", "symbols": ["S"]}
+{"text": "Are you free tonight Depends", "symbols": ["count_,_to"]}
+{"text": "Hows the weather today Its cloudy Is it going to rain today I doubt it But I heard it might rain", "symbols": ["S", "change_weather_,_to", "today", "cloudy", "go_,_to", "rain", "today", "I", "I", "hear_,_to", "rain"]}
+{"text": "Would you mind if I smoked Id rather you didnt", "symbols": ["I", "smoke_,_to", "D"]}
+{"text": "Would you like to go to a concert with me Id love to", "symbols": ["go_,_to", "I", "D"]}
+{"text": "How should I dress for the party Dress casually", "symbols": ["I", "dress", "dress"]}
+{"text": "Tims always bothering me Just tell him off", "symbols": ["I", "off"]}
+{"text": "I just won the lottery Youre kidding", "symbols": ["I", "winner"]}
+{"text": "Why is little Billy crying He got a scolding", "symbols": ["little", "shout_,_to", "get_,_to"]}
+{"text": "How was your date with Betty Lets change the subject", "symbols": ["date", "change_,_to"]}
+{"text": "Whos that Search me", "symbols": ["who", "S", "I"]}
+{"text": "Lets go for a drink after work Nothing doing", "symbols": ["go_,_to", "drinks", "work_,_to"]}
+{"text": "Ill come see you tomorrow Promise", "symbols": ["saw", "tomorrow"]}
+{"text": "Hi Betty Wheres your boyfriend I have no idea", "symbols": ["S", "I", "think_,_to"]}
+{"text": "Are you tired Not really", "symbols": []}
+{"text": "Ill help you with your homework I appreciate that", "symbols": ["help_,_to", "I"]}
+{"text": "I saw your car outside so I stooped by Yeah I come here every now and then", "symbols": ["I", "saw", "car", "outside", "I", "I", "come_,_to", "now"]}
+{"text": "Are you going to take the job Ill have to sleep on it", "symbols": ["go_,_to", "take_,_to", "rest_,_to", "on"]}
+{"text": "Thanks for the loan Think nothing of it", "symbols": ["think_,_to"]}
+{"text": "Excuse me could you tell me how much is the ticket It is free on weekend Thats great Here is a guiding plan", "symbols": ["I", "I", "on", "weekend", "S", "great"]}
+{"text": "Toms dating your sister Are you sure", "symbols": ["date", "sister"]}
+{"text": "Can you give me a ride back home Sure", "symbols": ["give_,_to", "I", "drive_,_to", "back_1"]}
+{"text": "Well get a big bonus this year wont we Dont count on it", "symbols": ["get_,_to", "large", "count_,_to", "on"]}
+{"text": "Rob lost his bike What an idiot", "symbols": ["lost", "motorcycle", "what"]}
+{"text": "Thanks a million Dont mention it", "symbols": []}
+{"text": "Jim was late again Its not like him to be late", "symbols": []}
+{"text": "Hows John doing He can barely make ends meet", "symbols": ["make_,_to", "book_ends", "meet_,_to"]}
+{"text": "Why are you shivering Its freezing", "symbols": []}
+{"text": "I wouldnt dare go bungee jumping Chicken", "symbols": ["I", "go_,_to", "jump_,_to"]}
+{"text": "What are you guys doing Just having a chat", "symbols": ["what", "guy", "communication_aid_chat_2"]}
+{"text": "Wait for me Okay Take your time", "symbols": ["wait_,_to", "I", "take_,_to", "break_time_1"]}
+{"text": "Hows work The same as usual", "symbols": ["S", "work_,_to", "same"]}
+{"text": "Did you have a good holiday Yes and no", "symbols": ["good"]}
+{"text": "Sorry Ive got to run OK See you", "symbols": ["I", "get_,_to", "run_,_to", "saw"]}
+{"text": "How did you do that It was a piece of cake", "symbols": ["part", "cake"]}
+{"text": "Do you have change for a hundred Sure", "symbols": ["change_,_to", "hundred"]}
+{"text": "See you later alligator In a while crocodile", "symbols": ["saw", "after", "in", "crocodile"]}
+{"text": "Come on in Make yourself at home Thanks a lot", "symbols": ["come_,_to", "on", "in", "make_,_to", "motor_home"]}
+{"text": "Do you have a minute Sure Whats up", "symbols": ["minute", "what", "S", "up"]}
+{"text": "Bye Take care You too", "symbols": ["take_,_to"]}
+{"text": "How was the party I had a fantastic time", "symbols": ["I", "dinner_time"]}
+{"text": "Whos your favorite singer Coco Lee", "symbols": ["who", "S", "favourite", "sing_,_to"]}
+{"text": "Wheres your better half Shes at home", "symbols": ["S", "half", "S", "motor_home"]}
+{"text": "Wed better leave now I beg your pardon", "symbols": ["left", "now", "I"]}
+{"text": "I just got sacked Im sorry to hear that", "symbols": ["I", "sack", "I", "M", "hear_,_to"]}
+{"text": "Happy birthday Many happy returns of the day Thanks", "symbols": ["celebrate_birthday", "return_,_to", "day"]}
+{"text": "Im sorry but I cant come to your party What a shame", "symbols": ["I", "M", "I", "come_,_to", "what"]}
+{"text": "Have a nice weekend Same to you", "symbols": ["weekend"]}
+{"text": "What do you do Im a teacher", "symbols": ["what", "I", "M"]}
+{"text": "What a coincidence seeing you here It is isnt it", "symbols": ["what", "saw"]}
+{"text": "How do you like my new sports car Its cool", "symbols": ["car"]}
+{"text": "Lets take a coffee break Why not", "symbols": ["take_,_to", "coffee", "break_2"]}
+{"text": "I quit my job You cant be serious", "symbols": ["I"]}
+{"text": "What did you say Are you deaf or what", "symbols": ["what", "what"]}
+{"text": "Hows it going Great", "symbols": ["go_,_to", "great"]}
+{"text": "You cant beat me at tennis Do you want to bet", "symbols": ["crush_,_to", "I", "tennis", "want_,_to"]}
+{"text": "Excuse me May I come in Sure Come on in", "symbols": ["I", "I", "come_,_to", "in", "come_,_to", "on", "in"]}
+{"text": "Do you have the time Its ten thirty", "symbols": ["bed_time", "ten", "thirty"]}
+{"text": "Hi nice to hear from you when does your plane leave It leaves in 20 minutes Good Can you pick me up from the airport", "symbols": ["hear_,_to", "plane", "leaves", "leaves", "in", "minute", "good", "pick_,_to", "I", "up"]}
+{"text": "Im going to America Any idea when youll leave I hope before the end of the month Let me know when you find out", "symbols": ["I", "go_,_to", "think_,_to", "left", "I", "before", "book_end", "calendar_month", "I", "find_,_to", "out"]}
+{"text": "Is this seat taken No Have a seat", "symbols": ["take_,_to"]}
+{"text": "Wheres your hometown Shandong", "symbols": ["S"]}
+{"text": "Whats todays date Its January", "symbols": ["what", "S", "dates"]}
+{"text": "Im really mad at Bob What for Why", "symbols": ["I", "M", "what"]}
+{"text": "Whats the matter Im feeling a little under the weather", "symbols": ["what", "S", "I", "little", "under_1", "change_weather_,_to"]}
+{"text": "What would you like to drink Ill just have water", "symbols": ["what", "drink_,_to", "water"]}
+{"text": "Would you like some more rice No thanks Im full", "symbols": ["some", "more", "rice", "I", "M", "full"]}
+{"text": "Im going shopping Do you have enough money to buy that dress No I need to borrow 50 Sure here you go", "symbols": ["I", "go_,_to", "shop", "enough", "money", "get_,_to", "dress", "I", "want_,_to", "go_,_to"]}
+{"text": "Where are you from Im from Canada", "symbols": ["I", "M"]}
+{"text": "Whens your birthday Its just around the corner", "symbols": ["S", "celebrate_birthday", "around"]}
+{"text": "What brings you to Beijing Im here on business", "symbols": ["what", "bring_,_to", "I", "M", "on"]}
+{"text": "Its awfully hot You can say that again", "symbols": ["hot"]}
+{"text": "Thanks a million My pleasure It was my pleasure", "symbols": []}
+{"text": "Why are you laughing I cant help it", "symbols": ["I", "help_,_to"]}
+{"text": "Ill be seeing you around OKTake care", "symbols": ["saw", "around"]}
+{"text": "Whats a good place for sightseeing Dont ask me", "symbols": ["what", "S", "good", "ask_,_to", "I"]}
+{"text": "Freeze Dont shoot I give up", "symbols": ["shoot_,_to", "I", "give_,_to", "up"]}
+{"text": "Do you have a light Sorry I dont smoke", "symbols": ["light", "I", "smoke_,_to"]}
+{"text": "Excuse me Nature calls If you gotta go you gotta go", "symbols": ["I", "get_,_to", "go_,_to", "get_,_to", "go_,_to"]}
+{"text": "What are you doing Im surfing the Net", "symbols": ["what", "I", "internet"]}
+{"text": "Could you tell me the time Pardon What time is it please Its 930", "symbols": ["I", "tea_time", "bed_time"]}
+{"text": "Happy birthday Lillian Heres a little present I bought for you Thank you Paul", "symbols": ["celebrate_birthday", "little", "present", "I", "get_,_to"]}
+{"text": "Thank you for letting me borrow your portable CD player Oh youre welcome", "symbols": ["I", "play_,_to"]}
+{"text": "Do you know where Helen is Shes gone to a flower shop Today is her husbands birthday That reminds me My wedding anniversary is tomorrow", "symbols": ["go_,_to", "flower", "shop", "today", "husband", "celebrate_birthday", "I", "married", "tomorrow"]}
+{"text": "Did you hear about Neil No what I hear that hes quitting Youre kidding Im afraid not Now this is just between you and me", "symbols": ["hear_,_to", "what", "I", "hear_,_to", "I", "M", "now", "between", "I"]}
+{"text": "Hey Peter have you had lunch yet No How about you Not yet Lets go to that restaurant on the corner", "symbols": ["lunch_1", "go_,_to", "on"]}
+{"text": "It seems like it rains every time we plan a picnic Well thats life", "symbols": ["rain", "bed_time", "picnic", "S"]}
+{"text": "My husband goes out drinking with his friends every night Im fed up with it Maybe you two should go see a marriage counselor", "symbols": ["husband", "go_,_to", "out", "drinks", "night", "I", "up", "two", "go_,_to", "saw"]}
+{"text": "How annoying Whats the matter Every time I try to start this program the computer freezes Maybe theres something wrong with the program", "symbols": ["what", "S", "break_time_1", "I", "computer_2", "S"]}
+{"text": "Im tired Well youve been working on this assignment for five hours Yeah I need to take a break", "symbols": ["I", "M", "work_,_to", "on", "five", "one_hour", "I", "want_,_to", "take_,_to", "break_2"]}
+{"text": "Thank you for your hospitality Leon I had a wonderful time Youre welcome Diane I hope you can visit us again soon", "symbols": ["I", "bed_time", "I", "visit_,_to"]}
+{"text": "Why are you always staring at Melissa Do you like her or something Mind your own business", "symbols": ["star_2"]}
+{"text": "Theres a typhoon coming Is that right Thats what the weatherman said last night", "symbols": ["S", "come_,_to", "right", "S", "what", "last_2", "night"]}
+{"text": "Whats wrong with Debbie today She seems upset about something I have no idea Maybe she had a fight with her husband", "symbols": ["what", "S", "today", "I", "think_,_to", "fight_,_to", "husband"]}
+{"text": "Jacks been looking unhappy lately His girlfriend broke up with him No wonder Id be unhappy too", "symbols": ["look_,_to", "broken", "up", "D"]}
+{"text": "Guess what I just heard What The boss is planning to sell the company You must be joking", "symbols": ["guess_,_to", "what", "I", "hear_,_to", "what"]}
+{"text": "Did you hear who won the English speech contest No who won Its George Really Im surprised I didnt know his English was that good", "symbols": ["hear_,_to", "who", "winner", "english", "who", "winner", "I", "M", "I", "good"]}
+{"text": "Hey Sandy Do you want to go to the ETV with us Id love to but Im broke Maybe after payday", "symbols": ["want_,_to", "go_,_to", "D", "I", "broken", "after"]}
+{"text": "Hey lets arm wrestle Not now Chicken Youre afraid Ill beat you Are you kidding I just feel tired right now", "symbols": ["arm", "wrestle_,_to", "now", "crush_,_to", "I", "right", "now"]}
+{"text": "Are you looking forward to seeing that big concert next week You bet Im really excited", "symbols": ["look_,_to", "forward", "saw", "large", "next_week", "I", "M"]}
+{"text": "It looks like our company trip will have to be canceled because of the typhoon Thats disappointing I was really looking forward to it", "symbols": ["look_,_to", "S", "I", "look_,_to", "forward"]}
+{"text": "My names McDonald Is that spelt M A C or M C Its M C capital D", "symbols": ["spell_,_to", "D"]}
+{"text": "Sybil Is that spelt with an I or a Y Both actually S Y B I L Of course", "symbols": ["spell_,_to", "I", "I"]}
+{"text": "Ill see you in Sterlet then Where did you say Sterlet Its spelt 0 S T E R L E Y Right", "symbols": ["saw", "in", "S", "T", "E", "L", "right"]}
+{"text": "Can I borrow your suit Thats out of the question", "symbols": ["I", "S", "out"]}
+{"text": "Thanks for helping me move into my new house Any time Im just glad I could help", "symbols": ["help_,_to", "I", "move_,_to", "house", "bed_time", "I", "M", "I", "help_,_to"]}
+{"text": "Watch out Patrick Whew Thanks Karen That car almost hit me", "symbols": ["watch", "out", "car", "hit_,_to", "I"]}
+{"text": "It sure is hot today Thats for sure I feel like Im melting", "symbols": ["hot", "today", "S", "I", "I", "melt_,_to"]}
+{"text": "Ouch Are you all right Yeah I just bumped into the table", "symbols": ["right", "I", "table"]}
+{"text": "Too bad you missed Janes performance Hows it It was so perfect that it won a unanimous 10", "symbols": ["bad", "S", "winner"]}
+{"text": "I visited the famous variety show host Dennis Whats he like Oh hes a very serious person You must feel very uneasy at his home", "symbols": ["I", "visit_,_to", "what", "S", "S", "hot_person", "motor_home"]}
+{"text": "Would you like to have some more wine Surethanks Say when", "symbols": ["some", "more", "wine"]}
+{"text": "Delicious Did you make this chocolate cake yourself Fred Yes I did Its really good", "symbols": ["make_,_to", "chocolate", "cake", "I", "good"]}
+{"text": "How about seconds Victor Nothanks Im full", "symbols": ["second", "I", "M", "full"]}
+{"text": "Hello Mrs Taylor Im here to pick up Diane Hi Ben Come in Dianes not ready yet so youll have to wait a few minutes", "symbols": ["hello", "I", "M", "pick_,_to", "up", "in", "ready", "wait_,_to", "minute"]}
+{"text": "Where are you from Im from Guangzhou Where in China is Guangzhou Its in the South of China", "symbols": ["I", "M", "in", "in"]}
+{"text": "I really enjoyed tonights party Thank you Sarah Youre welcome Bob It was nice meeting you Nice meeting you too", "symbols": ["I", "meet_,_to", "meet_,_to"]}
+{"text": "Excuse me Is this seat taken Im afraid so", "symbols": ["I", "take_,_to", "I", "M"]}
+{"text": "Its almost 600 Id better be going Can you stay for dinner Wed love to have you join us Its really nice of you Thanks", "symbols": ["I", "D", "go_,_to", "dinner", "join_,_to"]}
+{"text": "Its one of the highlights of the match What The wonderful passing Melaena did Too bad I missed it", "symbols": ["one", "what", "bad", "I"]}
+{"text": "A beautiful center And good shot A goal", "symbols": ["middle", "good", "shoot_,_to", "goal"]}
+{"text": "Steve when are you going back to America Next week Wow so soon Im going to miss you", "symbols": ["go_,_to", "back_1", "next_week", "I", "go_,_to"]}
+{"text": "Ive really enjoyed your party Lisa Not at all Sam I wish I could stay longer but I must be going", "symbols": ["I", "I", "want_,_to", "I", "long", "I", "go_,_to"]}
+{"text": "I hear youre going to Tainan to visit your uncle Thats correct Well say hello to him for me", "symbols": ["I", "hear_,_to", "go_,_to", "visit_,_to", "S", "correct", "hello", "I"]}
+{"text": "Well miss you while youre studying in the United States Yeah Ill miss all of you too But Ill keep in touch", "symbols": ["study_,_to", "in", "keep_,_to", "in", "touch_,_to"]}
+{"text": "I think he deserved his gold Did you see his last dive Yes its perfect Hes diving for the gold", "symbols": ["I", "think_,_to", "saw", "last_2", "dive_2_,_to", "S", "dive_2_,_to"]}
+{"text": "Which team won The Spur What was the score They managed a 9980 victory", "symbols": ["winner", "what"]}
+{"text": "I like the kid Hes so lovely How old is he Twelve Hes very sensible for his age", "symbols": ["I", "S", "S"]}
+{"text": "My friend Jean is very beautiful Whats her figure Perfect and I like her charming eyes too Whats the color of her eyes Dark blue", "symbols": ["what", "S", "fig", "I", "eyes", "what", "S", "colour", "eyes", "blue"]}
+{"text": "I havent met the Smiths for a long time They have moved to Chicago Why MrSmith has changed his job", "symbols": ["I", "meet_,_to", "long", "break_time_1", "move_,_to", "change_,_to"]}
+{"text": "Do you like playing table tennis Certainly When did you start it Several years ago", "symbols": ["play_,_to", "table", "tennis"]}
+{"text": "Whats your favorite sport Swimming What about you Indoors activities such as chess and gymnastics", "symbols": ["what", "S", "favourite", "swim_2_,_to", "what"]}
+{"text": "Can I borrow one of your pens Amy Take your pick Julie", "symbols": ["I", "one", "pen", "take_,_to", "pick_,_to"]}
+{"text": "Heres the restaurant were meeting the Smiths at Lets go in to wait for them After you", "symbols": ["meet_,_to", "go_,_to", "in", "wait_,_to", "after"]}
+{"text": "Tabletennis is our national game Yes I like pingpong very much but I cant play well I cant either I like watching", "symbols": ["basketball_game", "I", "I", "play_,_to", "I", "I", "watch"]}
+{"text": "Are you going out Jack Ill be right back I just need to mail this package", "symbols": ["go_,_to", "out", "right", "back_1", "I", "want_,_to"]}
+{"text": "Did you pass the test No I didnt Im sorry to hear that", "symbols": ["test", "I", "I", "M", "hear_,_to"]}
+{"text": "Watch your step Theres a hole in the sidewalk Oh I seeThank you", "symbols": ["watch", "step_by_step", "S", "in", "walk_,_to", "I"]}
+{"text": "Uhoh We dont have a flashlight Dont worry Well make it back to the camp site before dark I sure hope so", "symbols": ["torch_3", "make_,_to", "back_1", "camp_,_to", "before", "grey_dark", "I"]}
+{"text": "Would you like to join the drama club Sure Why do you want to join it Its very exciting I think", "symbols": ["join_,_to", "drama", "golf_club", "want_,_to", "join_,_to", "I", "think_,_to"]}
+{"text": "Would you allow me to drive your car No problem but youve got to be careful Surely I will Heres the key then", "symbols": ["I", "drive_,_to", "car", "get_,_to", "I", "key_2"]}
+{"text": "I want to leave the motorbike outdoors Fine just dont do it at night Why not The cold weather will damage the engine", "symbols": ["I", "want_,_to", "left", "motorcycle", "outside", "night", "change_weather_,_to", "engine"]}
+{"text": "I hear youre entering the speech contest Mike Thats right I thought Id give it a shot Well I wish you good luck", "symbols": ["I", "hear_,_to", "enter_,_to", "S", "right", "I", "think_,_to", "I", "D", "give_,_to", "shoot_,_to", "I", "want_,_to", "good"]}
+{"text": "Whats wrong Frank I didnt make the soccer team Cheer up Its not the end of the world", "symbols": ["what", "S", "I", "make_,_to", "football", "up", "book_end", "world"]}
+{"text": "How can I live without Helen Get a hold of yourself Bruce Youll get over her eventually", "symbols": ["I", "get_,_to", "hold_,_to", "get_,_to", "over"]}
+{"text": "Did you take my money from the table Absolutely not Im not a thief", "symbols": ["take_,_to", "money", "table", "I", "M", "steal_,_to"]}
+{"text": "Toms new business will do well I dont think so Theres too much competition", "symbols": ["I", "think_,_to", "S"]}
+{"text": "Who do you think is going to get the Oscar for best actor I have no idea To be honest I couldnt care less", "symbols": ["who", "think_,_to", "go_,_to", "get_,_to", "good", "I", "think_,_to", "I"]}
+{"text": "I dont stand a chance of passing the exam Come on Brenda Never say die", "symbols": ["I", "stand_,_to", "test", "come_,_to", "on", "die_,_to"]}
+{"text": "I dont think the manager will get mad at you for being late I dont know about that", "symbols": ["I", "think_,_to", "coach", "get_,_to", "I"]}
+{"text": "Did you know Carl is almost fifty Are you sure He doesnt look that old He told me so himself", "symbols": ["fifty", "look_,_to", "I"]}
+{"text": "Hi Jim and Wendy Wherere you going Were going to that new restaurant for lunch Would you like to join us", "symbols": ["go_,_to", "go_,_to", "lunch_1", "join_,_to"]}
+{"text": "Are you free tomorrow Sam Yeah whats up Im going to go hiking Do you want to join me", "symbols": ["tomorrow", "what", "S", "up", "I", "go_,_to", "go_,_to", "hike_2_,_to", "want_,_to", "join_,_to", "I"]}
+{"text": "Good afternoon Johnson Good afternoon Mary Hows business Not bad thanks", "symbols": ["good", "afternoon", "good", "afternoon", "S", "bad"]}
+{"text": "Id like to reserve two seats for tomorrow night Would you like orchestra seats Isnt there anything less expensive Not unless you want the matinee", "symbols": ["I", "D", "two", "tomorrow", "night", "want_,_to"]}
+{"text": "Can I still get tickets for tonights performance The balcony is still available Arent there any other seats No Im afraid thats it", "symbols": ["I", "get_,_to", "I", "M", "S"]}
+{"text": "Its snowing heavily It is very common in the winter in Ottawa The snow is so beautiful", "symbols": ["snow", "heavy", "in", "winter", "in", "snow"]}
+{"text": "I immigrated here last year What do you do I am an engineer in a mechanized farm", "symbols": ["I", "last_2", "what", "I", "technology", "in"]}
+{"text": "Its quite cold this early morning isnt it Yeah Its already December you know Time sure flies doesnt it", "symbols": ["morning", "fly"]}
+{"text": "Good luck Ive got class in a few minutes Me too Ill talk to you later OK See you later", "symbols": ["good", "I", "get_,_to", "english_class", "in", "minute", "I", "talk_2_,_to", "after", "saw", "after"]}
+{"text": "Nice day isnt it It sure is Its a good day for a picnic", "symbols": ["day", "good", "day", "picnic"]}
+{"text": "What are you up to tonight Steve Im going to a disco with my friends That sounds like fun Have a good time", "symbols": ["what", "up", "I", "go_,_to", "play_,_to", "good", "dinner_time"]}
+{"text": "What time shall I pick you up How about 630 Thatll be fine See you soon", "symbols": ["bed_time", "I", "pick_,_to", "up", "saw"]}
+{"text": "Hello Jane Hi Tom How have you been Pretty good Actually Im quite busy with work By the way say hello to your husband", "symbols": ["hello", "pretty", "good", "I", "M", "busy", "work_,_to", "hello", "husband"]}
+{"text": "Hello Mary How are you Not bad How about you John Fine Thank you", "symbols": ["hello", "bad"]}
+{"text": "Hi Peter How are you Fine How about you Pretty good", "symbols": ["pretty", "good"]}
+{"text": "Which university did you graduate from I graduated from Songhua University When did you graduate I graduated from it in 2002", "symbols": ["I", "I", "in"]}
+{"text": "Happy Thanksgiving You too Lets have pumpkin pie Its my favorite", "symbols": ["pumpkin_pie", "favourite"]}
+{"text": "Happy Valentines Day Thats nice of you Could I treat you to dinner tonight Wonderful", "symbols": ["S", "I", "dinner"]}
+{"text": "I guess Id better go now Ive got to be going now too In that case Ill be seeing you See you later", "symbols": ["I", "guess_,_to", "I", "D", "go_,_to", "now", "I", "get_,_to", "go_,_to", "now", "in", "i_-_lower_case", "saw", "saw", "after"]}
+{"text": "Its getting late and I have to go now Were sorry you have to leave Please excuse me wont you Certainly Come back soon", "symbols": ["get_,_to", "I", "go_,_to", "now", "left", "I", "come_,_to", "back_1"]}
+{"text": "What is your nationality I am Chinese by birth Where is your domicile place My domicile place is Hebes Province", "symbols": ["what", "I"]}
+{"text": "Where are you living I live in the southern part of this city I rent a house Do you move a lot No I dont", "symbols": ["I", "in", "part", "I", "house", "move_,_to", "I"]}
+{"text": "Tom Christmas Day is coming Merry Christmas to you Thank you And a merry Christmas to you", "symbols": ["Christmas_Day", "come_,_to"]}
+{"text": "Thanks for inviting me And happy birthday Julia Many thanks for your present Im so glad you are able to come", "symbols": ["I", "celebrate_birthday", "present", "I", "M", "come_,_to"]}
+{"text": "Happy birthday Alice here is a little something for you Thank you very much David Its an excellent birthday gift", "symbols": ["celebrate_birthday", "little", "celebrate_birthday"]}
+{"text": "What is the correct time please Its exactly twelve minutes past seven When will the lecture begin Itll begin at nine oclock sharp", "symbols": ["what", "correct", "lunch_time", "twelve", "minute", "past", "seven", "nine", "sharp"]}
+{"text": "Good afternoon sir May I help you I booked a table yesterday Whats your name please Smith A minute please Yes this way please", "symbols": ["good", "afternoon", "I", "help_,_to", "I", "table", "yesterday", "what", "S", "minute"]}
+{"text": "Did you listen to the weather forecast No Why Theres a typhoon coming No way Yep it should be here by tomorrow night", "symbols": ["hear_,_to", "change_weather_,_to", "S", "come_,_to", "tomorrow", "night"]}
+{"text": "What date is it today Today is December 232002 Oh the day after tomorrow is Christmas Merry Christmas to you", "symbols": ["date", "today", "today", "day", "after", "tomorrow"]}
+{"text": "Another glass of beer will you Thanks Im enough At least one for your trip Ill have it if you insist", "symbols": ["glass", "beer", "I", "M", "enough", "one"]}
+{"text": "May I know how old you are I am 24 What is your date of birth I was born on April 15 1986", "symbols": ["I", "I", "what", "date", "I", "bear", "on"]}
+{"text": "When and where were you born I was born in Beijing in 1965 You look so young Really Thank you", "symbols": ["bear", "I", "bear", "in", "in", "look_,_to", "young"]}
+{"text": "Did you watch the volleyball match last night Yeah Who won China What was the score China beat Brazil 3 to 0 Wonderful", "symbols": ["watch", "volleyball", "last_2", "night", "who", "winner", "what", "crush_,_to"]}
+{"text": "By the way could you tell me what day it is today Well its Thursday today And the date please The 5th", "symbols": ["I", "day", "today", "today", "date"]}
+{"text": "What time do you have A quarter past five I must be off now Im pressed for time See you", "symbols": ["bed_time", "quarter", "past", "five", "I", "off", "now", "I", "bed_time", "saw"]}
+{"text": "Ye Ting who are these people in the picture Theyre my family So you have two brothers Yes Im the third child", "symbols": ["who", "in", "picture", "family", "two", "brother", "I", "M", "paint_childs"]}
+{"text": "Are you working or are you a student Im a student Which school are you studying at Tsinghua University", "symbols": ["work_,_to", "study_,_to", "I", "M", "study_,_to", "school", "study_,_to"]}
+{"text": "Do you live with your parents No they live in Shanghai my hometown How often do you go back to visit them Once a year", "symbols": ["parents", "in", "go_,_to", "back_1", "visit_,_to"]}
+{"text": "Has Robert ever missed coming to one of our parties Only once or twice at the most Do you know why I have no idea", "symbols": ["come_,_to", "one", "most", "I", "think_,_to"]}
+{"text": "Do you feel like going to see a movie tonight Id like that very much How does 730 sound Fine See you later", "symbols": ["go_,_to", "saw", "picture", "I", "D", "saw", "after"]}
+{"text": "How about going to hear a countryandwestern singer tonight Id enjoy that Ill pick you up around 8 00 OK Ill see you then", "symbols": ["go_,_to", "hear_,_to", "sing_,_to", "D", "pick_,_to", "up", "around", "saw"]}
+{"text": "Why dont you have dinner with me tonight Id love to Lets say about 600 Thats OK with me", "symbols": ["dinner", "I", "D", "S", "I"]}
+{"text": "Do you feel like going to see Paul and Claire tonight Id like that very much How does 730 sound Fine See you later", "symbols": ["go_,_to", "saw", "D", "saw", "after"]}
+{"text": "Hows the weather today Its hot I really dont think this weather will last Lets just hope it doesnt get hotter", "symbols": ["S", "change_weather_,_to", "today", "hot", "I", "think_,_to", "change_weather_,_to", "last_2", "get_,_to", "hot"]}
+{"text": "Is it going to rain today Its supposed to rain I really hate this weather Well it wont last long", "symbols": ["go_,_to", "rain", "today", "think_,_to", "rain", "I", "change_weather_,_to", "last_2", "long"]}
+{"text": "What is today Thursday So the weekend is coming How about seeing a film Id love to", "symbols": ["what", "today", "weekend", "come_,_to", "saw", "I", "D"]}
+{"text": "What day is today Tuesday Yeah I bet you did forget everything Whats the date today do you know I bet its May 5th", "symbols": ["what", "day", "today", "I", "what", "S", "dates", "today", "I"]}
+{"text": "Can you tell me the time Its 530 by my watch Is your watch right Yes Theres only a few seconds in a whole month", "symbols": ["I", "bed_time", "watch", "watch", "right", "S", "second", "in", "whole", "calendar_month"]}
+{"text": "Is the clock right Im afraid it gains a little By how many minutes Two", "symbols": ["clock", "right", "I", "M", "little", "how_many", "minute", "two"]}
+{"text": "We seem to be lost here Possibly I suggest that we go and ask for help from the policeman Not a bit", "symbols": ["lost", "I", "go_,_to", "ask_,_to", "help_,_to", "drill_bit"]}
+{"text": "You look tired Did you sleep well last night I stayed up all night writing a report Go easy Overwork is bad for your health", "symbols": ["look_,_to", "rest_,_to", "last_2", "night", "I", "up", "night", "write_,_to", "go_,_to", "bad", "healthy"]}
+{"text": "The man behind your mother must be your elder brother Yes he was 29 then He looked his age", "symbols": ["laughing_man", "behind", "parents", "brother", "look_,_to"]}
+{"text": "Lee Im going to get married next month Good news And congratulations You are invited to my wedding Thank you Ill certainly be there", "symbols": ["I", "go_,_to", "married", "next_month", "good", "married"]}
+{"text": "Hello Kevin Oh hi Lee You look great Thanks You too", "symbols": ["hello", "look_,_to", "great"]}
+{"text": "so nice to see you again Louise How are you doing Pretty good Hows your business going Kevin Not too bad", "symbols": ["saw", "pretty", "good", "go_,_to", "bad"]}
+{"text": "Charles have you finished your homework Not yet Grandma Whats the matter I want you to have a walk with me Ill finish soon", "symbols": ["finish", "what", "S", "I", "want_,_to", "walk_,_to", "I", "finish"]}
+{"text": "What a pinup she is Can you imagine shes over forty Thats incredible She has such a sharp figure Absolutely Shes a teacher of aerobics", "symbols": ["what", "think_,_to", "S", "over", "forty", "S", "sharp", "fig", "S"]}
+{"text": "Hi Jane How are you doing this morning Im all right thanks Just a little tired Late night Yeah I got home around two", "symbols": ["morning", "I", "M", "right", "little", "night", "I", "get_,_to", "around", "two"]}
+{"text": "I dont think Im getting better Believe me you really look much better than before Im still not sure whether I can recover from it", "symbols": ["I", "think_,_to", "I", "get_,_to", "think_,_to", "I", "look_,_to", "I", "M", "I"]}
+{"text": "Ben cancelled his trip How come Because General his dog got sick Hes such a mother hen", "symbols": ["come_,_to", "dog", "get_,_to", "S", "parents", "chicken"]}
+{"text": "How is your ankle My what Oh that right as a trivet Please be careful next time I will thank you", "symbols": ["ankle", "what", "right", "next", "tea_time", "I"]}
+{"text": "Ive got to go to bed Have to work tomorrow OK Good night then Have a good sleep Good night See you tomorrow", "symbols": ["I", "get_,_to", "go_,_to", "make_the_bed_,_to", "work_,_to", "tomorrow", "good", "night", "good", "good", "night", "saw", "tomorrow"]}
+{"text": "Hello my name is Xu Hua Im from Beijing Hello Xu Hua Im Paula Im American Welcome to China Paula Thank you", "symbols": ["hello", "I", "M", "I", "M", "I", "M"]}
+{"text": "Hello Im Lance Hello my name is Paula Nice to meet you Nice to meet you too", "symbols": ["hello", "I", "M", "hello", "meet_,_to", "meet_,_to"]}
+{"text": "Well Ive got to go See you later See you Have a nice day Thanks you too", "symbols": ["I", "get_,_to", "go_,_to", "saw", "after", "saw", "day"]}
+{"text": "Whos that old lady trimming the trees Shes my grandma She looks very healthyHow old is she 92", "symbols": ["who", "S", "sneering_lady", "trim_,_to", "tree", "S", "grandmother", "look_,_to"]}
+{"text": "Nice day isnt it Sure it is Why dont we go to a park Good idea", "symbols": ["day", "go_,_to", "park_,_to", "good", "think_,_to"]}
+{"text": "This is my uncle Charles He looks strongWhat does he do Hes a captain He must be very brave Exactly", "symbols": ["look_,_to", "S"]}
+{"text": "What a brilliant smile Thats my cousin Hubert He likes smiling He must be very easygoing Sure hes ready to be friendly with anyone", "symbols": ["what", "smile_,_to", "S", "smile_,_to", "S", "ready"]}
+{"text": "Your father looks much younger in the picture He was 20 years old then How old is he now Hes over sixty", "symbols": ["parents", "look_,_to", "young", "in", "picture", "now", "S", "over", "sixty"]}
+{"text": "What shall I call him Oh you may call him Uncle or Henry Whats he doing Hes checking bagsHe s an official in the customs", "symbols": ["what", "I", "what", "S", "S", "in"]}
+{"text": "Sorry to interrupt Can I have a word with you CertainlyGo ahead", "symbols": ["I", "ahead"]}
+{"text": "After you No after you Ladies first Thats very kind of you", "symbols": ["after", "after", "desiring_lady", "first", "S"]}
+{"text": "Tomorrows Carls birthday YesLet s hold a birthday party for him shall we Good idea Lets make ready then", "symbols": ["tomorrow", "celebrate_birthday", "S", "hold_,_to", "celebrate_birthday", "good", "think_,_to", "make_,_to", "ready"]}
+{"text": "Let me hold the door for you miss Thank you Youre very kind", "symbols": ["I", "hold_,_to", "door_2"]}
+{"text": "What a nice day Why dont we go for an outing SureWhere would you suggest How about going to the suburbs Sounds good", "symbols": ["what", "day", "go_,_to", "picnic", "go_,_to", "good"]}
+{"text": "Mum this is for you Oh flowers What for my dear Happy Mothers Day to you Mum Oh thank youYou are so sweet", "symbols": ["flower", "what", "sweet"]}
+{"text": "Hi where have you been I was away for my vacation Oh how was it Good I wish I could have another vacation", "symbols": ["I", "away", "good", "I", "want_,_to", "I"]}
+{"text": "Victoria you are back from vacation How was it To tell the truth I feel tired How come I had to visit all my relatives", "symbols": ["back_1", "I", "come_,_to", "I", "visit_,_to"]}
+{"text": "Good to see you Come on in Thank you Heres a present for you Oh you shouldnt But thank you very much", "symbols": ["good", "saw", "come_,_to", "on", "in", "present"]}
+{"text": "Please fill out the form All right Whats the date today please Its August the thirteenth", "symbols": ["fill_2_,_to", "out", "right", "what", "S", "date", "today"]}
+{"text": "What do you think of the coming match Winning is a piece of cake to me You are bragging again", "symbols": ["what", "think_,_to", "come_,_to", "winner", "part", "cake", "I"]}
+{"text": "I like your sweater It suits you very well Thank you for saying that Its a present from my girlfriend She certainly has the taste", "symbols": ["I", "present", "taste_,_to"]}
+{"text": "Good morning Kevin Morning Lee How are you Very well thank you", "symbols": ["good", "morning"]}
+{"text": "Your tie is handsome Oh thank you Your skirt looks beautiful too", "symbols": ["tie", "handsome", "skirt", "look_,_to"]}
+{"text": "Hi Zhengjun what make you so happy You know what Ive just got a new job with a computer company Oh congratulations", "symbols": ["what", "make_,_to", "what", "I", "get_,_to", "computer_2"]}
+{"text": "Whats your favorite sport Basketball Im a basketball fan", "symbols": ["what", "S", "favourite", "basketball", "I", "M", "basketball"]}
+{"text": "Whats the most popular sport in your country Table tennis Do you play table tennis Not really but I like watching", "symbols": ["what", "S", "most", "in", "table", "tennis", "play_,_to", "table", "tennis", "I", "watch"]}
+{"text": "What is your favorite pastime Fishing Its great fun Is it Mine is climbing mountains on Sunday mornings No wonder you always look so active", "symbols": ["what", "favourite", "fish_,_to", "great", "play_,_to", "climb_up_,_to", "mountains", "on", "morning", "look_,_to"]}
+{"text": "What are your hobbies Sports Like what Basketball and swimming", "symbols": ["what", "what", "swim_2_,_to"]}
+{"text": "I like small towns But many roads are very narrow Not always and therere also few cars Yes because of fewer people", "symbols": ["I", "little", "road", "car"]}
+{"text": "The city has got a traffic problem That means its developing very fast You said it Problems are inevitable", "symbols": ["get_,_to", "fast_2"]}
+{"text": "Bob is really handsome Thats why hes very popular among girls I wish I were just as handsome You are", "symbols": ["handsome", "S", "S", "I", "want_,_to", "I", "handsome"]}
+{"text": "Mary likes mountain climbing What No kidding Yes shes a professional climber I cant believe it", "symbols": ["mountains", "what", "S", "I", "think_,_to"]}
+{"text": "He loves that blonde girl Yes he once gave her seven roses Did she accept it No way to know", "symbols": ["give_,_to", "seven", "take_,_to"]}
+{"text": "Im dreadfully sorry for you Thank you very much for your kindness Is there any clue No he left nothing", "symbols": ["I", "M", "left"]}
+{"text": "He has to deliver letters every day Poor man he must be terribly fed up with it Oh no he likes the job Oh Really", "symbols": ["deliver_2_,_to", "letter", "day", "sad_man", "up"]}
+{"text": "I have been feeling sick for three days Im most upset to hear thatAre you better now Not much betterThank you", "symbols": ["I", "three", "day", "I", "M", "most", "hear_,_to", "now"]}
+{"text": "Bob is getting on in years Yeah Im very worried about his health He looks tired all the time Hes working too hard", "symbols": ["get_,_to", "on", "in", "I", "M", "healthy", "look_,_to", "dinner_time", "work_,_to", "hard"]}
+{"text": "Come on fellowsLet s enjoy my wifes cooking Em its delicious Thank you My wife likes cooking very much Youre lucky", "symbols": ["come_,_to", "on", "wife", "cook_,_to", "yummy", "wife", "cook_,_to", "lucky"]}
+{"text": "I like the kidHe s so lovely How old is he TwelveHe s very sensible for his age", "symbols": ["I", "S", "S"]}
+{"text": "You missed the filmThat s a shame Is it stimulating Yes I got very excited I hope I still have chances", "symbols": ["S", "touch_,_to", "I", "get_,_to", "I", "I"]}
+{"text": "Tell me why you saw the movie twice I think its the most successful film in scenesetting and music You bet it", "symbols": ["I", "saw", "picture", "I", "think_,_to", "most", "in", "music"]}
+{"text": "Hello Im Jason Hi My name is Dolma Nice to meet you Dolma Good to meet you too", "symbols": ["hello", "I", "M", "meet_,_to", "meet_,_to"]}
+{"text": "How is Tom now Hes out of the hospital and up and about again at last Lets congratulate him on Sunday", "symbols": ["now", "S", "out", "up", "last_2", "on"]}
+{"text": "What did you say I said he was nothing but a yeoman Then he become angry with you Yes", "symbols": ["what", "I"]}
+{"text": "Why are you going out with Andy Because I like him Me too I think he s really a shoulder to cry on", "symbols": ["go_,_to", "out", "I", "I", "I", "think_,_to", "S", "shoulder", "shout_,_to", "on"]}
+{"text": "Im so glad to meet you How is everything going on Fine You look prettier than before Really Thank you", "symbols": ["I", "M", "meet_,_to", "go_,_to", "on", "look_,_to", "pretty"]}
+{"text": "Good morning Mei How are you Hi Tom Im fine and you Not bad thanks Good See you Bye", "symbols": ["good", "morning", "I", "M", "bad", "good", "saw"]}
+{"text": "What happened I dont know Lets stop and have a look Dont waste time Im curious about that But its none of our business", "symbols": ["what", "I", "look_,_to", "break_time_1", "I", "M"]}
+{"text": "Look at the cloud Its going to rain Lets go quickly", "symbols": ["look_,_to", "cloudy", "go_,_to", "rain", "go_,_to"]}
+{"text": "If you fall in love like him you will go soft in the head as well Come off it You want a bet Why not", "symbols": ["in", "go_,_to", "soft", "in", "head", "come_,_to", "off", "want_,_to"]}
+{"text": "I like pop music very much What I said I like pop music very muchIt s so lovely Is it", "symbols": ["I", "music", "what", "I", "I", "music", "S"]}
+{"text": "Johns very lateDo you think hes coming Well it doesnt seem like itHe must have forgotten I suppose youre rightHe cant have remembered", "symbols": ["think_,_to", "come_,_to", "I", "think_,_to"]}
+{"text": "Lovely day isnt it Oh yes Beautiful You are not English are you No I am from France", "symbols": ["day", "english", "I"]}
+{"text": "I wonder how Sarah and Mat are Dont you know theyve already broken up Im not surprised Shes a plain Jane And hes so handsome", "symbols": ["I", "break_2", "up", "I", "M", "S", "S", "handsome"]}
+{"text": "Where are you going Ill accompany my wife to the hospital Whats wrong with her She is expecting Congratulations to you Thank you", "symbols": ["go_,_to", "wife", "what", "S"]}
+{"text": "Ben always appears rude to the people around him But hes really kind at heart Thats true We can not judge people by appearance", "symbols": ["look_,_to", "around", "S", "heart", "S"]}
+{"text": "Whats his job He used to be a policeman But MrsSmith hired him to find her lost son Yeah Hes a private eye now", "symbols": ["what", "S", "find_,_to", "son", "S", "eye", "now"]}
+{"text": "Jack wonders whether Linda likes him or not Why doesnt he ask her He is too scared to ask her Hes a chicken guy", "symbols": ["ask_,_to", "ask_,_to", "S", "chicken", "guy"]}
+{"text": "Nice to see you Patrick Bob I hear your team won the match Yeah All of us tried our best Congratulations Thanks", "symbols": ["saw", "I", "hear_,_to", "winner", "good"]}
+{"text": "Then Ill take them How much 120The small gift box is complementary Here is 150Keep the change Thank you Have a nice day You tooBye", "symbols": ["take_,_to", "little", "box_,_to", "change_,_to", "day"]}
+{"text": "May I have your attention please Would you please be quiet Ladies and Gentlemen Well my speech isnt very long Would you please Quiet everybody", "symbols": ["I", "quiet", "long", "quiet"]}
+{"text": "My mother likes to split hairs What do you mean by that She has keen to buy something which is much cheaper Mothers like that", "symbols": ["parents", "divide", "grow_hair_,_to", "what", "get_,_to", "which", "parents"]}
+{"text": "We must set 1000 dollars aside each month Why We are going to buy our own house Really Congratulations", "symbols": ["calendar_month", "go_,_to", "get_,_to", "house"]}
+{"text": "You are in love with Mary right You are pulling my legs I am not blind Anyone can see that with half an eye", "symbols": ["in", "right", "pull_,_to", "legs", "I", "blind_2", "saw", "eye"]}
+{"text": "Look out Your tea water is running over Oh would you please turn off the fire My hands are sticky with the dough Sure Thanks", "symbols": ["look_,_to", "out", "tea", "water", "run_,_to", "over", "turn_,_to", "off", "fire", "dry_hands_2_,_to", "sticky", "bread"]}
+{"text": "The murderer was sentenced to life imprisonment It s severe punishment I think Yeah because he just killed a man in cold blood No wonder", "symbols": ["S", "I", "think_,_to", "kill_,_to", "angry_man", "in"]}
+{"text": "She lives a happy life after marriage We all know that Her husband always make a fuss of her Lucky her", "symbols": ["after", "husband", "make_,_to"]}
+{"text": "Our national economy is increasing hand over fist That s really a good phenomenon to see I hope it ll continue for a long time", "symbols": ["hold_hands_,_to", "over", "fist", "S", "good", "saw", "I", "keep_,_to", "long", "break_time_1"]}
+{"text": "He is planning again Yeah But whatever the planes are he always has an eye to money That is him", "symbols": ["plane", "eye", "money"]}
+{"text": "Where can I get the information Kate Ask John He is sure to know about it Why He has a finger in the pie", "symbols": ["I", "get_,_to", "ask_,_to", "finger", "in", "pie"]}
+{"text": "How re you today Pretty good thanks And you What s the main idea in this essay The United Nations should have more authority", "symbols": ["today", "pretty", "good", "what", "S", "think_,_to", "in", "more"]}
+{"text": "Dont you think we d leave for the concert now What time dose it start In about 25 minutes Then wed better get started", "symbols": ["think_,_to", "left", "now", "lunch_time", "in", "minute"]}
+{"text": "lets go out for a walk I dont really feel like a walk Well shall we go to the cinema All rightThat sounds more interesting", "symbols": ["go_,_to", "out", "walk_,_to", "I", "walk_,_to", "go_,_to", "more"]}
+{"text": "What was that noise It was the pilot putting the wheels downWe must be coming into landAre you frightened Frightened You must be joking", "symbols": ["what", "helmet_pilot", "put_,_to", "big_wheel", "come_,_to"]}
+{"text": "Can I see your parents some time tomorrow Sorry they are too busy these days How about this weekend Yes I think so", "symbols": ["I", "saw", "parents", "bed_time", "tomorrow", "busy", "day", "weekend", "I", "think_,_to"]}
+{"text": "Do you want to go shopping with me Thats a good ideaWhat time is good for you How about Saturday morning Sounds good", "symbols": ["want_,_to", "go_,_to", "shop", "I", "S", "good", "lunch_time", "good", "morning", "good"]}
+{"text": "Nice to see you Patrick Bob I hear your team won the match Yeah All of us tried our best Congratulations", "symbols": ["saw", "I", "hear_,_to", "winner", "good"]}
+{"text": "Did you like the party Not particularly I was rather disappointed Why What had you expected I d expected it to be much more exciting", "symbols": ["I", "what", "I", "more"]}
+{"text": "You want to go with him Yes Then you must be off your head He is a real bastard", "symbols": ["want_,_to", "go_,_to", "off", "head"]}
+{"text": "Now David can I get you a drink What will you have Coffee please What about you Mary Coke is fineThank you", "symbols": ["now", "I", "get_,_to", "drink_,_to", "what", "what"]}
+{"text": "Which do you like better orange or lemon I like orange better Why Because orange is much more to my taste", "symbols": ["which", "orange", "lemon", "I", "orange", "orange", "more", "taste_,_to"]}
+{"text": "Where do you spend the weekend Weve a country house Thats nice Join us will you Thatd be great Thank you", "symbols": ["weekend", "house", "S", "D", "great"]}
+{"text": "How about doing shopping this weekend Whatre you going to buy SportshoesWill you go with me OK", "symbols": ["shop", "weekend", "what", "go_,_to", "get_,_to", "go_,_to", "I"]}
+{"text": "Paul lets go and see Grandpa this afternoon But Grandpa will be working Its Saturday I almost forget", "symbols": ["go_,_to", "saw", "afternoon", "work_,_to", "I"]}
+{"text": "Are you going to the beach this saturday afternoon It depends on the weather The radio says itll be fine Thatll be great", "symbols": ["go_,_to", "beach", "afternoon", "count_,_to", "on", "change_weather_,_to", "police_radio", "great"]}
+{"text": "Will you go with us this Sunday What for Lets go and play volleyball Sorry I dont feel like playing I have too much homework", "symbols": ["go_,_to", "what", "go_,_to", "play_,_to", "volleyball", "I", "play_,_to", "I"]}
+{"text": "We have a live show of a football match this Friday night Whatre the teams Brazilian against AC Millan I bet AC Milan will lose", "symbols": ["football", "night", "what", "against", "I", "lost"]}
+{"text": "Ann invited us to dinner this saturday afternoon What should we take How about a china vase Good idea", "symbols": ["dinner", "afternoon", "what", "take_,_to", "vase", "good", "think_,_to"]}
+{"text": "Can you name some festivals of religious nature Yes such as Christmas and Easter What about historic festivals Thanksgiving Day Independence Day", "symbols": ["Harvest_Festival", "what", "history", "Harvest_Festival"]}
+{"text": "Another weekend is coming And were going to have summer vacation YesWhat will you do this weekend Ill plan for the vacation", "symbols": ["weekend", "come_,_to", "go_,_to", "summer", "weekend"]}
+{"text": "Im going to see the doctor this weekend Whats your trouble I think I need a thorough checkup I got it", "symbols": ["I", "go_,_to", "saw", "weekend", "what", "S", "I", "think_,_to", "I", "want_,_to", "I", "get_,_to"]}
+{"text": "Theres a concert in Capital Theatre this Sunday So what Look I have two ticketsWill you go with me Wow I like concerts", "symbols": ["S", "in", "what", "look_,_to", "I", "two", "go_,_to", "I", "I"]}
+{"text": "I go to the fitness center every weekend What for To lose some weight Why you look pretty all right", "symbols": ["I", "go_,_to", "middle", "weekend", "what", "lost", "look_,_to", "pretty", "right"]}
+{"text": "Is this MrSmith s residence Yes it is My name is PaulIs MrSmith in Yes he is", "symbols": ["S", "in"]}
+{"text": "Good evening MrBrown Good evening DavidGood evening MaryIt s so good of you both to come Its nice of you to invite us", "symbols": ["good", "day", "day", "day", "S", "good", "both", "come_,_to"]}
+{"text": "Would you like some coffee Tom Yes thank you Heres some sugar Thanks", "symbols": ["coffee", "carbohydrates"]}
+{"text": "The music is onMay I have the pleasure to dance with you Sorry Im engaged for the foxtrotWill the next Walls be all right Certainly", "symbols": ["music", "I", "dance_2_,_to", "I", "M", "next", "wall", "right"]}
+{"text": "I had a wonderful evening I did tooCome and visit us again will you I will", "symbols": ["I", "day", "I", "visit_,_to", "I"]}
+{"text": "Its four oclock already I hate to leave but I think I must Can you stay a little longer Im sorry but I cant", "symbols": ["four", "I", "left", "I", "think_,_to", "I", "little", "long", "I", "M", "I"]}
+{"text": "Its lateIt s high time I leftThank you for a most wonderful evening Dont mention it Good night then Good night", "symbols": ["S", "high", "break_time_1", "I", "most", "day", "good", "night", "good", "night"]}
+{"text": "I really have a good time hereThank you very much Keep in touch I promise", "symbols": ["I", "good", "bed_time", "keep_,_to", "in", "touch_,_to", "I"]}
+{"text": "Its getting late I really have to go I hope well get together again soon I hope so A good journey to you Thank you", "symbols": ["get_,_to", "I", "go_,_to", "I", "get_,_to", "I", "good", "travel"]}
+{"text": "Shall we go to a movie tonight Thats a good ideaWhat s on Gone with the Wind Whats it about Sorry Ive no idea", "symbols": ["go_,_to", "picture", "S", "good", "S", "on", "what", "S", "I", "think_,_to"]}
+{"text": "I think we should accept his plan Im afraid I cant agree with you Why Simply because its not practical at all", "symbols": ["I", "think_,_to", "take_,_to", "I", "M", "I"]}
+{"text": "I think this one will do Im sorry I dont think so Why Whats wrong with it Its much too hard for his age", "symbols": ["I", "think_,_to", "one", "I", "M", "I", "think_,_to", "what", "S", "hard"]}
+{"text": "Whats up You look depressed I just had a quarrel with him Would you rather I taught him a lesson for you No thanks", "symbols": ["what", "S", "up", "look_,_to", "I", "I"]}
+{"text": "Whos your favorite film star Tom Hanks is always my favorite film star What films feature him Many", "symbols": ["who", "S", "favourite", "star_2", "favourite", "star_2", "what"]}
+{"text": "Which is your preference tea or coffee My choice would always be tea When did you form this hobby Last year when I visited China", "symbols": ["which", "taste_,_to", "tea", "coffee", "pick_,_to", "tea", "last_2", "I", "visit_,_to"]}
+{"text": "Are you sure you heard right Yes he is running for class president I dont believe you Take my word for it", "symbols": ["hear_,_to", "right", "run_,_to", "history_class", "I", "think_,_to", "take_,_to"]}
+{"text": "Im going on a cruise this summer No kidding My brother won a free trip and hes taking me You cant beat that", "symbols": ["I", "go_,_to", "on", "summer", "brother", "winner", "take_,_to", "I", "crush_,_to"]}
+{"text": "I love ice cream Really Me too Whats your favorite flavor I like both strawberry and coffee ice cream Chocolate is mine", "symbols": ["I", "ice_cream_2", "I", "what", "S", "favourite", "I", "strawberry", "coffee", "ice_cream_2"]}
+{"text": "Well what brings you here I came to see my aunt Does she live nearby Yes She lives on the next block", "symbols": ["what", "bring_,_to", "I", "come_,_to", "saw", "on", "next", "office_block"]}
+{"text": "It seems a glorious day today I agree Its beginning to spot Just now we both thought it would be fine", "symbols": ["day", "today", "I", "first", "now", "both", "think_,_to"]}
+{"text": "Would you recommend some places for sightseeing How about Great Canyon Is it worth seeing Of course Its the most wonderful natural works", "symbols": ["visit_,_to", "saw", "most", "work_,_to"]}
+{"text": "Are you a wrestler or a boxer NoWhy Your muscular shoulders and chest impress me so Oh really I go to the rye every day", "symbols": ["wrestle_,_to", "muscles", "shoulder", "blanket_chest", "I", "I", "go_,_to", "grains", "day"]}
+{"text": "Anything interesting in this city We have a beautiful natural park Its worth the time Come onLet s walk there", "symbols": ["in", "park_,_to", "break_time_1", "come_,_to", "S", "walk_,_to"]}
+{"text": "Are you getting overtime Yes but its not so appetizing Have you thought about another job Thats whats hanging on my mind recently", "symbols": ["get_,_to", "think_,_to", "S", "what", "hang_,_to", "on", "head"]}
+{"text": "What a brilliant smile Thats my cousin HubertHe likes smiling He must be very easygoing Sure hes ready to be friendly with anyone", "symbols": ["what", "smile_,_to", "S", "smile_,_to", "S", "ready"]}
+{"text": "I like this kind of weather Yes a little breeze and a lovely moon And its calm I like the peace Me too", "symbols": ["I", "change_weather_,_to", "little", "Moon", "I", "I"]}
+{"text": "Im going to Ireland this summer Are you going to take your children along No Id like to go alone Have a nice holiday", "symbols": ["I", "go_,_to", "summer", "go_,_to", "take_,_to", "paint_childs", "I", "D", "go_,_to"]}
+{"text": "What did you do last vacation I learned to drive and I got a driving license What will you do this vacation Travel", "symbols": ["what", "last_2", "I", "drive_,_to", "I", "get_,_to", "drive_,_to", "what", "travel"]}
+{"text": "Where do you plan to go this winter Alps suppose Oh yes you like skiing Right", "symbols": ["go_,_to", "winter", "think_,_to", "ski_,_to", "right"]}
+{"text": "Bob how about joining the boxing club this summer vacation What a good idea So lets get registered tomorrow OK", "symbols": ["join_,_to", "golf_club", "summer", "what", "good", "think_,_to", "tomorrow"]}
+{"text": "The sun is shining But therere some mares tails Thats the sign of wind Oh really I thought it was a sign of rain", "symbols": ["sun", "shin", "horse", "wag_tail_2_,_to", "S", "sign_,_to", "forward_wind", "I", "think_,_to", "sign_,_to", "rain"]}
+{"text": "Whos that old lady trimming the trees Shes my grandma Shes looks very healthyHow old is she 92", "symbols": ["who", "S", "sneering_lady", "trim_,_to", "tree", "S", "grandmother", "S", "look_,_to"]}
+{"text": "Its nice and bright today isnt it Yes the autumn is marvelous here Tomorrow will be fine too I think I hope so", "symbols": ["bright", "today", "autumn", "I", "think_,_to", "I"]}
+{"text": "What lovely weather Its so pleasant after the bad weather weve been having Lets go out and enjoy the fresh air All rightLet s go", "symbols": ["what", "change_weather_,_to", "after", "bad", "change_weather_,_to", "go_out_2_,_to", "S", "go_,_to"]}
+{"text": "Which team has won NeitherThe game ended in two all But I still think AC milans defence seems better organized But the Brazilian is tougher", "symbols": ["winner", "basketball_game", "finish", "in", "two", "I", "think_,_to"]}
+{"text": "Any idea about James He s a pain in the neck Guess what He has just got the sack Oh is that so Exactly", "symbols": ["think_,_to", "S", "in", "neck", "guess_,_to", "what", "get_,_to", "sack"]}
+{"text": "What is the correct time please It s exactly twelve minutes past seven When will you lecture begin Begin at 9 o clock sharp", "symbols": ["what", "correct", "bed_time", "S", "twelve", "minute", "past", "seven", "O", "clock", "sharp"]}
+{"text": "May I introduce myself I am steven smith Glad to meet you mr smith my name is jenny", "symbols": ["I", "I", "meet_,_to"]}
+{"text": "Did you watch the volleyball match last night Yeah Who won China What is the score China beat Brazil three to zero Wonderful", "symbols": ["watch", "volleyball", "last_2", "night", "who", "winner", "what", "crush_,_to", "three", "Zero"]}
+{"text": "Hi Tim any news about your job interview Yeah I didnt get the job in the end Oh what a pity Its ok thats life", "symbols": ["I", "get_,_to", "in", "book_end", "what", "S"]}
+{"text": "What day is today Today is December twentythird two thousand and two Oh The day after tomorrow is Christmas Merry Christmas to you", "symbols": ["what", "day", "today", "today", "two", "thousand", "two", "day", "after", "tomorrow"]}
+{"text": "What does your father do He is a worker What about your mother She is a nurse", "symbols": ["what", "parents", "work_,_to", "what", "parents"]}
+{"text": "Hows your mother doing She is so pretty sick Thats too bad I wish your mother can recover soon Thank you", "symbols": ["parents", "pretty", "S", "bad", "I", "want_,_to", "parents"]}
+{"text": "Look how fast that car can accelerate Ive never seen anything like it", "symbols": ["look_,_to", "fast_2", "car", "I", "saw"]}
+{"text": "Guess what What I am going to the mountains with my family this weekend That sounds like fun", "symbols": ["guess_,_to", "what", "what", "I", "go_,_to", "mountains", "family", "weekend", "play_,_to"]}
+{"text": "Dont you have too much to do with him Why not His father is a prisoner So what His father is in prison not he", "symbols": ["parents", "what", "parents", "in"]}
+{"text": "How long have you been in China A few months How do you think of living here Great Im having a great time", "symbols": ["long", "in", "calendar_month", "think_,_to", "I", "great", "dinner_time"]}
+{"text": "Are you coming or not I havent decided yet Well make up your mind We need to know Ok count me in", "symbols": ["come_,_to", "I", "make_,_to", "up", "head", "want_,_to", "count_,_to", "I", "in"]}
+{"text": "How is your business going Business couldnt be better Really Maybe I should work for you Welcome I could use the help", "symbols": ["go_,_to", "I", "work_,_to", "I", "help_,_to"]}
+{"text": "I couldnt wait to meet you in person Me too Ive heard so much about you Same here I was looking forward to your arrival", "symbols": ["I", "wait_,_to", "meet_,_to", "in", "hot_person", "I", "I", "hear_,_to", "same", "I", "look_,_to", "forward"]}
+{"text": "I dont like the merrygoround But I want to ride it Daddy Ok I guess its worthy of two yuan Great Lets go", "symbols": ["I", "I", "want_,_to", "I", "guess_,_to", "two", "go_,_to"]}
+{"text": "Do you really have to work today Yes Im afraid so But youll miss out on the football game Oh Well it cant be helped", "symbols": ["work_,_to", "today", "I", "M", "out", "on", "football", "basketball_game", "help_,_to"]}
+{"text": "How about a game of tennis Okay Loser has to take out the trash for a month Its a deal See you in the court", "symbols": ["basketball_game", "tennis", "take_,_to", "out", "calendar_month", "saw", "in"]}
+{"text": "Heres 30 yuan for my ticket Keep it Im buying tonight No you cant do that Sure I can my treat", "symbols": ["keep_,_to", "I", "get_,_to", "I", "trick_or_treat"]}
+{"text": "Well speak of the devil What do you mean I was just thinking about you the other day You were", "symbols": ["talk_2_,_to", "what", "I", "think_,_to", "day"]}
+{"text": "Our team just scored a goal Thats more like it Tell me about it They might actually win the game", "symbols": ["goal", "S", "more", "I", "winner", "computer_game"]}
+{"text": "How many passengers are there aboard the ship Seventysix I think", "symbols": ["how_many", "I", "think_,_to"]}
+{"text": "I cant believe the boss was absent from todays meeting Neither can I", "symbols": ["I", "think_,_to", "absent", "today", "meet_,_to", "neither", "I"]}
+{"text": "Labor is an abundant resource here One of many abundant resources Id like to point out", "symbols": ["one", "I", "D", "point_,_to", "out"]}
+{"text": "This paper absorbs water so quickly Yes its great for cleaning up spills", "symbols": ["paper", "water", "great", "up", "spill_,_to"]}
+{"text": "Im sorry Im having a little trouble understanding your accent Ill try to speak more clearly", "symbols": ["I", "M", "I", "little", "talk_2_,_to", "more"]}
+{"text": "How did you two meet To tell you the truth it was completely accidental", "symbols": ["two", "meet_,_to", "whole"]}
+{"text": "Im not really accustomed to the style of the new boss Itll take us all some time to get used to the change", "symbols": ["I", "M", "take_,_to", "dinner_time", "get_,_to", "change_,_to"]}
+{"text": "My accountant thinks she can save me lots of money on my taxes this year That sounds great", "symbols": ["think_,_to", "save", "I", "money", "on", "great"]}
+{"text": "If the weathermans predictions are accurate it should rain tomorrow I hope not Then wed have to reschedule our baseball game", "symbols": ["rain", "tomorrow", "I", "baseball_game"]}
+{"text": "Do you think I should buy this now and bring it with us Dont bother those are a dime a dozen where we are going", "symbols": ["think_,_to", "I", "get_,_to", "now", "bring_,_to", "twelve", "go_,_to"]}
+{"text": "Her exboyfriend was terrible but this new one is even worse Out of the frying pan and into the fire", "symbols": ["one", "even", "bad", "out", "frying_pan", "fire"]}
+{"text": "I found a new job after all and I like this one even better than the last You see Every cloud has a silver lining", "symbols": ["I", "find_,_to", "after", "I", "one", "even", "last_2", "saw", "cloudy"]}
+{"text": "Would you travel around the world if you had the money At the drop of a hat", "symbols": ["travel", "around", "world", "money", "riding_hat"]}
+{"text": "Whats bothering that guy Nothing Hes just got a chip on the shoulder", "symbols": ["what", "guy", "get_,_to", "chips", "on", "shoulder"]}
+{"text": "Do you think you will ever work at that company again When pigs fly", "symbols": ["think_,_to", "work_,_to", "piglet", "fly"]}
+{"text": "That was a tough question How did you get it right I just took a shot in the dark", "symbols": ["get_,_to", "right", "I", "take_,_to", "shoot_,_to", "in", "grey_dark"]}
+{"text": "All of my friends are going out to the lake tonight and Im going too Over my dead body you are", "symbols": ["go_,_to", "out", "I", "go_,_to", "over", "dead", "male_body"]}
+{"text": "How was your business trip Great they wined and dined us all week", "symbols": ["winner", "week_1"]}
+{"text": "Did you understand question number three Not at all I was totally in the dark", "symbols": ["mobile_phone_number", "three", "I", "in", "grey_dark"]}
+{"text": "Will you be at the family reunion next year Yes well be there come hell or high water", "symbols": ["family", "next", "come_,_to", "high", "water"]}
+{"text": "Why did she do that I have no idea It was completely out of the blue", "symbols": ["I", "think_,_to", "whole", "out", "blue"]}
+{"text": "Sorry I was late for the meeting today I got stuck in traffic Thats okay Better late than never", "symbols": ["I", "meet_,_to", "today", "I", "stick", "in", "S"]}
+{"text": "Did it take you a long time to quit smoking No I just went cold turkey and I never smoked again", "symbols": ["take_,_to", "long", "break_time_1", "smoke_,_to", "I", "go_,_to", "turkey", "I", "smoke_,_to"]}
+{"text": "I feel I work harder when I am under pressure Me too I get much more done when I am under the gun", "symbols": ["I", "I", "work_,_to", "hard", "I", "under_1", "blood_pressure", "I", "I", "get_,_to", "more", "I", "under_1"]}
+{"text": "There has been talk at school about canceling the concert Really Who did you hear that from Just word of mouth", "symbols": ["talk_2_,_to", "school", "who", "hear_,_to", "mouth"]}
+{"text": "I was just thinking to call you then the phone rang and it was you calling me Great minds think alike", "symbols": ["I", "think_,_to", "telephone_2_,_to", "I", "great", "head", "think_,_to"]}
+{"text": "You have drank dozens of cups You are bound to get a bay window Thank you but I am in a terrible mood indeed", "symbols": ["drink_,_to", "twelve", "measuring_cups", "get_,_to", "window", "I", "in"]}
+{"text": "We have waited for a long time When will we start Take it easy I have to cut my losses", "symbols": ["wait_,_to", "long", "break_time_1", "take_,_to", "I", "cut"]}
+{"text": "I am sorry I Ve left my disk at home Thank you all the same", "symbols": ["I", "I", "left", "motor_home", "same"]}
+{"text": "Where is my contract It s all my faults I forget where I put it", "symbols": ["S", "I", "I", "put_,_to"]}
+{"text": "You know them No but those guys like to hit on me", "symbols": ["guy", "hit_,_to", "on", "I"]}
+{"text": "Mom can you talk about the philosophy of life with me You got me on that one", "symbols": ["talk_2_,_to", "I", "get_,_to", "I", "on", "one"]}
+{"text": "Why don t you introduce him I wonder if we will become good friends He is the guy I was telling you about", "symbols": ["I", "good", "guy", "I"]}
+{"text": "I think my car can run much faster than yours But mine equals yours in economy Thats true", "symbols": ["I", "think_,_to", "car", "run_,_to", "fast_2", "in", "S"]}
+{"text": "Honey where did you buy this skirt In the market Any problem Nothing I am just checking", "symbols": ["honey", "get_,_to", "skirt", "in", "I"]}
+{"text": "Do you two know each other Yeah we were classmates when I was in university", "symbols": ["two", "I", "in"]}
+{"text": "How you celebrate your Valentine s Day with your wife I will take a rain check", "symbols": ["celebrate_3_,_to", "S", "wife", "I", "take_,_to", "rain"]}
+{"text": "May I saw a beautiful cotton down coat in the shopping mail Are you kidding It s summer", "symbols": ["I", "saw", "down", "coat", "in", "shop", "S", "summer"]}
+{"text": "Daniel you know Lisa has invited us to have dinner this afternoon Really Let s hit the road", "symbols": ["dinner", "afternoon", "S", "hit_,_to", "road"]}
+{"text": "How are you making out these days He is a dishonest man and always tells a cock and bull story", "symbols": ["make_,_to", "out", "day", "angry_man", "penis"]}
+{"text": "How do we spend our holiday Do you have any good ideas Come over and chew the fat We can enjoy to our heartscontent", "symbols": ["good", "think_,_to", "come_,_to", "over", "chew_,_to", "fat"]}
+{"text": "Could you please stop flipping the channels I m very sorry", "symbols": ["flip_,_to", "change_tv_channel_,_to", "I", "M"]}
+{"text": "Mom when you come home please buy a coat a skirt a sweater Enough is enough I know", "symbols": ["come_,_to", "get_,_to", "coat", "skirt", "enough", "I"]}
+{"text": "May look at this mess You threw waste everywhere It s not my fault Daniel always sends things flying", "symbols": ["look_,_to", "S", "fly"]}
+{"text": "Once you arrive at the American airport please call me OK don t worry about it I will Take care of yourself", "symbols": ["get_,_to", "I", "T", "I", "take_,_to"]}
+{"text": "When you told your mom you would be home around 2 am She must have a cow You are right My mum must be crazy", "symbols": ["around", "cow", "right"]}
+{"text": "Darling the airplane is going to take off I have to go Take care I will miss you so much", "symbols": ["aeroplane", "go_,_to", "take_,_to", "off", "I", "go_,_to", "take_,_to", "I"]}
+{"text": "Don t throw your weight around I can t bear you any more I dare you to say that again", "symbols": ["T", "around", "I", "T", "bear", "more", "I"]}
+{"text": "May my grandpa is ill I will go to look after him Catch you later OK I will catch you later", "symbols": ["grandfather", "I", "go_,_to", "look_,_to", "after", "catch_2_,_to", "after", "I", "catch_2_,_to", "after"]}
+{"text": "It seems that many boys are fighting there Break it up I will not permit fighting in this campus", "symbols": ["fight_,_to", "break_2", "up", "I", "fight_,_to", "in"]}
+{"text": "My God Why did you bring me here I hate the taste of coffee Really I have a weakness for coffee", "symbols": ["bring_,_to", "I", "I", "taste_,_to", "coffee", "I", "coffee"]}
+{"text": "What s your attitude when do wrong things at work The buck stops here", "symbols": ["what", "S", "work_,_to"]}
+{"text": "I have lots of work to do What s more my grandma is ill I am sorry to hear that but face the music", "symbols": ["I", "work_,_to", "what", "S", "more", "grandmother", "I", "hear_,_to", "music"]}
+{"text": "I miss grandma I dreamed about her yesterday Dear let s drop the subject", "symbols": ["I", "grandmother", "I", "dream_,_to", "yesterday", "S"]}
+{"text": "I am so worried about this English contest I have butterflies in my stomach now I have confidence in you Believe in yourself", "symbols": ["I", "english", "I", "butterfly", "in", "stomach", "now", "I", "in", "think_,_to", "in"]}
+{"text": "I m deeply grateful for all you Ve done You re welcome I enjoyed helping you", "symbols": ["I", "M", "deep", "I", "help_,_to"]}
+{"text": "Dont worry your baby is in my home How can I ever thank you I owe you a big favor", "symbols": ["baby", "in", "motor_home", "I", "I", "large"]}
+{"text": "Why aren t they are aware of the gravity of the situation Because they are rednecks", "symbols": ["T", "gravity"]}
+{"text": "I will take part in the finals soon Come on I stand behind you", "symbols": ["I", "take_,_to", "part", "in", "come_,_to", "on", "I", "stand_,_to", "behind"]}
+{"text": "I am sorry to make you run down to the office for me No trouble I enjoyed helping you", "symbols": ["I", "make_,_to", "run_,_to", "down", "I", "I", "help_,_to"]}
+{"text": "Thank for your help I owe you No sweat Think nothing of it", "symbols": ["help_,_to", "I", "think_,_to"]}
+{"text": "Thank you You do me a big favor That was a cake walkIt s nothing to speak of", "symbols": ["I", "large", "cake", "S", "talk_2_,_to"]}
+{"text": "I firmly believe that if we invested in funds we could earn a lot of money All wetYou are such a fool", "symbols": ["I", "think_,_to", "in", "stock", "money"]}
+{"text": "Look It fits you perfectly It looks great on you and has your name on it Really What about your opinion Daniel", "symbols": ["look_,_to", "look_,_to", "great", "on", "on", "what", "think_,_to"]}
+{"text": "I m so surprised to meet you in this remote village Long time no see Yeah How are you these days", "symbols": ["I", "M", "meet_,_to", "in", "long", "break_time_1", "saw", "day"]}
+{"text": "What s up You look so blue Unfortunately I missed a chance to see a classic movie", "symbols": ["what", "S", "up", "look_,_to", "blue", "I", "saw", "picture"]}
+{"text": "How about this opera given by the famous musician Fair to middling A little hard to appreciate", "symbols": ["give_,_to", "music", "middle", "little", "hard"]}
+{"text": "Yo GHow are you getting along with your classmates in the English training school Not bad Everything goes well", "symbols": ["get_,_to", "in", "train", "school", "bad", "go_,_to"]}
+{"text": "Yo baby are you satisfied with the costume show in the street It s hard to sayJust soso", "symbols": ["baby", "dress", "in", "S", "hard"]}
+{"text": "Honey how is by you Just so soThere are no exciting things for me", "symbols": ["honey", "I"]}
+{"text": "Did you listen to the weather forecast NoWhy There s a typhoon coming No way Yep it should be here by tomorrow night", "symbols": ["hear_,_to", "change_weather_,_to", "S", "come_,_to", "tomorrow", "night"]}
+{"text": "Sorry The car breaks down and it needs to be repaired Knock on wood But I have a very important date", "symbols": ["car", "break_2", "down", "want_,_to", "on", "wood", "I", "dates"]}
+{"text": "Last trip was very terrible I hope everything will be fine this time Don t blow it Trust me Everything will go well", "symbols": ["last_2", "I", "tea_time", "T", "blow_,_to", "I", "go_,_to"]}
+{"text": "Come on Don t cheat on me It s a long shot It s true You should be happy about that", "symbols": ["come_,_to", "on", "T", "cheat_,_to", "on", "I", "S", "long", "shoot_,_to", "S"]}
+{"text": "Do you want to try the new coffee here Great I ll have a shot", "symbols": ["want_,_to", "coffee", "I", "shoot_,_to"]}
+{"text": "Come on All of us are waiting for you Oh sorry Cross my fingers", "symbols": ["come_,_to", "on", "wait_,_to", "cross", "fingers"]}
+{"text": "When will we leave here I can t give you a definite answer Let s play it by ear", "symbols": ["left", "I", "T", "give_,_to", "answer", "S", "play_,_to", "ear"]}
+{"text": "Wish you have a blast Thank you See you", "symbols": ["want_,_to", "saw"]}
+{"text": "Oh my god What happened Are we dying Don t sweat it We will land safely", "symbols": ["what", "die_,_to", "T"]}
+{"text": "OK Everything is in the bag Excellent Let s set off", "symbols": ["in", "hand_bag", "S", "off"]}
+{"text": "Sorry I need a trip to the bog Please yourself", "symbols": ["I", "want_,_to"]}
+{"text": "Gucci you look serious I wish you d let your hair down Really OK I will try my best to be relaxed", "symbols": ["look_,_to", "I", "want_,_to", "dry_hair_2_,_to", "down", "I", "good", "relax_,_to"]}
+{"text": "Waiter come here please Could we have a doggie bag Sure Wait a moment", "symbols": ["serve_2_,_to", "come_,_to", "dog", "hand_bag", "wait_,_to"]}
+{"text": "I have a sweet tooth Chocolate is my favorite So how about you So do I", "symbols": ["I", "sweet", "tooth", "favourite", "I"]}
+{"text": "I can drink ten cups in fifteen minutes I m sure You You are full of hot air", "symbols": ["I", "drink_,_to", "ten", "measuring_cups", "in", "fifteen", "minute", "I", "M", "full", "hot"]}
+{"text": "I m so hungry Let me have a look at the menu We can pig out on potato chips and cookies They are very cheap", "symbols": ["I", "M", "hungry", "I", "look_,_to", "menu", "out", "on", "potato", "chips", "cook_,_to"]}
+{"text": "Why are you so angry darling Stop picking on me I am going to be mad", "symbols": ["pick_,_to", "on", "I", "I", "go_,_to"]}
+{"text": "Cheers Let s tie one on Right drink as much as you can", "symbols": ["S", "tie", "one", "on", "right", "drinks"]}
+{"text": "Merry Christmas Let s paint the town red Cheers", "symbols": ["S", "paint_,_to", "red"]}
+{"text": "Daniel Mind your eye I will mom Don t worry", "symbols": ["eye", "I", "T"]}
+{"text": "You have been staying at home for several days Would you like to hang out with me No problem Wait a moment", "symbols": ["motor_home", "day", "hang_,_to", "out", "I", "wait_,_to"]}
+{"text": "Do you have any more questions No sir Lets call it a day thenGood bye everyone Goodbye sir", "symbols": ["more", "day"]}
+{"text": "Hi Jack How are you doing Just sosoYou re doing all right Same old thingWhat about a drink No thanks", "symbols": ["right", "same", "drink_,_to"]}
+{"text": "It was good to see you here John Happy to see youtooMikeHow s your family Pretty goodThank you", "symbols": ["good", "saw", "saw", "S", "family", "pretty"]}
+{"text": "Whos calling please This is John What is it John I wonder if I can use your bike", "symbols": ["who", "what", "I", "I", "motorcycle"]}
+{"text": "May I know whos calling Hello this is David Glad to hear your voice David", "symbols": ["I", "who", "hello", "hear_,_to"]}
+{"text": "Arent you Jim Green Yes thats right I believe we met at a concert last year Im Taylor Oh yes I remember", "symbols": ["S", "right", "I", "think_,_to", "meet_,_to", "last_2", "I", "M", "I"]}
+{"text": "Jim I heard you got a promotion Yeah I m going to be running the Walker Avenue Branch Congratulations guy Thanks I appreciate it", "symbols": ["I", "hear_,_to", "get_,_to", "I", "go_,_to", "run_,_to", "guy", "I"]}
+{"text": "What What s up Our softball team is in the finals We re playing the McGrath office on Saturday Fantastic I ll be there", "symbols": ["what", "what", "S", "up", "ball", "in", "play_,_to", "on", "I"]}
+{"text": "Havent run into you for ages It really isYou Ve changed so much Really", "symbols": ["run_,_to", "change_,_to"]}
+{"text": "Hello Mary Oh hello Tom Beautiful day isn t it Yes it is", "symbols": ["hello", "hello", "day", "T"]}
+{"text": "Long time no see George Yes a very long time What brings you here Im here on vacation", "symbols": ["long", "break_time_1", "saw", "long", "break_time_1", "what", "bring_,_to", "I", "M", "on"]}
+{"text": "HiMike Hi Peter How are you Fine thanksAnd you Very well thanks", "symbols": []}
+{"text": "Small world isnt it Indeed it is I never imagined meeting you here Its really a surprise", "symbols": ["little", "world", "I", "think_,_to", "meet_,_to"]}
+{"text": "Fancy seeing you here Lily YeahWhat a surprise Hows everything going Finethanks", "symbols": ["saw", "go_,_to"]}
+{"text": "Dont I know you Im not sureYou look familiar Youre MrStevenson right YesAnd youre MrJones I remember", "symbols": ["I", "I", "M", "look_,_to", "right", "I"]}
+{"text": "Excuse me are you Mr Williams from America Yes I am Im Li Ming from CITS Glad to see you Glad to see you too", "symbols": ["I", "I", "I", "M", "saw", "saw"]}
+{"text": "Is the girl in red your girlfriend No she isnt My girlfriend hates red Whos she then A classmate of mine", "symbols": ["in", "red", "red", "who", "S"]}
+{"text": "Is his father a worker No he isnt Hes an engineer the most famous one in our company No wonder his son is so clever", "symbols": ["parents", "work_,_to", "S", "technology", "most", "one", "in", "son"]}
+{"text": "Whos the man that is kicking the boy Hes the poor kids father Does he often beat his son Yes very", "symbols": ["who", "S", "angry_man", "S", "parents", "crush_,_to", "son"]}
+{"text": "That mans really a bore to me Which one do you mean The man with his hair cropped", "symbols": ["I", "one", "angry_man", "short_hair"]}
+{"text": "Whos the champion in this picture Let me show you the one with curly hair Hes very handsome I think", "symbols": ["who", "S", "fight_,_to", "in", "picture", "I", "one", "curly_hair", "S", "handsome", "I", "think_,_to"]}
+{"text": "Which one of them is Marys brother The one with a very big nose Id like to meet himWill you introduce him to me OK", "symbols": ["one", "brother", "one", "large", "I", "D", "meet_,_to", "I"]}
+{"text": "Can you recognize Mikes father in the crowd Yes hes holding a bunch of books Lets run up and give him a hand", "symbols": ["parents", "in", "hold_,_to", "hair_bunches", "carry_books_,_to", "run_,_to", "up", "give_,_to", "right_hand"]}
+{"text": "May I ask whos the manager I am What can I do for you Ive something urgent to tell you Come on in please", "symbols": ["I", "ask_,_to", "who", "S", "coach", "I", "what", "I", "I", "come_,_to", "on", "in"]}
+{"text": "Is that boy standing there your brother NoMy brother is playing football there Hes really a good player Thank you for your compliments", "symbols": ["stand_,_to", "brother", "brother", "play_,_to", "football", "S", "good", "play_,_to"]}
+{"text": "You must be Mr White from Britain Yes may I know your name Im Michael Smith from Eale CorporationPleased to meet you", "symbols": ["I", "I", "M", "meet_,_to"]}
+{"text": "Whos it knocking at the door I think its the postmanWill you go and open the door All right Ill get it", "symbols": ["who", "knock_,_to", "door_2", "I", "think_,_to", "go_,_to", "open_2", "door_2", "right", "get_,_to"]}
+{"text": "I wonder who that man is Which man The one smoking a cigar Oh hes the coach of the football team", "symbols": ["I", "who", "angry_man", "angry_man", "one", "smoke_,_to", "smoke_,_to", "S", "coach", "football"]}
+{"text": "Would you like to introduce me to MrJohnson Yes Id like to thanks a lot", "symbols": ["I", "D"]}
+{"text": "Could you introduce to me the man over there CertainlyLet s to and meet him now Youre so kind", "symbols": ["I", "worried_man", "over", "S", "meet_,_to", "now"]}
+{"text": "Look whos here Peter Oh Tom I thought you were in Paris Just got backGood to see you Good to see you too", "symbols": ["look_,_to", "who", "S", "I", "think_,_to", "in", "get_,_to", "saw", "good", "saw"]}
+{"text": "Mary Barbara Whatre you doing here You live in London dont you Yes thats rightBut Im having a holiday here", "symbols": ["what", "in", "S", "I"]}
+{"text": "You may not remember meMy name is Joe Brown Yes of course Im Jimmy White Nice to see you again Same here", "symbols": ["I", "M", "saw", "same"]}
+{"text": "I dont think youve met my sister Mary No I havent had the pleasure Come and meet her now All right", "symbols": ["I", "think_,_to", "meet_,_to", "sister", "I", "come_,_to", "meet_,_to", "now", "right"]}
+{"text": "Linda do you know MrGreen No I dont think so Please meet him now Thanks", "symbols": ["I", "think_,_to", "meet_,_to", "now"]}
+{"text": "Here comes the bus Ill ring you up later See you See you", "symbols": ["come_,_to", "bus", "ring", "up", "after", "saw", "saw"]}
+{"text": "Cant you delay your return a little bit No I cant Ive really got important business Keep in touch then OK OK", "symbols": ["return_,_to", "little", "drill_bit", "I", "I", "get_,_to", "keep_,_to", "in", "touch_,_to"]}
+{"text": "Ill have to go now Drop in if youre freeBye for now See you", "symbols": ["go_,_to", "now", "in", "now", "saw"]}
+{"text": "So youre going picnicking Yeah Im going with Jennie Have a good day Thank you", "symbols": ["picnic", "I", "go_,_to", "good", "day"]}
+{"text": "Hello Bill How are things going Quite wellthank youAnd what about you SoSo", "symbols": ["hello", "go_,_to", "what"]}
+{"text": "Oh what a pleasant surprise Dont you remember me MrBlack if Im not mistaken Right Glad to see you here Pleased to see youtoo", "symbols": ["what", "I", "I", "right", "saw", "saw"]}
+{"text": "Hello MrsWhite Im Anne Nice to see you with us AnnePlease make yourself at home Thank youYou re so considerate", "symbols": ["hello", "I", "M", "saw", "make_,_to", "motor_home"]}
+{"text": "How are you doing Jim Fine just fineHow about you Not too bad", "symbols": ["bad"]}
+{"text": "Excuse me are you Jane No Im Mary Oh are you in Class Four No Im in Class There", "symbols": ["I", "I", "M", "in", "I", "M", "in"]}
+{"text": "How do you do How do you do My name is Jane GreenwoodGlad to meet you Im Mary SmithNice to meet you too", "symbols": ["meet_,_to", "I", "M", "meet_,_to"]}
+{"text": "Mary sings much better than Susan doesnt she YesBut Mary is no match for Susan in painting Maybe its because Susans parents are both painters", "symbols": ["sing_,_to", "in", "paint_,_to", "parents", "both", "paint_,_to"]}
+{"text": "Do you like travelling Yes I do Do you usually travel by bus No by train I think its much safer than bus", "symbols": ["travel", "I", "travel", "bus", "train", "I", "think_,_to", "bus"]}
+{"text": "Mike youre seventeen years old right Yeah Why You look quite mature beside your cousin who is eighteen You can bet on that", "symbols": ["seventeen", "right", "look_,_to", "who", "eighteen", "on"]}
+{"text": "Yesterday I read hamletsuch a fantastic book You said itNo one can match Shakespeare in artistic talent I do agree with you", "symbols": ["yesterday", "I", "read_2_,_to", "read_book_,_to", "one", "in", "art", "I"]}
+{"text": "Sally do you really need to go YeahIt s a must for me But dont forget to give me a ring I wont mum", "symbols": ["want_,_to", "go_,_to", "S", "I", "give_,_to", "I", "ring", "I"]}
+{"text": "Im leaving now mum Take care sonny I willBye bye Bye", "symbols": ["I", "left", "now", "take_,_to", "I"]}
+{"text": "Have some more tea George No thanks Ive really got to go now Have a nice day You too", "symbols": ["some", "more", "tea", "I", "get_,_to", "go_,_to", "now", "day"]}
+{"text": "Tom its time for you to go to bed Good night mum Good night", "symbols": ["break_time_1", "go_,_to", "make_the_bed_,_to", "good", "night", "good", "night"]}
+{"text": "Hotel front desk Hi Id like to leave a wakeup call For what time Please wake me up at 6 am", "symbols": ["front", "desk", "I", "D", "leaves", "bed_time", "wake_up_,_to", "I", "up"]}
+{"text": "What times your flight Its at 730 a m", "symbols": ["what", "clock", "fly", "M"]}
+{"text": "Front Desk Will you wake me up in the morning Yes what time would you like a wakeup call At 7 am sharp", "symbols": ["front", "desk", "wake_up_,_to", "I", "up", "in", "morning", "bed_time", "sharp"]}
+{"text": "Hi Helen Where are you going on this summer vacation Im going to Disneyland That sounds like fun", "symbols": ["go_,_to", "on", "summer", "I", "go_,_to", "play_,_to"]}
+{"text": "Hi Jane How are you doing this morning I m all right thanks Just a little tired Late night Yeah I got home around two", "symbols": ["morning", "I", "M", "right", "little", "night", "I", "get_,_to", "around", "two"]}
+{"text": "Hello Mr Macmillan Hi Susan How are you feeling today Much better thanks Glad to hear it", "symbols": ["hello", "today", "hear_,_to"]}
+{"text": "There are so many Chinese people in Vancouver The Chinatown in Vancouver is the second largest Chinatown in the North America", "symbols": ["in", "in", "second", "large", "in"]}
+{"text": "Do you know how the national flag of Canada looks like I dont know There is a maple leaf on the flag", "symbols": ["look_,_to", "I", "leaf", "on"]}
+{"text": "Most people in Montreal speak French Are there any people who speak English Only less than 20 percent of the citizens speak English", "symbols": ["most", "in", "talk_2_,_to", "who", "talk_2_,_to", "percent", "talk_2_,_to"]}
+{"text": "Do you have everything Lets see my ID card my passport and my suitcase Im pretty sure Ive got everything", "symbols": ["saw", "card", "passport", "suitcase_1", "I", "M", "pretty", "I", "get_,_to"]}
+{"text": "Whys the plane shaking Its just some turbulence Im scared Dont worry The pilot knows what hes doing", "symbols": ["plane", "shake_,_to", "I", "M", "helmet_pilot", "what"]}
+{"text": "Hurry up guys The train is about to leave Were coming", "symbols": ["up", "guy", "train", "left", "come_,_to"]}
+{"text": "Id like to check out Have you settled the bill No Id like to do that now OK 400 Yuan please", "symbols": ["I", "D", "out", "I", "D", "now"]}
+{"text": "May I show you to your room Ok Here let me help you with your bags Thanks", "symbols": ["I", "room", "I", "help_,_to", "bin_bags"]}
+{"text": "Excuse me Are you Mr Smith No Im not Oh Im so sorry That s all right", "symbols": ["I", "I", "M", "I", "M", "S", "right"]}
+{"text": "Wow this is the famous Empire State Building Its huge Would you like to go to the top Yes of course The view is breathtaking", "symbols": ["go_,_to", "top_2"]}
+{"text": "Look at these gorgeous paintings They are beautiful Why not take a picture Of course I will", "symbols": ["look_,_to", "paint_,_to", "take_,_to", "picture", "I"]}
+{"text": "Do you have anything to declare No I have nothing Are these all your personal things Yes they are Please open the black case OK", "symbols": ["I", "open_2", "black", "mobile_phone_case"]}
+{"text": "Excuse me would you mind changing seats with me Not at all Thank you Thats very kind of you Youre welcome", "symbols": ["I", "change_,_to", "I", "S"]}
+{"text": "I need a taxi to the airport It is unnecessary Ill see you off at the airport", "symbols": ["I", "want_,_to", "taxi", "saw", "off"]}
+{"text": "Miss the airconditioner in my room doesnt work Oh sorry about thatWe ll get it fixed as soon as we can", "symbols": ["in", "room", "work_,_to", "get_,_to"]}
+{"text": "Hello stewardess Could you bring me a blanket I feel so cold Sure anything else Id like a pillow as Well OK Here you are", "symbols": ["hello", "bring_,_to", "I", "blanket", "I", "I", "D", "cushion_2"]}
+{"text": "Good morning I would like to reserve a berth Which train do you like T112 to Washington please May I have your name Thats Lincoln", "symbols": ["good", "morning", "I", "train", "I", "S"]}
+{"text": "Do you have maps of downtown area Yes here you are How much is it Its free of charge Thanks so much", "symbols": ["play_area", "charge"]}
+{"text": "Which way is the dining car Two cars forward What time will breakfast be served 700 sir", "symbols": ["chair_dining", "car", "two", "car", "forward", "lunch_time", "breakfast_1", "serve_2_,_to"]}
+{"text": "Am I allowed to check out at 1400 Certainly Will there be any late charge Nosir If only you check out before 1500 Thank you", "symbols": ["I", "out", "charge", "out", "before"]}
+{"text": "Check out sir Yes would you please call me a taxi first No problemHow would you like to pay Credit card please Here you are", "symbols": ["out", "I", "taxi", "first", "card"]}
+{"text": "Do you like traveling by train or by plane I think I prefer train Its cheaper and safe", "symbols": ["travel", "train", "plane", "I", "think_,_to", "I", "train"]}
+{"text": "Could I have your name please Kevin Belknap How do you spell your last name BELKNAP Right Thank you very much", "symbols": ["I", "spell_,_to", "last_2", "right"]}
+{"text": "Would you like a smoking or nonsmoking room Nonsmoking please", "symbols": ["smoke_,_to", "room"]}
+{"text": "Do you have any luggage Yes a suitcase and carryon Heres your boarding pass Have a nice flight Thank you", "symbols": ["suitcase_1", "fly"]}
+{"text": "Good morning can I see your passport please Here you are For business or pleasure Business Thank you Have a pleasant stay", "symbols": ["good", "morning", "I", "saw", "passport"]}
+{"text": "Mr Smith how was your flight Rather nice What was the weather like in New York It was raining when I left New York", "symbols": ["fly", "what", "change_weather_,_to", "in", "rain", "I", "left"]}
+{"text": "Can I go to my room now Yes just follow the porter MrWilson Thank you sir", "symbols": ["I", "go_,_to", "room", "now"]}
+{"text": "Whats this city famous for Tea and silk Where can we have the famous tea Preferably at the big department stores Thank you", "symbols": ["what", "S", "fabric", "tea", "large", "shop"]}
+{"text": "Good evening sir I think we have reservations Have you fixed them Let me see Your name please My name is Paul Harper", "symbols": ["good", "day", "I", "think_,_to", "I", "saw"]}
+{"text": "How long would you stay sir Two nights Would you please fill in this registration form Ive finished", "symbols": ["long", "two", "night", "fill_2_,_to", "in", "I", "finish"]}
+{"text": "Could you fill in this form please All right Have you got any identification Yes heres my ID card", "symbols": ["fill_2_,_to", "in", "right", "get_,_to", "card"]}
+{"text": "Im checking out tomorrow What time must I vacate the room Before 12 a m I see Thank you", "symbols": ["I", "out", "tomorrow", "lunch_time", "I", "room", "before", "M", "I", "saw"]}
+{"text": "I have to check out today Id like my bill ready by 10 this morning You can be sure of that sir Thank you", "symbols": ["I", "out", "today", "D", "ready", "morning"]}
+{"text": "I have to check out now My name is Ruth Carson Can I have my bill please Yes its 167 Thank you", "symbols": ["I", "out", "now", "I"]}
+{"text": "Excuse meDoes this train go to Brooklyn Yes it does Do you know when it leaves I think it leaves at two thirty", "symbols": ["train", "go_,_to", "leaves", "I", "think_,_to", "leaves", "two", "thirty"]}
+{"text": "Whats the admission charge An allday pass is 30 dollars for adults and 20 for children Two adult passes please Thatll be 60 dollars", "symbols": ["what", "S", "charge", "paint_childs", "two"]}
+{"text": "I have a stomachache Well youd better lie down now You need a good rest All right Ill do that", "symbols": ["I", "stomach_ache", "down", "now", "want_,_to", "good", "rest_,_to", "right"]}
+{"text": "I feel dizzy and I have a headache How long have you been sick Since yesterday", "symbols": ["I", "I", "headache", "long", "yesterday"]}
+{"text": "There are prescriptions One second please All right here are your painkillers Thank you You are welcome", "symbols": ["one", "second", "right"]}
+{"text": "Which department do you want to register with I want to see a dentist Please pay the registration fee 10 Yuan OK thank you", "symbols": ["want_,_to", "I", "want_,_to", "saw"]}
+{"text": "Whats the matter with my throat doctor Your throat is inflamed Is it serious Dont worry its not serious You will get better soon", "symbols": ["what", "S", "throat", "throat", "get_,_to"]}
+{"text": "Okay so were agreed on 900 Im happy with that price Lets shake on it Okay lets shake on it", "symbols": ["on", "I", "M", "shake_,_to", "on", "shake_,_to", "on"]}
+{"text": "Did you take the job No Why not It involves a lot of travel", "symbols": ["take_,_to", "travel"]}
+{"text": "Look Bob hasnt made any progress on that project I see what you mean We should have a word with him Let me handle it", "symbols": ["look_,_to", "make_,_to", "on", "I", "saw", "what", "I"]}
+{"text": "Hi Bob I wont be in work tomorrow Why whats the problem I have a dentist appointment Okay", "symbols": ["I", "in", "work_,_to", "tomorrow", "what", "S", "I"]}
+{"text": "Bob What are you thinking about Im thinking about that idea we talked about Do you think itll work Im not sure", "symbols": ["what", "think_,_to", "I", "think_,_to", "think_,_to", "talk_2_,_to", "think_,_to", "work_,_to", "I", "M"]}
+{"text": "Can you work over tonight Sorry Im supposed to be with my son Okay Ill ask Bob to cover it Thanks I appreciate it", "symbols": ["work_,_to", "over", "I", "think_,_to", "son", "ask_,_to", "I"]}
+{"text": "I thought about what you said And what did you decide I decided that youre right Im glad you saw the reason", "symbols": ["I", "think_,_to", "what", "what", "I", "right", "I", "M", "saw"]}
+{"text": "Im tired Okay lets call it a day", "symbols": ["I", "M", "day"]}
+{"text": "Bob was late for work this morning Has he been late before Yes once last week Thanks for letting me know", "symbols": ["work_,_to", "morning", "before", "last_2", "week_1", "I"]}
+{"text": "Maybe you should have told me first Why Because were partners I realize that but I needed to make a decision", "symbols": ["I", "first", "partner", "I", "I", "want_,_to", "make_,_to", "pick_,_to"]}
+{"text": "May I help you Yes Im looking for Bob Hes in a meeting with Phil No problem I can wait", "symbols": ["I", "help_,_to", "I", "look_,_to", "S", "in", "meet_,_to", "I", "wait_,_to"]}
+{"text": "What is this for Its the key for the safety deposit box Okay thanks Youre welcome glad to be of assistance", "symbols": ["what", "key_2", "box_,_to", "help_,_to"]}
+{"text": "Were having trouble with Bob Whats the problem Hes been late for work twice Okay Ill speak to him", "symbols": ["what", "S", "work_,_to", "talk_2_,_to"]}
+{"text": "This is our best product How long will it take to make five hundred Theyll be done before the end of the week Good", "symbols": ["good", "long", "take_,_to", "make_,_to", "five", "hundred", "before", "book_end", "week_1", "good"]}
+{"text": "What post have you held before I have been a salesman How many places have you worked altogether", "symbols": ["what", "hold_,_to", "I", "how_many", "work_,_to", "whole"]}
+{"text": "I fired Mr Li today Thats terrible", "symbols": ["I", "fire", "today", "S"]}
+{"text": "Have you finished that report yet No Im still working on it How much time do you need Give me one more day", "symbols": ["finish", "I", "work_,_to", "on", "bed_time", "want_,_to", "give_,_to", "I", "one", "more", "day"]}
+{"text": "Why are you quitting Ive had enough", "symbols": ["I", "enough"]}
+{"text": "Tom Please do not disturb me for the next hour Are you having a meeting Yes and I dont want to be interrupted I understand", "symbols": ["I", "next", "one_hour", "meet_,_to", "I", "want_,_to", "I"]}
+{"text": "John Lis Office this is Jenny may I help you Is Mr Li in Yes but let me check if hes available Ok", "symbols": ["I", "help_,_to", "in", "I", "S"]}
+{"text": "Beauties Picture how may I help you I need to speak with David Lin Hes out of his office Thank you Ill try again later", "symbols": ["I", "help_,_to", "I", "want_,_to", "talk_2_,_to", "S", "out", "after"]}
+{"text": "May I speak to Marry Shes in a meeting until noon Ok Ill try her back then Ok thank you", "symbols": ["I", "talk_2_,_to", "S", "in", "meet_,_to", "back_1"]}
+{"text": "The client youre meeting tomorrow likes to ask a lot of questions so you have to be well prepared I see", "symbols": ["meet_,_to", "tomorrow", "ask_,_to", "I", "saw"]}
+{"text": "Amy could you help me with this work Sorry Im busy Why dont you ask Alice Okay", "symbols": ["help_,_to", "I", "work_,_to", "I", "M", "busy", "ask_,_to"]}
+{"text": "Were going to have to postpone the meeting Why Mr Chen cant make it today", "symbols": ["go_,_to", "meet_,_to", "make_,_to", "today"]}
+{"text": "Are you doing the job the way I suggested No I think I didnt like your method Well have it your way", "symbols": ["I", "I", "think_,_to", "I"]}
+{"text": "Could you type up this document for me Sandra Sure but I have to finish this report first Never mind Ill do it", "symbols": ["type_,_to", "up", "new_document", "I", "I", "finish", "first"]}
+{"text": "I think your presentation impressed the client Daniel You did a good job Thank you Mr Cooper I hope we get the contract", "symbols": ["I", "think_,_to", "present", "good", "I", "get_,_to"]}
+{"text": "Marco has fallen off a ladder I think hes hurt his back What shall we do Wed better not move him Ill get the firstaider", "symbols": ["off", "I", "think_,_to", "back_1", "what", "D", "move_,_to", "get_,_to"]}
+{"text": "Marriott Street How do you spell that M A double R I O double T Right Got that", "symbols": ["spell_,_to", "R", "I", "O", "T", "right", "get_,_to"]}
+{"text": "Its the Cygnet Trust Could you spell that please Of course C Y G N E T Cygnet OK Ive got that", "symbols": ["spell_,_to", "C", "N", "E", "T", "I", "get_,_to"]}
+{"text": "Good morning Elly company Good morning Could I speak to someone in the sales department please Hold on please Thanks", "symbols": ["good", "morning", "good", "morning", "I", "talk_2_,_to", "in", "hold_,_to", "on"]}
+{"text": "How was your flight from Hong Kong Okay What time is the meeting tomorrow 1030 Ill pick you up at the hotel at 1000 1030", "symbols": ["fly", "bed_time", "meet_,_to", "tomorrow", "pick_,_to", "up"]}
+{"text": "Weve been discussing the project for two hours Lets take a break Sounds good I want to go get some coffee", "symbols": ["two", "one_hour", "take_,_to", "break_2", "good", "I", "want_,_to", "go_,_to", "get_,_to", "coffee"]}
+{"text": "MrChen do you mind if I smoke Im sorry Mrs Lin We dont allow smoking in the office", "symbols": ["I", "smoke_,_to", "I", "M", "smoke_,_to", "in"]}
+{"text": "Mr Anderson the boss wants to see you Im on my way", "symbols": ["want_,_to", "saw", "I", "M", "on"]}
+{"text": "Why isnt the project done yet How should I know Its not my responsibility", "symbols": ["I"]}
+{"text": "Mr Smith just called me back So We got the contract All right", "symbols": ["I", "back_1", "get_,_to", "right"]}
+{"text": "I had a job interview this morning Really How did it go Pretty well I think", "symbols": ["I", "morning", "go_,_to", "pretty", "I", "think_,_to"]}
+{"text": "Were sorry but we cannot allow your claim Why not The material was not damaged by us Well have to talk this over some more", "symbols": ["talk_2_,_to", "over", "some", "more"]}
+{"text": "Where do you work I work at a hospital Are you a doctor No Im a nurse", "symbols": ["work_,_to", "I", "work_,_to", "I", "M"]}
+{"text": "Will you introduce me to the new colleague Havent you met yet No we havent Ill be glad to do it", "symbols": ["I", "meet_,_to"]}
+{"text": "Who will meet you at the airport No one Oh then I will arrange one of my staff to meet you at the airport", "symbols": ["who", "meet_,_to", "one", "I", "one", "meet_,_to"]}
+{"text": "You look upset anything wrong Im going to quit the job Why The task is tough Youd look before you leap Thanks for your concern", "symbols": ["look_,_to", "I", "go_,_to", "work_,_to", "look_,_to", "jump_,_to"]}
+{"text": "My name is Helen Levin Im the HR director of our company Miss Levin Nice to meet you Nice to meet you too", "symbols": ["I", "M", "meet_,_to", "meet_,_to"]}
+{"text": "We hope that our cooperation will continue Of course We both experienced a good cooperation We do think so", "symbols": ["keep_,_to", "both", "good", "think_,_to"]}
+{"text": "This is your schedule Youre going out of your way for us I believe You are our honored guests", "symbols": ["go_,_to", "out", "I", "think_,_to"]}
+{"text": "Mr Smith welcome to our factory Ive been looking forward to visiting your factory Youll know our products better after this visit", "symbols": ["I", "look_,_to", "forward", "visit_,_to", "after", "visit_,_to"]}
+{"text": "Mr Smith this is your schedule OK Let me see Do you have any different ideas", "symbols": ["I", "saw", "think_,_to"]}
+{"text": "Whats that These drawings on the wall are process sheets Oh They describe how each process goes on to the next", "symbols": ["what", "S", "draw_,_to", "on", "wall", "operation", "operation", "go_,_to", "on", "next"]}
+{"text": "Who is on duty I am sir Your duty is to keep a check on those prisoners from now on Yes sir", "symbols": ["who", "on", "I", "keep_,_to", "on", "now", "on"]}
+{"text": "Could I have a word with you Sure what is it I am disappointed with your work lately Im sorry Ive been having some problems", "symbols": ["I", "what", "I", "work_,_to", "I", "M", "I"]}
+{"text": "Please switch work shifts with me I would if I could Why cant you Because I have other obligations", "symbols": ["turn_,_to", "work_,_to", "I", "I", "I", "I"]}
+{"text": "What kind of job do you think I should get It all depends on what you want to accomplish in your life", "symbols": ["what", "think_,_to", "I", "get_,_to", "count_,_to", "on", "what", "want_,_to", "in"]}
+{"text": "Why didnt you sign the contract Because that companys behavior is not in accordance with international law", "symbols": ["sign_,_to", "in"]}
+{"text": "The numbers in this table dont seem to be in accord with reality I know but these are the figures that we came up with", "symbols": ["mobile_phone_number", "in", "table", "in", "world", "I", "fig", "come_,_to", "up"]}
+{"text": "When should I make my presence known Wait for my instructions and then proceed accordingly", "symbols": ["I", "make_,_to", "wait_,_to"]}
+{"text": "Why are you holding me in this jail cell Wed like to hear your account of the events of last night", "symbols": ["hold_,_to", "I", "in", "D", "hear_,_to", "last_2", "night"]}
+{"text": "Yes Mr Emory I need the number for John Reese s office Just one moment sir Here you are 7674512", "symbols": ["I", "want_,_to", "mobile_phone_number", "S", "one"]}
+{"text": "Lets sell our stocks now Why They keep going up I have a feeling theyre about to go down in a few days", "symbols": ["stock", "now", "keep_,_to", "go_,_to", "up", "I", "go_,_to", "down", "in", "day"]}
+{"text": "Id like to open an account please Would you like a savings or a chequing account Savings please RightCould you fill out this form please", "symbols": ["I", "D", "open_2", "fill_2_,_to", "out"]}
+{"text": "Good morning madam Good morning May I help you Yes I want to change some money This way please Thank you Youre welcome", "symbols": ["good", "morning", "morning", "I", "help_,_to", "I", "want_,_to", "change_,_to", "money"]}
